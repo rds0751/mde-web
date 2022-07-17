@@ -100,24 +100,29 @@ WSGI_APPLICATION = 'Epatient.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
-DATABASES = {
-    # 'default': {
-    #      'ENGINE': 'django.db.backends.mysql',
-    #      'NAME': 'epatient',
-    #      'USER':'root',
-    #      'PASSWORD':'',
-    #      'PORT':'3306',
-    #      'OPTIONS': {
-    #          'charset': 'utf8',
-    #         'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
-    #     }
-    # }
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    }
-}
+# DATABASES = {
+#     # 'default': {
+#     #      'ENGINE': 'django.db.backends.mysql',
+#     #      'NAME': 'epatient',
+#     #      'USER':'root',
+#     #      'PASSWORD':'',
+#     #      'PORT':'3306',
+#     #      'OPTIONS': {
+#     #          'charset': 'utf8',
+#     #         'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
+#     #     }
+#     # }
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#     }
+# }
 
+import dj_database_url
+DATABASES = {
+    'default': dj_database_url.config(
+        default='postgres://dbmasteruser:pb2d80740f512c8cb41341e3291ed05b6b3d480a@ls-121a5f7bfe57dbd03ae7d2ff2d524ee089668937.cj3aqgbeqpu0.ap-southeast-1.rds.amazonaws.com:5432/postgres',
+        conn_max_age=600)}
 
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
