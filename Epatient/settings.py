@@ -28,7 +28,8 @@ SECRET_KEY = 'h&)l@583e2$cp0uiv#i+th17(b+m4z_1=k2pyuv^4cdpx*jisu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['e-patient.co',u'e-patient.co','159.89.220.187','localhost']
+# ALLOWED_HOSTS = ['e-patient.co',u'e-patient.co','159.89.220.187','localhost']
+ALLOWED_HOSTS = ['*']
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 # Application definition
@@ -45,6 +46,8 @@ INSTALLED_APPS = [
     'main',
     'content',
     'accounts',
+    'rest_framework',
+    'rest_framework.authtoken',
 ]
 
 MIDDLEWARE = [
@@ -57,6 +60,18 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'Epatient.middleware.LoginRequiredMiddleware'
 ]
+
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework_simplejwt.authentication.JWTAuthentication',
+    ],
+    'DEFAULT_PERMISSION_CLASSES': (
+        'rest_framework.permissions.IsAuthenticated',
+    ),
+    'DEFAULT_PARSER_CLASSES': (
+        'rest_framework.parsers.JSONParser',
+    )
+}
 
 ROOT_URLCONF = 'Epatient.urls'
 
@@ -86,16 +101,20 @@ WSGI_APPLICATION = 'Epatient.wsgi.application'
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
 DATABASES = {
+    # 'default': {
+    #      'ENGINE': 'django.db.backends.mysql',
+    #      'NAME': 'epatient',
+    #      'USER':'root',
+    #      'PASSWORD':'',
+    #      'PORT':'3306',
+    #      'OPTIONS': {
+    #          'charset': 'utf8',
+    #         'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
+    #     }
+    # }
     'default': {
-         'ENGINE': 'django.db.backends.mysql',
-         'NAME': 'epatient',
-         'USER':'root',
-         'PASSWORD':'',
-         'PORT':'3306',
-         'OPTIONS': {
-             'charset': 'utf8',
-            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
-        }
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
 
@@ -142,7 +161,13 @@ LOGIN_EXEMPT_URLS = (
     'verify',
     'resend-code',
     'verify-email',
+    'api/login/',
+    'api/refresh/',
+    'api/logout/',
+    'api/register/',
 )
+
+USERNAME_FIELD = 'Email'
 
 
 # Internationalization
@@ -150,7 +175,7 @@ LOGIN_EXEMPT_URLS = (
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Kolkata'
 
 USE_I18N = True
 

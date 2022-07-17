@@ -4,7 +4,7 @@ from django.db import models
 from datetime import date
 
 
-class Appointment(models.Model):            #appointment model
+class Appointment(models.Model):
     PENDING = 'P'
     ACCEPTED = 'A'
     REJECTED = 'R'
@@ -24,21 +24,18 @@ class Appointment(models.Model):            #appointment model
     status = models.CharField(max_length = 2, choices = STATUS_CHOICES, default = PENDING)
     pub_date = models.DateTimeField(auto_now_add=True)
 
-class Problem(models.Model):                #Problem model
+class Problem(models.Model):
     user_id = models.IntegerField()
-    doctor_id = models.IntegerField()
     description = models.TextField()
     pub_date = models.DateField(auto_now_add=True)
 
-class Medication(models.Model):             #Medication model
+class Medication(models.Model):
     ACUTE = 'A'
     REPEAT = 'R'
     STATUS_CHOICES = (
         (ACUTE, 'acute'),
         (REPEAT,'repeat'),
     )
-
-
     user_id = models.IntegerField()
     doctor_id = models.IntegerField()
     description = models.TextField()
