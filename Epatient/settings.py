@@ -158,7 +158,7 @@ LOGIN_REDIRECT_URL = 'main:index'
 LOGIN_URL = 'accounts:sign_in'
 
 LOGIN_EXEMPT_URLS = (
-    '',
+    'api/dashboard/',
     'sign-in',
     'sign-out',
     'sign-up',

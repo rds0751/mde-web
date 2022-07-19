@@ -5,7 +5,8 @@ from rest_framework.response import Response
 from rest_framework.authtoken.models import Token
 from rest_framework import status
 from rest_framework.views import APIView
-from api.serializers import CreateUserSerializer
+from rest_framework.permissions import IsAuthenticated
+from api.serializers import CreateUserSerializer, UserSerializer
 
 
 class CreateUserAPIView(CreateAPIView):
@@ -26,12 +27,14 @@ class CreateUserAPIView(CreateAPIView):
             headers=headers
         )
 
-class DoctorDashboard(CreateAPIView):
-    permission_classes = [AllowAny]
+class UserDashboard(APIView):
+    permission_classes = [IsAuthenticated, ]
 
-    def get(self):
-        user = self.request.user
-        return user.username
+    def post(self, request):
+        user = request.user
+        items = get_user_model().objects.get(username=user)
+        serializer = UserSerializer(items)
+        return Response(serializer.data)
 
 
 class LogoutUserAPIView(APIView):

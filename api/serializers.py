@@ -1,3 +1,4 @@
+from statistics import mode
 from django.contrib.auth import get_user_model
 from rest_framework import serializers
 
@@ -18,3 +19,9 @@ class CreateUserSerializer(serializers.ModelSerializer):
         user.set_password(validated_data['password'])
         user.save()
         return user
+
+
+class UserSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = get_user_model()
+        fields = '__all__'
