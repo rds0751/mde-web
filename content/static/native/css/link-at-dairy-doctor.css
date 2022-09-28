@@ -1,0 +1,107 @@
+/* screen - link-at-dairy-doctor */
+
+.link-at-dairy-doctor {
+  background-color: var(--white);
+  height: 736px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.link-at-dairy-doctor .rectangle-128-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  height: 33px;
+  left: 22px;
+  position: absolute;
+  top: 95px;
+  width: 384px;
+}
+
+.link-at-dairy-doctor .search-for-doctor-names-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.link-at-dairy-doctor .icon-feather-search-C61RwL {
+  background-color: transparent;
+  height: 15px;
+  left: 373px;
+  position: absolute;
+  top: 104px;
+  width: 15px;
+}
+
+.link-at-dairy-doctor .path-100-OURrHb {
+  background-color: transparent;
+  height: 13px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.link-at-dairy-doctor .path-101-OURrHb {
+  background-color: transparent;
+  bottom: -1px;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 9px;
+}
+
+.link-at-dairy-doctor .add-a-doctor-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 159px;
+  letter-spacing: 0.36px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.link-at-dairy-doctor .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 31px;
+  width: 21px;
+}
+
+.link-at-dairy-doctor .path-159-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.link-at-dairy-doctor .path-160-d9Ofuj {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}

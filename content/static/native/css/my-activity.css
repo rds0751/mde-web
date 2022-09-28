@@ -1,0 +1,611 @@
+/* screen - my-activity */
+
+.my-activity {
+  background-color: var(--white);
+  height: 906px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.my-activity .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 31px;
+  width: 21px;
+}
+
+.my-activity .path-234-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-activity .path-235-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.my-activity .all-reminders-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity .x1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 22px;
+  position: absolute;
+  top: 147px;
+  width: 384px;
+}
+
+.my-activity .path-236-GML0ip {
+  background-color: transparent;
+  height: calc(100.00% + 15px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .medication-GML0ip {
+  background-color: transparent;
+  height: 30px;
+  left: calc(32.46% - 38px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: calc(103.57% - 31px);
+  white-space: nowrap;
+  width: 116px;
+}
+
+.my-activity .capsule-GML0ip {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  width: 36px;
+}
+
+.my-activity .x1-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 22px;
+  position: absolute;
+  top: 210px;
+  width: 384px;
+}
+
+.my-activity .path-236-JOlYDj {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .vital-measurement-JOlYDj {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  left: calc(46.28% - 91px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.my-activity .capsule-JOlYDj {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 36px;
+}
+
+.my-activity .x1-mzXdH9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 22px;
+  position: absolute;
+  top: 273px;
+  width: 384px;
+}
+
+.my-activity .path-236-UOZjum {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .general-physical-exercise-UOZjum {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 37px;
+  text-align: center;
+  white-space: nowrap;
+  width: 260px;
+}
+
+.my-activity .capsule-UOZjum {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 36px;
+}
+
+.my-activity .x1-QxM5SU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 22px;
+  position: absolute;
+  top: 336px;
+  width: 384px;
+}
+
+.my-activity .path-236-FR7Oji {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .health-screening-FR7Oji {
+  background-color: transparent;
+  height: 30px;
+  left: calc(41.83% - 74px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: calc(125.00% - 38px);
+  white-space: nowrap;
+  width: 176px;
+}
+
+.my-activity .capsule-FR7Oji {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+
+.my-activity .x1-2P4qUJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 50px;
+  left: 22px;
+  position: absolute;
+  top: 394px;
+  width: 384px;
+}
+
+.my-activity .path-236-R1Alax {
+  background-color: transparent;
+  height: calc(100.00% + 9px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .diet-R1Alax {
+  background-color: transparent;
+  bottom: calc(2.50% - 1px);
+  height: 30px;
+  left: calc(25.44% - 11px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.my-activity .capsule-R1Alax {
+  background-color: transparent;
+  height: 100%;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.my-activity .x1-qr8e7q {
+  background-color: transparent;
+  height: 40px;
+  left: 22px;
+  position: absolute;
+  top: 467px;
+  width: 384px;
+}
+
+.my-activity .path-236-j4Exl8 {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .medication-j4Exl8 {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  left: calc(32.46% - 38px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.my-activity .capsule-j4Exl8 {
+  background-color: transparent;
+  bottom: 4px;
+  height: 28px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  width: 28px;
+}
+
+.my-activity .x1-J1YQmd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 22px;
+  position: absolute;
+  top: 462px;
+  width: 384px;
+}
+
+.my-activity .path-236-2TKLLE {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .relaxation-2TKLLE {
+  background-color: transparent;
+  height: 30px;
+  left: calc(32.85% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: calc(125.00% - 38px);
+  white-space: nowrap;
+  width: 110px;
+}
+
+.my-activity .capsule-2TKLLE {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 36px;
+}
+
+.my-activity .x1-a5WPlX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 22px;
+  position: absolute;
+  top: 530px;
+  width: 384px;
+}
+
+.my-activity .path-236-jQv640 {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .sleep-routine-jQv640 {
+  background-color: transparent;
+  height: 30px;
+  left: calc(35.25% - 49px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: calc(125.00% - 38px);
+  white-space: nowrap;
+  width: 140px;
+}
+
+.my-activity .capsule-jQv640 {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 36px;
+}
+
+.my-activity .x1-HlKRTo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 21px;
+  position: absolute;
+  top: 593px;
+  width: 384px;
+}
+
+.my-activity .path-236-4TjyRZ {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .drink-water-4TjyRZ {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  left: calc(33.21% - 41px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 122px;
+}
+
+.my-activity .capsule-4TjyRZ {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 36px;
+}
+
+.my-activity .x1-VkPPtx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 22px;
+  position: absolute;
+  top: 656px;
+  width: 384px;
+}
+
+.my-activity .path-236-W9aOuX {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .mental-health-W9aOuX {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  left: calc(35.83% - 52px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.my-activity .capsule-W9aOuX {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 36px;
+}
+
+.my-activity .x1-YWzA7M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 22px;
+  position: absolute;
+  top: 719px;
+  width: 384px;
+}
+
+.my-activity .path-236-ACyRsb {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .therapy-ACyRsb {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  left: calc(29.19% - 25px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.my-activity .capsule-ACyRsb {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 36px;
+}
+
+.my-activity .x1-3kIbHG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 22px;
+  position: absolute;
+  top: 782px;
+  width: 384px;
+}
+
+.my-activity .path-236-YbiPcX {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .consult-your-doctor-YbiPcX {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  left: calc(48.33% - 99px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 204px;
+}
+
+.my-activity .capsule-YbiPcX {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+
+.my-activity .x1-a73nmY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 22px;
+  position: absolute;
+  top: 845px;
+  width: 384px;
+}
+
+.my-activity .path-236-0dTRie {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 18px);
+}
+
+.my-activity .home-remedy-0dTRie {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  left: calc(37.50% - 57px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.my-activity .capsule-0dTRie {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}

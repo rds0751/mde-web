@@ -1,0 +1,213 @@
+/* screen - my-orders */
+
+.my-orders {
+  background-color: var(--white);
+  height: 734px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.my-orders .path-135-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 203px;
+  width: 427px;
+}
+
+.my-orders .my-orders-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-orders .for-any-queries-or-u-C61RwL {
+  background-color: transparent;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-orders .span0-PoGDE3 {
+}
+
+.my-orders .span1-PoGDE3 {
+}
+
+.my-orders .span2-PoGDE3 {
+}
+
+.my-orders .span3-PoGDE3 {
+}
+
+.my-orders .scroll-group-6-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.my-orders .scroll-group-6-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 177px;
+  width: 428px;
+}
+
+.my-orders .scrool-my-orders-qbl025 {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 562px;
+}
+
+.my-orders .all-orders-sFBni5 {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.my-orders .device-sFBni5 {
+  background-color: transparent;
+  height: 23px;
+  left: calc(16.93% - 9px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.my-orders .health-wellness-sFBni5 {
+  background-color: transparent;
+  height: 23px;
+  left: calc(35.38% - 48px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 136px;
+}
+
+.my-orders .lab-test-sFBni5 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  right: calc(40.28% - 25px);
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.my-orders .medicine-sFBni5 {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  right: calc(24.08% - 17px);
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 70px;
+}
+
+.my-orders .subscription-sFBni5 {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.my-orders .you-havent-ordered-anything-yet-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 506px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-orders .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 23px;
+  position: absolute;
+  top: 30px;
+  width: 21px;
+}
+
+.my-orders .path-140-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-orders .path-141-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}

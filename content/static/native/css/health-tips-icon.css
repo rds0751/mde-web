@@ -1,0 +1,1015 @@
+/* screen - health-tips-icon */
+
+.health-tips-icon {
+  background-color: var(--white);
+  height: 1282px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.health-tips-icon .group-8-C61RwL {
+  background-color: transparent;
+  height: 591px;
+  left: 20px;
+  position: absolute;
+  top: 115px;
+  width: 384px;
+}
+
+.health-tips-icon .d4-removebg-preview-3cZhlu {
+  background-color: transparent;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 51px;
+  top: 8px;
+  width: 90px;
+}
+
+.health-tips-icon .d_1-removebg-preview-3cZhlu {
+  background-color: transparent;
+  height: 106px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100px;
+}
+
+.health-tips-icon .d2-removebg-preview-3cZhlu {
+  background-color: transparent;
+  height: 100px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(28.92% - 29px);
+  width: 178px;
+}
+
+.health-tips-icon .d3-removebg-preview-3cZhlu {
+  background-color: transparent;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 36px;
+  top: calc(29.34% - 26px);
+  width: 119px;
+}
+
+.health-tips-icon .schizophrenia-3cZhlu {
+  background-color: transparent;
+  height: 19px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.54% - 4px);
+  white-space: nowrap;
+  width: 98px;
+}
+
+.health-tips-icon .depression-3cZhlu {
+  background-color: transparent;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(18.45% - 14px);
+  text-align: left;
+  top: calc(20.54% - 4px);
+  white-space: nowrap;
+  width: 75px;
+}
+
+.health-tips-icon .anxiety-disorder-3cZhlu {
+  background-color: transparent;
+  height: 19px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.79% - 8px);
+  white-space: nowrap;
+  width: 114px;
+}
+
+.health-tips-icon .post-traumatic-stress-3cZhlu {
+  background-color: transparent;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 17px;
+  text-align: left;
+  top: calc(43.79% - 8px);
+  white-space: nowrap;
+  width: 156px;
+}
+
+.health-tips-icon .group-7-3cZhlu {
+  background-color: transparent;
+  bottom: 0px;
+  height: 299px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.health-tips-icon .rectangle-44-d71PT4 {
+  background-color: var(--white);
+  border: 3px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .most-people-experien-d71PT4 {
+  background-color: transparent;
+  height: 63px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(30.72% - 19px);
+  white-space: nowrap;
+  width: calc(100.00% - 36px);
+}
+
+.health-tips-icon .when-to-consult-a-psychologist-d71PT4 {
+  background-color: transparent;
+  height: 27px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  white-space: nowrap;
+  width: 300px;
+}
+
+.health-tips-icon .icon-feather-send-d71PT4 {
+  background-color: transparent;
+  bottom: calc(28.62% - 9px);
+  height: 30px;
+  position: absolute;
+  right: calc(49.72% - 15px);
+  width: 30px;
+}
+
+.health-tips-icon .path-26-ubm36N {
+  background-color: transparent;
+  height: 19px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  width: 19px;
+}
+
+.health-tips-icon .path-27-ubm36N {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.health-tips-icon .icon-ionic-ios-heart-empty-d71PT4 {
+  background-color: transparent;
+  bottom: calc(28.75% - 8px);
+  height: 28px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  width: 29px;
+}
+
+.health-tips-icon .x08-sep-2022-d71PT4 {
+  background-color: transparent;
+  bottom: calc(44.02% - 10px);
+  height: 23px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.health-tips-icon .x1354-likes-d71PT4 {
+  background-color: transparent;
+  bottom: 36px;
+  height: 27px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.health-tips-icon .x401-shares-d71PT4 {
+  background-color: transparent;
+  bottom: 36px;
+  height: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(49.48% - 48px);
+  text-align: left;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.health-tips-icon .save-d71PT4 {
+  background-color: transparent;
+  bottom: 36px;
+  height: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 25px;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.health-tips-icon .path-28-d71PT4 {
+  background-color: transparent;
+  bottom: calc(28.47% - 9px);
+  height: 30px;
+  object-fit: cover;
+  position: absolute;
+  right: 34px;
+  width: 30px;
+}
+
+.health-tips-icon .group-9-C61RwL {
+  background-color: transparent;
+  height: 442px;
+  left: 22px;
+  position: absolute;
+  top: 744px;
+  width: 384px;
+}
+
+.health-tips-icon .path-65-9dtg3L {
+  background-color: transparent;
+  bottom: 1px;
+  height: 255px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.health-tips-icon .alprazolam-commonly-9dtg3L {
+  background-color: transparent;
+  bottom: calc(38.63% - 24px);
+  height: 63px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 46px);
+}
+
+.health-tips-icon .can-alprazolam-help-depression-9dtg3L {
+  background-color: transparent;
+  height: 27px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.31% - 13px);
+  white-space: nowrap;
+  width: 312px;
+}
+
+.health-tips-icon .icon-feather-send-9dtg3L {
+  background-color: transparent;
+  bottom: 62px;
+  height: 30px;
+  left: calc(49.79% - 15px);
+  position: absolute;
+  width: 30px;
+}
+
+.health-tips-icon .path-26-CwygY0 {
+  background-color: transparent;
+  height: 19px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  width: 19px;
+}
+
+.health-tips-icon .path-27-CwygY0 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.health-tips-icon .icon-ionic-ios-heart-empty-9dtg3L {
+  background-color: transparent;
+  bottom: 64px;
+  height: 28px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  width: 29px;
+}
+
+.health-tips-icon .x08-sep-2022-9dtg3L {
+  background-color: transparent;
+  bottom: calc(26.41% - 6px);
+  height: 23px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.health-tips-icon .x1354-likes-9dtg3L {
+  background-color: transparent;
+  bottom: 24px;
+  height: 27px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.health-tips-icon .x401-shares-9dtg3L {
+  background-color: transparent;
+  bottom: 24px;
+  height: 27px;
+  left: calc(49.93% - 48px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.health-tips-icon .save-9dtg3L {
+  background-color: transparent;
+  bottom: 24px;
+  height: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 28px;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.health-tips-icon .tablet-1-9dtg3L {
+  background-color: transparent;
+  height: 162px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 242px;
+}
+
+.health-tips-icon .path-28-9dtg3L {
+  background-color: transparent;
+  bottom: 62px;
+  height: 30px;
+  object-fit: cover;
+  position: absolute;
+  right: 37px;
+  width: 30px;
+}
+
+.health-tips-icon .health-tips-C61RwL {
+  background-color: transparent;
+  height: 92px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 736px;
+}
+
+.health-tips-icon .rectangle-72-AbTPl9 {
+  background-color: var(--white);
+  height: calc(100.00% - 6px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 428px;
+}
+
+.health-tips-icon .icon-ionic-md-arrow-back-AbTPl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(41.67% - 8px);
+  width: 20px;
+}
+
+.health-tips-icon .group-11-AbTPl9 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 24px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 25px);
+}
+
+.health-tips-icon .group-72-Bkl65t {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  width: 40px;
+}
+
+.health-tips-icon .rectangle-61-s9jbMk {
+  background-color: var(--black);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .all-s9jbMk {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(43.48% - 7px);
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.health-tips-icon .group-70-Bkl65t {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 45px;
+  position: absolute;
+  width: 45px;
+}
+
+.health-tips-icon .rectangle-62-NJDZgH {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .saved-NJDZgH {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: 4px;
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.health-tips-icon .group-71-Bkl65t {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: calc(28.02% - 11px);
+  position: absolute;
+  width: 40px;
+}
+
+.health-tips-icon .rectangle-65-QdcBao {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .diet-QdcBao {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(44.44% - 10px);
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+
+.health-tips-icon .group-68-Bkl65t {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: calc(35.79% - 21px);
+  position: absolute;
+  width: 60px;
+}
+
+.health-tips-icon .rectangle-66-bmu5NR {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .exercise-bmu5NR {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+
+.health-tips-icon .group-69-Bkl65t {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 95px;
+  position: absolute;
+  width: 90px;
+}
+
+.health-tips-icon .rectangle-64-wh2dKB {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .advancement-wh2dKB {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 15px);
+}
+
+.health-tips-icon .group-67-Bkl65t {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: calc(46.18% - 32px);
+  position: absolute;
+  width: 70px;
+}
+
+.health-tips-icon .rectangle-67-0jhwdI {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .medicines-0jhwdI {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 17px);
+}
+
+.health-tips-icon .group-66-Bkl65t {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: calc(35.84% - 45px);
+  top: 3px;
+  width: 125px;
+}
+
+.health-tips-icon .rectangle-68-JmVEG9 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .sleep-and-relaxation-JmVEG9 {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 13px);
+}
+
+.health-tips-icon .group-64-Bkl65t {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: calc(21.22% - 15px);
+  top: 2px;
+  width: 70px;
+}
+
+.health-tips-icon .rectangle-69-lAEEiR {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .awarness-lAEEiR {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 15px);
+}
+
+.health-tips-icon .group-63-Bkl65t {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 69px;
+  top: 1px;
+  width: 60px;
+}
+
+.health-tips-icon .rectangle-70-x6x7LN {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .lifestyle-x6x7LN {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.health-tips-icon .group-65-Bkl65t {
+  background-color: transparent;
+  height: 20px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 65px;
+}
+
+.health-tips-icon .rectangle-71-uoGSwQ {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .self-care-uoGSwQ {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: -2px;
+  height: 17px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+
+.health-tips-icon .health-tips-AbTPl9 {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: #040000;
+  font-family: var(--font-family-poppins);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+  height: 31px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.18% - 15px);
+  white-space: nowrap;
+  width: 121px;
+}
+
+.health-tips-icon .menu-button-C61RwL {
+  background-color: transparent;
+  height: 180px;
+  left: -2px;
+  position: fixed;
+  top: 655px;
+  width: 434px;
+}
+
+.health-tips-icon .union-2-MaUEMx {
+  background-color: transparent;
+  height: calc(100.00% + 23px);
+  left: -15px;
+  object-fit: cover;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 30px);
+}
+
+.health-tips-icon .home-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 24px;
+  position: absolute;
+  top: 15px;
+  width: 31px;
+}
+
+.health-tips-icon .icon-material-home-wex5J4 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.health-tips-icon .home-wex5J4 {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 1px);
+}
+
+.health-tips-icon .dairy-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: calc(29.17% - 8px);
+  position: absolute;
+  top: 15px;
+  width: 26px;
+}
+
+.health-tips-icon .icon-feather-book-47y9BD {
+  background-color: transparent;
+  height: 24px;
+  position: absolute;
+  right: 3px;
+  top: 0px;
+  width: 19px;
+}
+
+.health-tips-icon .path-17-hG9lGi {
+  background-color: transparent;
+  bottom: 2px;
+  height: 5px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.health-tips-icon .path-18-hG9lGi {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.health-tips-icon .diary-47y9BD {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.health-tips-icon .health-tip-MaUEMx {
+  background-color: transparent;
+  height: 47px;
+  position: absolute;
+  right: calc(25.79% - 14px);
+  top: 15px;
+  width: 54px;
+}
+
+.health-tips-icon .icon-material-lightbulb-outline-SGpnhC {
+  background-color: transparent;
+  height: 26px;
+  left: calc(50.00% - 9px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.health-tips-icon .health-tips-SGpnhC {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.health-tips-icon .menu-MaUEMx {
+  background-color: transparent;
+  height: 43px;
+  position: absolute;
+  right: 26px;
+  top: 20px;
+  width: 28px;
+}
+
+.health-tips-icon .icon-metro-menu-u5cdSS {
+  background-color: transparent;
+  height: 16px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.health-tips-icon .menu-u5cdSS {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.health-tips-icon .path-19-MaUEMx {
+  background-color: transparent;
+  height: 5px;
+  left: calc(41.88% - 68px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(42.86% - 2px);
+  width: 162px;
+}
+
+.health-tips-icon .me-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 76px;
+  left: calc(49.72% - 38px);
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: 76px;
+}

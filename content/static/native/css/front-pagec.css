@@ -1,0 +1,3823 @@
+/* screen - front-pagec */
+
+.front-pagec {
+  background-color: var(--white);
+  height: 4252px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.front-pagec .status-bar-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.front-pagec .background-ASWxeQ {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .battery-ASWxeQ {
+  background-color: transparent;
+  bottom: calc(48.24% - 6px);
+  height: 12px;
+  position: absolute;
+  right: 4px;
+  width: 30px;
+}
+
+.front-pagec .base-hvZ4bZ {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bunker);
+  border-radius: 1.69px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 3px);
+}
+
+.front-pagec .fill-hvZ4bZ {
+  background-color: var(--bunker);
+  border-radius: 0.75px;
+  height: calc(100.00% - 3px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 23px;
+}
+
+.front-pagec .tip-hvZ4bZ {
+  background-color: transparent;
+  bottom: calc(48.62% - 2px);
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 2px;
+}
+
+.front-pagec .x100-ASWxeQ {
+  background-color: transparent;
+  bottom: calc(139.77% - 28px);
+  color: var(--bunker);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 82.93%;
+  letter-spacing: -0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: right;
+  width: 8.75%;
+}
+
+.front-pagec .bluetooth-ASWxeQ {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  object-fit: cover;
+  position: absolute;
+  right: 74px;
+  top: 3px;
+  width: 8px;
+}
+
+.front-pagec .wi-fi-full-ASWxeQ {
+  background-color: transparent;
+  height: 14px;
+  left: 29px;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.front-pagec .carrot-DmoD69 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.front-pagec .wi-fi-full-DmoD69 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.front-pagec .cellular-connection-ASWxeQ {
+  background-color: transparent;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: 389px;
+  top: 6px;
+  width: 19px;
+}
+
+.front-pagec .group-2-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: 22px;
+  position: absolute;
+  top: 367px;
+  width: 384px;
+}
+
+.front-pagec .rectangle-9-zUixHA {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 0px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .find-a-doctor-near-you-zUixHA {
+  background-color: transparent;
+  height: 22px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: 163px;
+}
+
+.front-pagec .rectangle-10-zUixHA {
+  background: linear-gradient(-90deg, #febf49 5.91%, #f8eedc 100%);
+  background-color: transparent;
+  border-radius: 13px;
+  bottom: calc(32.20% - 8px);
+  height: 25px;
+  left: 16px;
+  position: absolute;
+  width: 223px;
+}
+
+.front-pagec .x25-off-on-consultations-zUixHA {
+  background-color: transparent;
+  bottom: calc(27.42% - 6px);
+  height: 22px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 204px;
+}
+
+.front-pagec .icon-ionic-ios-arrow-dropright-circle-zUixHA {
+  background-color: transparent;
+  height: 18px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(39.89% - 7px);
+  top: calc(22.30% - 4px);
+  width: 18px;
+}
+
+.front-pagec .mask-group-2-zUixHA {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .lab-C61RwL {
+  background-color: transparent;
+  height: 130px;
+  left: 158px;
+  position: absolute;
+  top: 486px;
+  width: 112px;
+}
+
+.front-pagec .rectangle-14-vxHkmy {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .rectangle-15-vxHkmy {
+  background: linear-gradient(-90deg, #febf49 5.91%, #f8eedc 100%);
+  background-color: transparent;
+  border-radius: 13px;
+  bottom: 0px;
+  height: 25px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.front-pagec .upto-81-off-vxHkmy {
+  background-color: transparent;
+  bottom: -3px;
+  height: 22px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+
+.front-pagec .lab-test-vxHkmy {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  right: calc(48.08% - 29px);
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.front-pagec .chemical-flask-vxHkmy {
+  background-color: transparent;
+  bottom: 7px;
+  height: 102px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 10px);
+}
+
+.front-pagec .helth-device-C61RwL {
+  background-color: transparent;
+  height: 130px;
+  left: 294px;
+  position: absolute;
+  top: 486px;
+  width: 112px;
+}
+
+.front-pagec .rectangle-14-IY2OGQ {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .meater-IY2OGQ {
+  background-color: transparent;
+  bottom: 2px;
+  height: 100px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 12px);
+}
+
+.front-pagec .rectangle-15-IY2OGQ {
+  background: linear-gradient(-90deg, #febf49 5.91%, #f8eedc 100%);
+  background-color: transparent;
+  border-radius: 13px;
+  bottom: 0px;
+  height: 25px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.front-pagec .upto-50-off-IY2OGQ {
+  background-color: transparent;
+  bottom: -3px;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 10px);
+}
+
+.front-pagec .healthdevices-IY2OGQ {
+  background-color: transparent;
+  height: 37px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(48.15% - 28px);
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.front-pagec .bp-C61RwL {
+  background-color: transparent;
+  height: 307px;
+  left: 2px;
+  position: absolute;
+  top: 483px;
+  width: 144px;
+}
+
+.front-pagec .rectangle-14-knXgcN {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  bottom: 9px;
+  height: 130px;
+  left: 20px;
+  position: absolute;
+  width: calc(100.00% - 32px);
+}
+
+.front-pagec .bp-sugarprograms-knXgcN {
+  background-color: transparent;
+  bottom: calc(35.21% - 14px);
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(42.18% - 34px);
+  text-align: center;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.front-pagec .heart-rate-knXgcN {
+  background-color: transparent;
+  bottom: 0px;
+  height: 102px;
+  object-fit: cover;
+  position: absolute;
+  right: 17px;
+  width: 102px;
+}
+
+.front-pagec .medicines-knXgcN {
+  background-color: transparent;
+  height: 144px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .rectangle-14-dHdbpK {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  box-shadow: 0px 3px 6px #0000001c;
+  height: calc(100.00% - 14px);
+  left: 20px;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 32px);
+}
+
+.front-pagec .medicine-dHdbpK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.front-pagec .rectangle-15-dHdbpK {
+  background: linear-gradient(-90deg, #febf49 5.91%, #f8eedc 100%);
+  background-color: transparent;
+  border-radius: 13px;
+  bottom: 11px;
+  height: 25px;
+  left: 20px;
+  position: absolute;
+  width: calc(100.00% - 32px);
+}
+
+.front-pagec .upto-30-off-dHdbpK {
+  background-color: transparent;
+  bottom: 8px;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  right: 17px;
+  text-align: center;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.front-pagec .medicines-dHdbpK {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  right: calc(42.85% - 32px);
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.front-pagec .bp-VMr6Om {
+  background-color: transparent;
+  height: 283px;
+  left: 20px;
+  position: absolute;
+  top: 810px;
+  width: 112px;
+}
+
+.front-pagec .rectangle-14-rNFVUL {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  bottom: 0px;
+  height: 130px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.front-pagec .soul-search-rNFVUL {
+  background-color: transparent;
+  bottom: calc(34.17% - 14px);
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(48.33% - 25px);
+  text-align: center;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.front-pagec .heart-rate-rNFVUL {
+  background-color: transparent;
+  bottom: 0px;
+  height: 102px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 10px);
+}
+
+.front-pagec .medicines-rNFVUL {
+  background-color: transparent;
+  height: 130px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .rectangle-14-1e48Pf {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  box-shadow: 0px 3px 6px #0000001c;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .medicine-1e48Pf {
+  background-color: transparent;
+  bottom: 5px;
+  height: 85px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 27px);
+}
+
+.front-pagec .ambulance-1e48Pf {
+  background-color: transparent;
+  height: 22px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% - 26px);
+}
+
+.front-pagec .lab-VMr6Om {
+  background-color: transparent;
+  height: 130px;
+  left: 158px;
+  position: absolute;
+  top: 651px;
+  width: 112px;
+}
+
+.front-pagec .rectangle-14-7czICL {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .rectangle-15-7czICL {
+  background: linear-gradient(-90deg, #febf49 5.91%, #f8eedc 100%);
+  background-color: transparent;
+  border-radius: 13px;
+  bottom: 0px;
+  height: 25px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.front-pagec .upto-35-off-7czICL {
+  background-color: transparent;
+  bottom: -3px;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 12px);
+}
+
+.front-pagec .health-wellness-7czICL {
+  background-color: transparent;
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(47.83% - 32px);
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.front-pagec .herbal-7czICL {
+  background-color: transparent;
+  bottom: 3px;
+  height: 102px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 10px);
+}
+
+.front-pagec .group-75-C61RwL {
+  background-color: transparent;
+  height: 289px;
+  left: 158px;
+  position: absolute;
+  top: 805px;
+  width: 112px;
+}
+
+.front-pagec .lab-sDLNVS {
+  background-color: transparent;
+  height: 130px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .rectangle-14-7HEs9K {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .blood-bank-7HEs9K {
+  background-color: transparent;
+  height: 22px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% - 30px);
+}
+
+.front-pagec .chemical-flask-7HEs9K {
+  background-color: transparent;
+  bottom: 15px;
+  height: 70px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 42px);
+}
+
+.front-pagec .lab-xOjUD2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 130px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.front-pagec .rectangle-14-1xLWwu {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .rectangle-15-1xLWwu {
+  background: linear-gradient(-90deg, #febf49 5.91%, #f8eedc 100%);
+  background-color: transparent;
+  border-radius: 13px;
+  bottom: 0px;
+  height: 25px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.front-pagec .upto-35-off-1xLWwu {
+  background-color: transparent;
+  bottom: -3px;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 12px);
+}
+
+.front-pagec .insurance-1xLWwu {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(47.37% - 35px);
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.front-pagec .herbal-1xLWwu {
+  background-color: transparent;
+  bottom: calc(35.71% - 21px);
+  height: 60px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.46% - 23px);
+  width: 60px;
+}
+
+.front-pagec .health-cover-C61RwL {
+  background-color: transparent;
+  height: 140px;
+  left: 294px;
+  position: absolute;
+  top: 651px;
+  width: 112px;
+}
+
+.front-pagec .rectangle-14-vvLxAQ {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: calc(100.00% - 10px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .health-cover-vvLxAQ {
+  background-color: transparent;
+  height: 22px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: calc(100.00% - 18px);
+}
+
+.front-pagec .people-wearing-mask-vvLxAQ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 91px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 21px);
+}
+
+.front-pagec .group-76-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 294px;
+  position: absolute;
+  top: 805px;
+  width: 112px;
+}
+
+.front-pagec .helth-device-Z1JSTw {
+  background-color: transparent;
+  height: 130px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .rectangle-14-lNiciI {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .meater-lNiciI {
+  background-color: transparent;
+  bottom: 18px;
+  height: 70px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(45.24% - 32px);
+  width: 70px;
+}
+
+.front-pagec .rectangle-15-lNiciI {
+  background: linear-gradient(-90deg, #febf49 5.91%, #f8eedc 100%);
+  background-color: transparent;
+  border-radius: 13px;
+  bottom: 0px;
+  height: 25px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.front-pagec .upto-50-off-lNiciI {
+  background-color: transparent;
+  bottom: -3px;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 10px);
+}
+
+.front-pagec .my-records-lNiciI {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(46.88% - 38px);
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.front-pagec .health-cover-Z1JSTw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 130px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.front-pagec .rectangle-14-F65kCX {
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .nutrition-F65kCX {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(47.92% - 31px);
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.front-pagec .people-wearing-mask-F65kCX {
+  background-color: transparent;
+  bottom: 11px;
+  height: 85px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 27px);
+}
+
+.front-pagec .x2-C61RwL {
+  background-color: transparent;
+  height: 358px;
+  left: 11px;
+  position: absolute;
+  top: 1114px;
+  width: 406px;
+}
+
+.front-pagec .rectangle-20-Xk2MQo {
+  background-color: var(--cinderella);
+  border-radius: 20px;
+  height: 141px;
+  left: 11px;
+  position: absolute;
+  top: 30px;
+  width: calc(100.00% - 22px);
+}
+
+.front-pagec .offers-for-you-Xk2MQo {
+  background-color: transparent;
+  color: #1c1c1c;
+  font-family: var(--font-family-poppins);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 26px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.front-pagec .rectangle-24-Xk2MQo {
+  background-color: #d8d8d8;
+  border-radius: 20px;
+  bottom: 25px;
+  height: 155px;
+  left: 11px;
+  position: absolute;
+  width: calc(100.00% - 22px);
+}
+
+.front-pagec .save-extra-on-your-healthexpenses-Xk2MQo {
+  background-color: transparent;
+  bottom: calc(21.47% - 10px);
+  color: var(--shark-2);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 46px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 199px;
+}
+
+.front-pagec .starting-from-49-only-Xk2MQo {
+  background-color: transparent;
+  bottom: 44px;
+  color: #0a0063;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  height: 27px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 201px;
+}
+
+.front-pagec .span0-s1RKVy {
+  color: var(--shark-2);
+  font-style: italic;
+  font-weight: 500;
+}
+
+.front-pagec .span1-s1RKVy {
+  color: var(--shark-2);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+}
+
+.front-pagec .span2-s1RKVy {
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+}
+
+.front-pagec .medose-logo-final-png-Xk2MQo {
+  background-color: transparent;
+  bottom: calc(39.55% - 34px);
+  height: 85px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 141px;
+}
+
+.front-pagec .icon-awesome-rupee-sign-Xk2MQo {
+  background-color: transparent;
+  bottom: 54px;
+  height: 15px;
+  left: calc(38.60% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 11px;
+}
+
+.front-pagec .group-3-Xk2MQo {
+  background-color: transparent;
+  bottom: 0px;
+  height: 36px;
+  left: 28px;
+  position: absolute;
+  width: calc(100.00% - 55px);
+}
+
+.front-pagec .rectangle-25-3FARpX {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 5px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .start-saving-now-3FARpX {
+  background-color: transparent;
+  bottom: calc(15.38% - 4px);
+  color: #3b1660;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 23px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 153px;
+}
+
+.front-pagec .icon-feather-arrow-left-3FARpX {
+  background-color: transparent;
+  bottom: calc(49.38% - 6px);
+  height: 12px;
+  position: absolute;
+  right: 29px;
+  transform: rotate(180deg);
+  width: 21px;
+}
+
+.front-pagec .path-22-aTxn7k {
+  background-color: transparent;
+  height: 3px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  transform: rotate(-180deg);
+  width: calc(100.00% + 3px);
+}
+
+.front-pagec .path-23-aTxn7k {
+  background-color: transparent;
+  height: calc(100.00% + 4px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  transform: rotate(-180deg);
+  width: 11px;
+}
+
+.front-pagec .group-31-Xk2MQo {
+  background-color: transparent;
+  height: 142px;
+  left: 0px;
+  position: absolute;
+  top: 29px;
+  width: 100%;
+}
+
+.front-pagec .flat-10-off10-cashback-8YLxhc {
+  background-color: transparent;
+  height: 52px;
+  left: calc(33.97% - 49px);
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 144px;
+}
+
+.front-pagec .berries-mix-250g-1-8-8YLxhc {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  object-fit: cover;
+  position: absolute;
+  right: 17px;
+  top: 5px;
+  width: 108px;
+}
+
+.front-pagec .berries-mix-250g-1-8-TYZMwh {
+  background-color: transparent;
+  bottom: 1px;
+  height: 100px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(21.87% - 17px);
+  width: 79px;
+}
+
+.front-pagec .on-orders-above-rs-399-8YLxhc {
+  background-color: transparent;
+  bottom: calc(45.59% - 8px);
+  color: #505050;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 17px;
+  left: calc(31.56% - 39px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.front-pagec .path-29-8YLxhc {
+  background-color: transparent;
+  height: 100%;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 46px;
+}
+
+.front-pagec .ellipse-5-8YLxhc {
+  background-color: var(--white);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 13px);
+  width: 27px;
+}
+
+.front-pagec .ellipse-6-8YLxhc {
+  background-color: var(--white);
+  border-radius: 13.5px;
+  height: 27px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 13px);
+  width: 27px;
+}
+
+.front-pagec .discount-8YLxhc {
+  background-color: transparent;
+  bottom: calc(48.19% - 11px);
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  transform: rotate(-89.00deg);
+  white-space: nowrap;
+  width: 75px;
+}
+
+.front-pagec .path-30-8YLxhc {
+  background-color: transparent;
+  bottom: calc(26.08% - 5px);
+  height: 18px;
+  left: calc(30.54% - 35px);
+  object-fit: cover;
+  position: absolute;
+  width: 115px;
+}
+
+.front-pagec .use-code-sep20-8YLxhc {
+  background-color: transparent;
+  bottom: calc(23.78% - 4px);
+  color: #fbfbfb;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 17px;
+  left: calc(32.76% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 83px;
+}
+
+.front-pagec .x3-C61RwL {
+  background-color: transparent;
+  height: 414px;
+  left: 22px;
+  position: absolute;
+  top: 1500px;
+  width: 396px;
+}
+
+.front-pagec .rectangle-26-DRWwBX {
+  background-color: #eac4ff;
+  border-radius: 20px;
+  height: calc(100.00% - 26px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 12px);
+}
+
+.front-pagec .start-your-journeytowards-a-healthy-life-DRWwBX {
+  background-color: transparent;
+  color: var(--shark);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 54px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  white-space: nowrap;
+  width: 207px;
+}
+
+.front-pagec .rectangle-27-DRWwBX {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 45px;
+  left: 16px;
+  position: absolute;
+  top: calc(24.66% - 11px);
+  width: 200px;
+}
+
+.front-pagec .rectangle-29-DRWwBX {
+  background-color: var(--white);
+  border-radius: 20px;
+  bottom: calc(36.31% - 16px);
+  height: 45px;
+  left: 16px;
+  position: absolute;
+  width: 210px;
+}
+
+.front-pagec .rectangle-28-DRWwBX {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 45px;
+  left: 16px;
+  position: absolute;
+  top: calc(44.17% - 20px);
+  width: 230px;
+}
+
+.front-pagec .track-your-vitals-DRWwBX {
+  background-color: transparent;
+  color: var(--shark);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+  height: 21px;
+  left: calc(23.51% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: calc(27.23% - 6px);
+  white-space: nowrap;
+  width: 111px;
+}
+
+.front-pagec .convert-prescriptionsto-reminders-DRWwBX {
+  background-color: transparent;
+  height: 40px;
+  left: calc(27.80% - 43px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(44.92% - 18px);
+  white-space: nowrap;
+  width: 155px;
+}
+
+.front-pagec .medicine-reminders-DRWwBX {
+  background-color: transparent;
+  bottom: calc(35.97% - 8px);
+  height: 22px;
+  left: calc(24.60% - 35px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.front-pagec .medical-report-1-DRWwBX {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 30px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(44.53% - 13px);
+  width: 30px;
+}
+
+.front-pagec .tracker-DRWwBX {
+  background-color: transparent;
+  height: 30px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(25.78% - 8px);
+  width: 30px;
+}
+
+.front-pagec .reminder-DRWwBX {
+  background-color: transparent;
+  bottom: calc(36.88% - 11px);
+  height: 29px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  width: 29px;
+}
+
+.front-pagec .rectangle-30-DRWwBX {
+  background-color: var(--white);
+  border-radius: 20px;
+  bottom: calc(18.97% - 9px);
+  height: 45px;
+  left: 16px;
+  position: absolute;
+  width: 200px;
+}
+
+.front-pagec .and-much-more-DRWwBX {
+  background-color: transparent;
+  bottom: calc(19.64% - 4px);
+  height: 22px;
+  left: calc(24.29% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.front-pagec .doctor-DRWwBX {
+  background-color: transparent;
+  bottom: calc(20.05% - 6px);
+  height: 30px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  width: 30px;
+}
+
+.front-pagec .rectangle-31-DRWwBX {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: #1c111129;
+  border-radius: 20px;
+  bottom: 0px;
+  height: 49px;
+  left: 13px;
+  position: absolute;
+  width: calc(100.00% - 38px);
+}
+
+.front-pagec .lets-get-started-DRWwBX {
+  background-color: transparent;
+  bottom: 9px;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 23px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 140px;
+}
+
+.front-pagec .icon-feather-arrow-right-DRWwBX {
+  background-color: transparent;
+  bottom: 17px;
+  height: 14px;
+  position: absolute;
+  right: 54px;
+  width: 17px;
+}
+
+.front-pagec .path-24-ic4xkk {
+  background-color: transparent;
+  height: 3px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: calc(100.00% + 3px);
+}
+
+.front-pagec .path-25-ic4xkk {
+  background-color: transparent;
+  height: calc(100.00% + 4px);
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  top: -2px;
+  width: 11px;
+}
+
+.front-pagec .x415-4153777_google-s-DRWwBX {
+  background-color: transparent;
+  bottom: -10px;
+  height: 333px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  width: 191px;
+}
+
+.front-pagec .x4-C61RwL {
+  background-color: transparent;
+  height: 602px;
+  left: 19px;
+  position: absolute;
+  top: 1944px;
+  width: 391px;
+}
+
+.front-pagec .find-specialists-by-symptoms-RxoTBK {
+  background-color: transparent;
+  color: var(--cod-gray);
+  font-family: var(--font-family-poppins);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: 26px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: 263px;
+}
+
+.front-pagec .rectangle-32-RxoTBK {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  height: 96px;
+  left: 3px;
+  position: absolute;
+  top: 49px;
+  width: 120px;
+}
+
+.front-pagec .rectangle-33-RxoTBK {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 24px;
+  height: 96px;
+  left: calc(49.82% - 60px);
+  position: absolute;
+  top: 49px;
+  width: 120px;
+}
+
+.front-pagec .rectangle-34-RxoTBK {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  height: 96px;
+  position: absolute;
+  right: 4px;
+  top: 49px;
+  width: 120px;
+}
+
+.front-pagec .pimples-removebg-preview-RxoTBK {
+  background-color: transparent;
+  height: 90px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 90px;
+}
+
+.front-pagec .high_and_low_bp-removebg-preview-RxoTBK {
+  background-color: transparent;
+  height: 90px;
+  left: calc(48.63% - 50px);
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 103px;
+}
+
+.front-pagec .human_hearyt-removebg-preview-RxoTBK {
+  background-color: transparent;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 27px;
+  top: 55px;
+  width: 72px;
+}
+
+.front-pagec .pimple-acne-RxoTBK {
+  background-color: transparent;
+  height: 19px;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: calc(26.93% - 5px);
+  white-space: nowrap;
+  width: 79px;
+}
+
+.front-pagec .high-low-bloodsugar-RxoTBK {
+  background-color: transparent;
+  height: 32px;
+  left: calc(49.15% - 48px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: calc(27.54% - 9px);
+  white-space: nowrap;
+  width: 98px;
+}
+
+.front-pagec .fast-heartbeat-RxoTBK {
+  background-color: transparent;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: 16px;
+  text-align: left;
+  top: calc(26.93% - 5px);
+  white-space: nowrap;
+  width: 91px;
+}
+
+.front-pagec .rectangle-32-r81pdP {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  height: 96px;
+  left: 3px;
+  position: absolute;
+  top: calc(40.32% - 39px);
+  width: 120px;
+}
+
+.front-pagec .rectangle-35-RxoTBK {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  bottom: calc(32.61% - 31px);
+  height: 96px;
+  left: 3px;
+  position: absolute;
+  width: 120px;
+}
+
+.front-pagec .rectangle-38-RxoTBK {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  bottom: 27px;
+  height: 96px;
+  left: 3px;
+  position: absolute;
+  width: 120px;
+}
+
+.front-pagec .rectangle-33-r81pdP {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  height: 96px;
+  position: absolute;
+  right: calc(49.68% - 60px);
+  top: calc(40.32% - 39px);
+  width: 120px;
+}
+
+.front-pagec .rectangle-36-RxoTBK {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  bottom: calc(32.61% - 31px);
+  height: 96px;
+  position: absolute;
+  right: calc(49.68% - 60px);
+  width: 120px;
+}
+
+.front-pagec .rectangle-34-r81pdP {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  height: 96px;
+  position: absolute;
+  right: 0px;
+  top: calc(40.12% - 39px);
+  width: 120px;
+}
+
+.front-pagec .rectangle-37-RxoTBK {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  bottom: calc(32.61% - 31px);
+  height: 96px;
+  position: absolute;
+  right: 0px;
+  width: 120px;
+}
+
+.front-pagec .chest-pain-RxoTBK {
+  background-color: transparent;
+  bottom: calc(46.48% - 9px);
+  height: 19px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.front-pagec .high-low-blood-pressure-RxoTBK {
+  background-color: transparent;
+  bottom: calc(22.63% - 7px);
+  height: 32px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.front-pagec .pcos-RxoTBK {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.front-pagec .sore-throat-RxoTBK {
+  background-color: transparent;
+  bottom: calc(46.48% - 9px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(49.58% - 34px);
+  text-align: left;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.front-pagec .hair-loss-RxoTBK {
+  background-color: transparent;
+  bottom: calc(23.16% - 4px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: calc(49.45% - 27px);
+  text-align: left;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.front-pagec .cough-RxoTBK {
+  background-color: transparent;
+  bottom: calc(46.48% - 9px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: 38px;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.front-pagec .headache-RxoTBK {
+  background-color: transparent;
+  bottom: calc(23.16% - 4px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  right: 27px;
+  text-align: left;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.front-pagec .headache-r81pdP {
+  background-color: transparent;
+  bottom: calc(31.96% - 36px);
+  height: 113px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  width: 113px;
+}
+
+.front-pagec .cough-r81pdP {
+  background-color: transparent;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 15px;
+  top: calc(40.23% - 36px);
+  width: 90px;
+}
+
+.front-pagec .download-removebg-preview-1-RxoTBK {
+  background-color: transparent;
+  bottom: calc(32.47% - 32px);
+  height: 100px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.81% - 61px);
+  width: 123px;
+}
+
+.front-pagec .download-removebg-preview-RxoTBK {
+  background-color: transparent;
+  bottom: 30px;
+  height: 90px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 126px;
+}
+
+.front-pagec .little-boy-suffering-RxoTBK {
+  background-color: transparent;
+  height: 97px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.88% - 48px);
+  top: calc(40.40% - 39px);
+  width: 97px;
+}
+
+.front-pagec .woman-feel-chest-pai-RxoTBK {
+  background-color: transparent;
+  height: 120px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(39.83% - 48px);
+  width: 120px;
+}
+
+.front-pagec .healthcare-RxoTBK {
+  background-color: transparent;
+  bottom: calc(32.81% - 30px);
+  height: 90px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  width: 90px;
+}
+
+.front-pagec .x5-C61RwL {
+  background-color: transparent;
+  height: 231px;
+  left: 26px;
+  position: absolute;
+  top: 2562px;
+  width: 384px;
+}
+
+.front-pagec .rectangle-39-kfZX2T {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 8px;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .rectangle-40-kfZX2T {
+  background-color: var(--white);
+  border-radius: 20px;
+  bottom: 16px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 160px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.front-pagec .find-a-specialist-kfZX2T {
+  background-color: transparent;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 27px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 165px;
+}
+
+.front-pagec .icon-feather-arrow-right-kfZX2T {
+  background-color: transparent;
+  height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 17px;
+  top: 14px;
+  width: 17px;
+}
+
+.front-pagec .path-24-yp0xJc {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.front-pagec .path-25-yp0xJc {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  width: 9px;
+}
+
+.front-pagec .group-5-kfZX2T {
+  background-color: transparent;
+  bottom: calc(46.88% - 63px);
+  height: 135px;
+  left: 23px;
+  position: absolute;
+  width: calc(100.00% - 46px);
+}
+
+.front-pagec .refer-and-earn-BkiB1x {
+  background-color: transparent;
+  color: var(--heavy-metal);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: calc(25.00% - 7px);
+  white-space: nowrap;
+  width: 137px;
+}
+
+.front-pagec .invite-friends-and-f-BkiB1x {
+  background-color: transparent;
+  bottom: calc(46.24% - 19px);
+  color: #262626;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 176px;
+}
+
+.front-pagec .icon-awesome-rupee-sign-BkiB1x {
+  background-color: transparent;
+  bottom: calc(21.95% - 3px);
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.front-pagec .x500-BkiB1x {
+  background-color: transparent;
+  bottom: calc(30.98% - 7px);
+  color: #101010;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 28px;
+}
+
+.front-pagec .earning-removebg-preview-BkiB1x {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 141px;
+}
+
+.front-pagec .group-6-kfZX2T {
+  background-color: transparent;
+  bottom: 0px;
+  height: 35px;
+  left: 8px;
+  position: absolute;
+  width: calc(100.00% - 15px);
+}
+
+.front-pagec .rectangle-41-CFJMfL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  box-shadow: 0px 5px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .icon-feather-arrow-right-CFJMfL {
+  background-color: transparent;
+  bottom: calc(42.86% - 6px);
+  height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 8px;
+  width: 17px;
+}
+
+.front-pagec .path-24-74QZZW {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.front-pagec .path-25-74QZZW {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  width: 9px;
+}
+
+.front-pagec .earn-rs500-now-CFJMfL {
+  background-color: transparent;
+  bottom: 16px;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  height: 25px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.front-pagec .x6-C61RwL {
+  background-color: transparent;
+  height: 1300px;
+  left: 22px;
+  position: absolute;
+  top: 2845px;
+  width: 384px;
+}
+
+.front-pagec .assess-your-health-score-xe80vs {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: -11px;
+  white-space: nowrap;
+  width: 260px;
+}
+
+.front-pagec .a-xe80vs {
+  background-color: transparent;
+  height: 190px;
+  left: 0px;
+  position: absolute;
+  top: calc(26.13% - 50px);
+  width: 150px;
+}
+
+.front-pagec .rectangle-42-HcVIFx {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 30px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .predict-yourrisk-of-gettingkidneydisease-HcVIFx {
+  background-color: transparent;
+  bottom: 2px;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: 83px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(48.94% - 50px);
+  text-align: left;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.front-pagec .span0-iESj7B {
+}
+
+.front-pagec .span1-iESj7B {
+}
+
+.front-pagec .diabetes-HcVIFx {
+  background-color: transparent;
+  border-radius: 25px 25px 0px 0px;
+  height: 105px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+
+.front-pagec .group-4-xe80vs {
+  background-color: transparent;
+  height: 190px;
+  left: 0px;
+  position: absolute;
+  top: 61px;
+  width: 100%;
+}
+
+.front-pagec .a-Cqdnx3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.front-pagec .rectangle-42-9iHM3D {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 30px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .assessyour-risk-ofdevelopingdiabetes-9iHM3D {
+  background-color: transparent;
+  bottom: 2px;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 600;
+  height: 83px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(48.39% - 43px);
+  text-align: left;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.front-pagec .span0-PYaUhB {
+}
+
+.front-pagec .span1-PYaUhB {
+}
+
+.front-pagec .diabetes-9iHM3D {
+  background-color: transparent;
+  border-radius: 25px 25px 0px 0px;
+  height: 105px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+
+.front-pagec .b-Cqdnx3 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 150px;
+}
+
+.front-pagec .rectangle-42-vluew9 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 30px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .assess-yourmental-wellnessscore-vluew9 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 83px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(48.33% - 44px);
+  text-align: left;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.front-pagec .span0-2UhFSr {
+}
+
+.front-pagec .span1-2UhFSr {
+}
+
+.front-pagec .span2-2UhFSr {
+}
+
+.front-pagec .diabetes-vluew9 {
+  background-color: transparent;
+  border-radius: 25px 25px 0px 0px;
+  height: 105px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+
+.front-pagec .b-xe80vs {
+  background-color: transparent;
+  height: 190px;
+  position: absolute;
+  right: 0px;
+  top: calc(26.13% - 50px);
+  width: 150px;
+}
+
+.front-pagec .rectangle-42-WX17Lw {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 30px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .feelinganxioushere-is-asolution-WX17Lw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 83px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(49.35% - 36px);
+  text-align: left;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.front-pagec .span0-udn0Mh {
+}
+
+.front-pagec .span1-udn0Mh {
+}
+
+.front-pagec .span2-udn0Mh {
+}
+
+.front-pagec .diabetes-WX17Lw {
+  background-color: transparent;
+  border-radius: 25px 25px 0px 0px;
+  height: 105px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+
+.front-pagec .rectangle-43-xe80vs {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: calc(41.74% - 20px);
+  width: 100%;
+}
+
+.front-pagec .rectangle-51-xe80vs {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  bottom: 0px;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.front-pagec .explore-all-risk-assessments-xe80vs {
+  background-color: transparent;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 30px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.94% - 12px);
+  white-space: nowrap;
+  width: calc(100.00% - 60px);
+}
+
+.front-pagec .explore-all-risk-assessments-a3yTlk {
+  background-color: transparent;
+  bottom: 18px;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 30px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 60px);
+}
+
+.front-pagec .icon-feather-arrow-right-xe80vs {
+  background-color: transparent;
+  height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 8px;
+  top: calc(41.84% - 6px);
+  width: 17px;
+}
+
+.front-pagec .path-24-WwSwvF {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.front-pagec .path-25-WwSwvF {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  width: 9px;
+}
+
+.front-pagec .icon-feather-arrow-right-a3yTlk {
+  background-color: transparent;
+  bottom: 18px;
+  height: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 8px;
+  width: 17px;
+}
+
+.front-pagec .path-24-G7EIyx {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.front-pagec .path-25-G7EIyx {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  width: 9px;
+}
+
+.front-pagec .health-tips-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3435px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.front-pagec .scroll-group-2-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.front-pagec .scroll-group-2-C61RwL {
+  background-color: transparent;
+  height: 602px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 3463px;
+  width: 428px;
+}
+
+.front-pagec .group-10-ROslHN {
+  background-color: transparent;
+  height: 602px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 827px;
+}
+
+.front-pagec .group-8-eTg2lG {
+  background-color: transparent;
+  height: calc(100.00% - 11px);
+  left: 0px;
+  position: absolute;
+  top: 11px;
+  width: 384px;
+}
+
+.front-pagec .d4-removebg-preview-iY3Tsu {
+  background-color: transparent;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 51px;
+  top: 8px;
+  width: 90px;
+}
+
+.front-pagec .d_1-removebg-preview-iY3Tsu {
+  background-color: transparent;
+  height: 106px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100px;
+}
+
+.front-pagec .d2-removebg-preview-iY3Tsu {
+  background-color: transparent;
+  height: 100px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(28.92% - 29px);
+  width: 178px;
+}
+
+.front-pagec .d3-removebg-preview-iY3Tsu {
+  background-color: transparent;
+  height: 90px;
+  object-fit: cover;
+  position: absolute;
+  right: 36px;
+  top: calc(29.34% - 26px);
+  width: 119px;
+}
+
+.front-pagec .schizophrenia-iY3Tsu {
+  background-color: transparent;
+  height: 19px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.54% - 4px);
+  white-space: nowrap;
+  width: 98px;
+}
+
+.front-pagec .depression-iY3Tsu {
+  background-color: transparent;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(18.45% - 14px);
+  text-align: left;
+  top: calc(20.54% - 4px);
+  white-space: nowrap;
+  width: 75px;
+}
+
+.front-pagec .anxiety-disorder-iY3Tsu {
+  background-color: transparent;
+  height: 19px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.79% - 8px);
+  white-space: nowrap;
+  width: 114px;
+}
+
+.front-pagec .post-traumatic-stress-iY3Tsu {
+  background-color: transparent;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 17px;
+  text-align: left;
+  top: calc(43.79% - 8px);
+  white-space: nowrap;
+  width: 156px;
+}
+
+.front-pagec .group-7-iY3Tsu {
+  background-color: transparent;
+  bottom: 0px;
+  height: 299px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.front-pagec .rectangle-44-NWt6oP {
+  background-color: var(--white);
+  border: 3px solid;
+  border-color: var(--bon-jour);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .most-people-experien-NWt6oP {
+  background-color: transparent;
+  height: 63px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(30.72% - 19px);
+  white-space: nowrap;
+  width: calc(100.00% - 36px);
+}
+
+.front-pagec .when-to-consult-a-psychologist-NWt6oP {
+  background-color: transparent;
+  height: 27px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  white-space: nowrap;
+  width: 300px;
+}
+
+.front-pagec .icon-feather-send-NWt6oP {
+  background-color: transparent;
+  bottom: calc(28.62% - 9px);
+  height: 30px;
+  position: absolute;
+  right: calc(49.72% - 15px);
+  width: 30px;
+}
+
+.front-pagec .path-26-WOOBEb {
+  background-color: transparent;
+  height: 19px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  width: 19px;
+}
+
+.front-pagec .path-27-WOOBEb {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.front-pagec .icon-ionic-ios-heart-empty-NWt6oP {
+  background-color: transparent;
+  bottom: calc(28.75% - 8px);
+  height: 28px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  width: 29px;
+}
+
+.front-pagec .x08-sep-2022-NWt6oP {
+  background-color: transparent;
+  bottom: calc(44.02% - 10px);
+  height: 23px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.front-pagec .x1354-likes-NWt6oP {
+  background-color: transparent;
+  bottom: 36px;
+  height: 27px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.front-pagec .x401-shares-NWt6oP {
+  background-color: transparent;
+  bottom: 36px;
+  height: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(49.48% - 48px);
+  text-align: left;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.front-pagec .save-NWt6oP {
+  background-color: transparent;
+  bottom: 36px;
+  height: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 25px;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.front-pagec .path-28-NWt6oP {
+  background-color: transparent;
+  bottom: calc(28.47% - 9px);
+  height: 30px;
+  object-fit: cover;
+  position: absolute;
+  right: 34px;
+  width: 30px;
+}
+
+.front-pagec .group-9-eTg2lG {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 444px;
+}
+
+.front-pagec .path-65-99MtMH {
+  background-color: transparent;
+  bottom: 1px;
+  height: 301px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+
+.front-pagec .alprazolam-commonly-99MtMH {
+  background-color: transparent;
+  bottom: calc(29.10% - 18px);
+  height: 63px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 106px);
+}
+
+.front-pagec .can-alprazolam-help-depression-99MtMH {
+  background-color: transparent;
+  bottom: calc(41.29% - 11px);
+  height: 27px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 312px;
+}
+
+.front-pagec .icon-feather-send-99MtMH {
+  background-color: transparent;
+  bottom: 69px;
+  height: 30px;
+  position: absolute;
+  right: calc(49.28% - 15px);
+  width: 30px;
+}
+
+.front-pagec .path-26-MPb5kK {
+  background-color: transparent;
+  height: 19px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  width: 19px;
+}
+
+.front-pagec .path-27-MPb5kK {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.front-pagec .icon-ionic-ios-heart-empty-99MtMH {
+  background-color: transparent;
+  bottom: 70px;
+  height: 28px;
+  left: calc(18.32% - 5px);
+  object-fit: cover;
+  position: absolute;
+  width: 29px;
+}
+
+.front-pagec .x08-sep-2022-99MtMH {
+  background-color: transparent;
+  bottom: calc(19.76% - 5px);
+  height: 23px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.front-pagec .x1354-likes-99MtMH {
+  background-color: transparent;
+  bottom: 28px;
+  height: 27px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.front-pagec .x401-shares-99MtMH {
+  background-color: transparent;
+  bottom: 28px;
+  height: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(48.99% - 48px);
+  text-align: left;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.front-pagec .save-99MtMH {
+  background-color: transparent;
+  bottom: 28px;
+  height: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 53px;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.front-pagec .tablet-1-99MtMH {
+  background-color: transparent;
+  border-radius: 30px;
+  height: 296px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .path-28-99MtMH {
+  background-color: transparent;
+  bottom: 69px;
+  height: 30px;
+  object-fit: cover;
+  position: absolute;
+  right: 62px;
+  width: 30px;
+}
+
+.front-pagec .top-bar-C61RwL {
+  background-color: transparent;
+  height: 128px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 426px;
+}
+
+.front-pagec .rectangle-2-F0PwiS {
+  background-color: var(--white);
+  border-radius: 0px 0px 0px 30px;
+  box-shadow: 0px 1px 15px #00000012;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .icon-ionic-ios-wifi-F0PwiS {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 48px;
+  top: 7px;
+  width: 16px;
+}
+
+.front-pagec .path-1-xwaZeY {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.front-pagec .path-2-xwaZeY {
+  background-color: transparent;
+  bottom: calc(48.35% - 2px);
+  height: 3px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.front-pagec .path-3-xwaZeY {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  left: calc(49.97% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 4px;
+}
+
+.front-pagec .icon-ionic-ios-battery-dead-F0PwiS {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 20px;
+  top: 7px;
+  width: 23px;
+}
+
+.front-pagec .path-4-MCz6jY {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+
+.front-pagec .path-5-MCz6jY {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 3px);
+  width: 2px;
+}
+
+.front-pagec .rectangle-1-MCz6jY {
+  background-color: #fdc009;
+  border-radius: 1px;
+  height: calc(100.00% - 4px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 9px;
+}
+
+.front-pagec .header-F0PwiS {
+  background-color: transparent;
+  height: 20px;
+  left: 22px;
+  position: absolute;
+  top: 3px;
+  width: 332px;
+}
+
+.front-pagec .icon-awesome-signal-m1gnaT {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 16px;
+}
+
+.front-pagec .x941-m1gnaT {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 14.5px;
+  font-style: normal;
+  font-weight: 500;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14.5px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.front-pagec .icon-feather-bell-F0PwiS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  position: absolute;
+  right: 68px;
+  top: calc(33.39% - 6px);
+  width: 15px;
+}
+
+.front-pagec .path-6-yxZZVx {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.front-pagec .path-7-yxZZVx {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  position: absolute;
+  width: 4px;
+}
+
+.front-pagec .icon-feather-shopping-cart-F0PwiS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  position: absolute;
+  right: 34px;
+  top: calc(33.64% - 6px);
+  width: 19px;
+}
+
+.front-pagec .path-8-jtgjVt {
+  background-color: transparent;
+  bottom: -1px;
+  height: 4px;
+  left: calc(33.02% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 4px;
+}
+
+.front-pagec .path-9-jtgjVt {
+  background-color: transparent;
+  bottom: -1px;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 4px;
+}
+
+.front-pagec .path-10-jtgjVt {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.front-pagec .serch-bar-F0PwiS {
+  background-color: transparent;
+  bottom: 17px;
+  height: 37px;
+  left: 22px;
+  position: absolute;
+  width: calc(100.00% - 42px);
+}
+
+.front-pagec .rectangle-4-IRQRJS {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 13px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .icon-feather-search-IRQRJS {
+  background-color: transparent;
+  bottom: calc(48.70% - 9px);
+  height: 18px;
+  position: absolute;
+  right: 11px;
+  width: 18px;
+}
+
+.front-pagec .path-11-ivxqIL {
+  background-color: transparent;
+  height: 100%;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+
+.front-pagec .path-12-ivxqIL {
+  background-color: transparent;
+  bottom: -1px;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 7px;
+}
+
+.front-pagec .search-for-doctors-IRQRJS {
+  background-color: transparent;
+  bottom: calc(21.43% - 5px);
+  height: 23px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 140px;
+}
+
+.front-pagec .scroll-group-1-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.front-pagec .scroll-group-1-C61RwL {
+  background-color: transparent;
+  height: 185px;
+  left: -48px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 147px;
+  width: 477px;
+}
+
+.front-pagec .main-board-vZhGO4 {
+  background-color: transparent;
+  height: 185px;
+  left: -651px;
+  position: relative;
+  top: 0px;
+  width: 1175px;
+}
+
+.front-pagec .dairy-59xEoh {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 17px);
+  left: 35px;
+  position: absolute;
+  top: 11px;
+  width: 330px;
+}
+
+.front-pagec .rectangle-5-mpta3e {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .mask-group-1-mpta3e {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .track-your-vitals-medical-records-with-mpta3e {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 44px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.23% - 12px);
+  white-space: nowrap;
+  width: 170px;
+}
+
+.front-pagec .digital-diary-mpta3e {
+  background-color: transparent;
+  bottom: calc(33.59% - 12px);
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  height: 37px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 157px;
+}
+
+.front-pagec .explore-mpta3e {
+  background-color: transparent;
+  bottom: 14px;
+  height: 22px;
+  left: 16px;
+  position: absolute;
+  width: 106px;
+}
+
+.front-pagec .rectangle-6-Z0M7Or {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .explore-Z0M7Or {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.front-pagec .icon-open-arrow-right-Z0M7Or {
+  background-color: transparent;
+  bottom: calc(47.30% - 4px);
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 10px;
+  width: 15px;
+}
+
+.front-pagec .medical-book-d-mpta3e {
+  background-color: transparent;
+  bottom: 1px;
+  height: 143px;
+  object-fit: cover;
+  position: absolute;
+  right: -14px;
+  width: 143px;
+}
+
+.front-pagec .mrdical-reminder-59xEoh {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 11px);
+  left: calc(46.17% - 152px);
+  position: absolute;
+  top: 11px;
+  width: 330px;
+}
+
+.front-pagec .rectangle-5-wG0gAl {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 6px);
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .rectangle-8-wG0gAl {
+  background-color: var(--royal-heath);
+  border-radius: 25px;
+  height: calc(100.00% - 18px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 229px;
+}
+
+.front-pagec .mask-group-1-wG0gAl {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .never-miss-outon-any-dose-with-wG0gAl {
+  background-color: transparent;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 44px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.front-pagec .medicinereminders-wG0gAl {
+  background-color: transparent;
+  bottom: calc(37.66% - 22px);
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  height: 59px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.front-pagec .explore-wG0gAl {
+  background-color: transparent;
+  bottom: 20px;
+  height: 22px;
+  left: 19px;
+  position: absolute;
+  width: 105px;
+}
+
+.front-pagec .rectangle-6-08IkHw {
+  background-color: var(--royal-heath);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .explore-08IkHw {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  height: calc(100.00% - 3px);
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.front-pagec .icon-open-arrow-right-08IkHw {
+  background-color: transparent;
+  bottom: calc(47.30% - 4px);
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 9px;
+  width: 15px;
+}
+
+.front-pagec .isolated-3d-alarm-cl-wG0gAl {
+  background-color: transparent;
+  height: calc(100.00% - 13px);
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 13px;
+  width: 160px;
+}
+
+.front-pagec .health-management-59xEoh {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 6px);
+  position: absolute;
+  right: 35px;
+  top: 0px;
+  width: 394px;
+}
+
+.front-pagec .rectangle-5-PxxJwF {
+  background-color: var(--royal-heath);
+  border-radius: 25px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 11px);
+  left: 1px;
+  position: absolute;
+  top: 11px;
+  width: 330px;
+}
+
+.front-pagec .rectangle-8-PxxJwF {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: calc(100.00% - 23px);
+  position: absolute;
+  right: calc(38.79% - 89px);
+  top: 11px;
+  width: 229px;
+}
+
+.front-pagec .mask-group-1-PxxJwF {
+  background-color: transparent;
+  height: calc(100.00% - 11px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 330px;
+}
+
+.front-pagec .explore-PxxJwF {
+  background-color: transparent;
+  bottom: 14px;
+  height: 22px;
+  left: 19px;
+  position: absolute;
+  width: 75px;
+}
+
+.front-pagec .path-80-fDakPF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .explore-fDakPF {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.front-pagec .beautiful-smiling-gi-PxxJwF {
+  background-color: transparent;
+  height: 100%;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 125px);
+}
+
+.front-pagec .health-managementmade-easy-for-PxxJwF {
+  background-color: transparent;
+  color: #f6f1ef;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  height: 37px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(48.24% - 18px);
+  white-space: nowrap;
+  width: 130px;
+}
+
+.front-pagec .bp-sugar-control-PxxJwF {
+  background-color: transparent;
+  bottom: calc(28.44% - 5px);
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  height: 19px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 117px;
+}
+
+.front-pagec .ellipse-26-C61RwL {
+  background-color: var(--royal-heath);
+  border-radius: 15px;
+  cursor: pointer;
+  height: 30px;
+  left: 23px;
+  position: absolute;
+  top: 30px;
+  width: 30px;
+}
+
+.front-pagec .r-ipudaman-s-ingh-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.front-pagec .r-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.front-pagec .menu-button-C61RwL {
+  background-color: transparent;
+  height: 180px;
+  left: -2px;
+  position: fixed;
+  top: 655px;
+  width: 434px;
+}
+
+.front-pagec .union-2-MaUEMx {
+  background-color: transparent;
+  height: calc(100.00% + 23px);
+  left: -15px;
+  object-fit: cover;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 30px);
+}
+
+.front-pagec .home-MaUEMx {
+  background-color: transparent;
+  height: 48px;
+  left: 24px;
+  position: absolute;
+  top: 15px;
+  width: 31px;
+}
+
+.front-pagec .icon-material-home-wex5J4 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.front-pagec .home-wex5J4 {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 1px);
+}
+
+.front-pagec .dairy-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: calc(29.17% - 8px);
+  position: absolute;
+  top: 15px;
+  width: 26px;
+}
+
+.front-pagec .icon-feather-book-47y9BD {
+  background-color: transparent;
+  height: 24px;
+  position: absolute;
+  right: 3px;
+  top: 0px;
+  width: 19px;
+}
+
+.front-pagec .path-17-hG9lGi {
+  background-color: transparent;
+  bottom: 2px;
+  height: 5px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.front-pagec .path-18-hG9lGi {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.front-pagec .diary-47y9BD {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.front-pagec .health-tip-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  position: absolute;
+  right: calc(25.79% - 14px);
+  top: 15px;
+  width: 54px;
+}
+
+.front-pagec .icon-material-lightbulb-outline-SGpnhC {
+  background-color: transparent;
+  height: 26px;
+  left: calc(50.00% - 9px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.front-pagec .health-tips-SGpnhC {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.front-pagec .menu-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  position: absolute;
+  right: 26px;
+  top: 20px;
+  width: 28px;
+}
+
+.front-pagec .icon-metro-menu-u5cdSS {
+  background-color: transparent;
+  height: 16px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.front-pagec .menu-u5cdSS {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.front-pagec .path-19-MaUEMx {
+  background-color: transparent;
+  height: 5px;
+  left: calc(41.88% - 68px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(42.86% - 2px);
+  width: 162px;
+}
+
+.front-pagec .me-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 76px;
+  left: calc(49.72% - 38px);
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: 76px;
+}
+
+.front-pagec .group-78-C61RwL {
+  background-color: transparent;
+  height: 45px;
+  left: 149px;
+  position: absolute;
+  top: 704px;
+  width: 45px;
+}
+
+.front-pagec .group-77-hlxJRL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}

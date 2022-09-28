@@ -1,0 +1,611 @@
+/* screen - my-profile */
+
+.my-profile {
+  background-color: var(--white);
+  height: 1137px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.my-profile .circle-r-C61RwL {
+  background-color: transparent;
+  height: 77px;
+  left: 165px;
+  position: absolute;
+  top: 74px;
+  width: 77px;
+}
+
+.my-profile .ellipse-19-xnxxib {
+  background-color: var(--royal-heath);
+  border-radius: 38.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.my-profile .r-xnxxib {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 4px);
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  right: calc(46.67% - 15px);
+  text-align: left;
+  top: -15px;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.my-profile .my-profile-C61RwL {
+  background-color: transparent;
+  color: var(--gravel-2);
+  font-family: var(--font-family-poppins);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: -10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .save-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 355px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: -10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .ellipse-20-C61RwL {
+  background-color: var(--royal-heath);
+  border: 0.4000000059604645px solid;
+  border-color: var(--white);
+  border-radius: 10.5px;
+  height: 21px;
+  left: 217px;
+  position: absolute;
+  top: 68px;
+  width: 21px;
+}
+
+.my-profile .icon-feather-edit-2-C61RwL {
+  background-color: transparent;
+  height: 9px;
+  left: 223px;
+  object-fit: cover;
+  position: absolute;
+  top: 74px;
+  width: 8px;
+}
+
+.my-profile .first-name-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 139px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .line-1-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 226px;
+  width: 380px;
+}
+
+.my-profile .last-name-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 214px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .line-2-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 310px;
+  width: 380px;
+}
+
+.my-profile .date-of-birth-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 285px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .line-3-C61RwL {
+  background-color: transparent;
+  height: 2px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 380px;
+}
+
+.my-profile .mmddyyyy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 324px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .gender-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 386px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .male-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 213px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 386px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .female-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 310px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 386px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .path-93-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 480px;
+  width: 380px;
+}
+
+.my-profile .height-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 462px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .rectangle-91-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 36px;
+  left: 312px;
+  position: absolute;
+  top: 497px;
+  width: 70px;
+}
+
+.my-profile .rectangle-92-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 36px;
+  left: 315px;
+  position: absolute;
+  top: 568px;
+  width: 70px;
+}
+
+.my-profile .rectangle-94-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 36px;
+  left: 314px;
+  position: absolute;
+  top: 810px;
+  width: 70px;
+}
+
+.my-profile .rectangle-95-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 36px;
+  left: 313px;
+  position: absolute;
+  top: 923px;
+  width: 70px;
+}
+
+.my-profile .rectangle-93-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 36px;
+  left: 314px;
+  position: absolute;
+  top: 710px;
+  width: 70px;
+}
+
+.my-profile .cm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 359px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  text-align: left;
+  top: 515px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .line-4-C61RwL {
+  background-color: transparent;
+  height: 2px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 554px;
+  width: 380px;
+}
+
+.my-profile .habits-and-allergies-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 533px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .update-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 323px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 533px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .enter-you-usual-meal-timings-C61RwL {
+  background-color: transparent;
+  color: var(--gravel-2);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 609px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .breakfast-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 675px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .x800-am-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 322px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 675px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .lunch-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 775px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .x200-pm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 323px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 775px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .dinner-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 887px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .x800-pm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 322px;
+  letter-spacing: 0.00px;
+  line-height: 107px;
+  position: absolute;
+  text-align: left;
+  top: 887px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .do-you-have-any-life-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1018px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .ellipse-21-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 193px;
+  position: absolute;
+  top: 432px;
+  width: 15px;
+}
+
+.my-profile .ellipse-24-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 53px;
+  position: absolute;
+  top: 1072px;
+  width: 15px;
+}
+
+.my-profile .ellipse-25-C61RwL {
+  background-color: var(--white);
+  border: 0.800000011920929px solid;
+  border-color: var(--royal-heath);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 134px;
+  position: absolute;
+  top: 1072px;
+  width: 15px;
+}
+
+.my-profile .ellipse-22-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 290px;
+  position: absolute;
+  top: 432px;
+  width: 15px;
+}
+
+.my-profile .ellipse-23-C61RwL {
+  background-color: var(--royal-heath);
+  border-radius: 4px;
+  height: 8px;
+  left: 294px;
+  position: absolute;
+  top: 436px;
+  width: 8px;
+}
+
+.my-profile .yes-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1070px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .no-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1070px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-profile .line-5-C61RwL {
+  background-color: transparent;
+  height: 2px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 776px;
+  width: 380px;
+}
+
+.my-profile .line-6-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 880px;
+  width: 380px;
+}
+
+.my-profile .line-7-C61RwL {
+  background-color: transparent;
+  height: 2px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 982px;
+  width: 380px;
+}
+
+.my-profile .path-94-C61RwL {
+  background-color: transparent;
+  height: 4px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 1077px;
+  width: 7px;
+}
+
+.my-profile .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 25px;
+  position: absolute;
+  top: 30px;
+  width: 21px;
+}
+
+.my-profile .path-114-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-profile .path-115-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}

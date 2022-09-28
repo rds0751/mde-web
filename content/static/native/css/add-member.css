@@ -1,0 +1,782 @@
+/* screen - add-member */
+
+.add-member {
+  background-color: var(--white);
+  height: 737px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.add-member .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 23px;
+  position: absolute;
+  top: 30px;
+  width: 21px;
+}
+
+.add-member .path-102-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.add-member .path-103-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.add-member .add-profile-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 174px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.add-member .rectangle-98-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 70px;
+  left: 184px;
+  position: absolute;
+  top: 83px;
+  width: 60px;
+}
+
+.add-member .full-name-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 160px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.add-member .date-of-birth-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 220px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.add-member .relationship-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 382px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.add-member .do-you-have-any-life-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 564px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.add-member .rectangle-102-C61RwL {
+  background-color: var(--bon-jour);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 25px;
+  left: 22px;
+  position: absolute;
+  top: 190px;
+  width: 384px;
+}
+
+.add-member .date-of-birth-VMr6Om {
+  background-color: transparent;
+  height: 25px;
+  left: 22px;
+  position: absolute;
+  top: 251px;
+  width: 384px;
+}
+
+.add-member .rectangle-103-qpVzfa {
+  background-color: var(--bon-jour);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.add-member .ddmmyyyy-qpVzfa {
+  background-color: transparent;
+  bottom: 8px;
+  color: var(--star-dust);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 19px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.add-member .icon-feather-calendar-qpVzfa {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  position: absolute;
+  right: 20px;
+  top: 3px;
+  width: 20px;
+}
+
+.add-member .path-122-6FuV0r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% + 1px);
+}
+
+.add-member .path-123-6FuV0r {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 26.85%;
+  top: 0px;
+  width: 1px;
+}
+
+.add-member .path-124-6FuV0r {
+  background-color: transparent;
+  height: 2px;
+  left: 26.85%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.add-member .path-125-6FuV0r {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 39.58%;
+  width: calc(100.00% + 1px);
+}
+
+.add-member .gender-C61RwL {
+  background-color: transparent;
+  height: 90px;
+  left: 22px;
+  position: absolute;
+  top: 290px;
+  width: 200px;
+}
+
+.add-member .gender-X3UkkP {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -4px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.add-member .rectangle-99-X3UkkP {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  bottom: 0px;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  width: 50px;
+}
+
+.add-member .rectangle-100-X3UkkP {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  bottom: 0px;
+  height: 60px;
+  left: calc(50.00% - 25px);
+  position: absolute;
+  width: 50px;
+}
+
+.add-member .rectangle-101-X3UkkP {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  bottom: 0px;
+  height: 60px;
+  position: absolute;
+  right: 0px;
+  width: 50px;
+}
+
+.add-member .icon-awesome-female-X3UkkP {
+  background-color: transparent;
+  bottom: calc(35.19% - 13px);
+  height: 36px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+
+.add-member .icon-awesome-male-X3UkkP {
+  background-color: transparent;
+  bottom: calc(35.19% - 13px);
+  height: 36px;
+  left: calc(49.87% - 7px);
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.add-member .female-X3UkkP {
+  background-color: transparent;
+  bottom: 16px;
+  height: 13px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.add-member .male-X3UkkP {
+  background-color: transparent;
+  bottom: 16px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(49.72% - 10px);
+  text-align: left;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.add-member .others-X3UkkP {
+  background-color: transparent;
+  bottom: calc(39.61% - 5px);
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 10px;
+  text-align: left;
+  white-space: nowrap;
+  width: 28px;
+}
+
+.add-member .mother-C61RwL {
+  background-color: transparent;
+  height: 33px;
+  left: 23px;
+  position: absolute;
+  top: 417px;
+  width: 122px;
+}
+
+.add-member .rectangle-104-qkL0XM {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.add-member .mother-qkL0XM {
+  background-color: transparent;
+  height: 23px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: calc(15.00% - 3px);
+  white-space: nowrap;
+  width: 58px;
+}
+
+.add-member .ellipse-28-qkL0XM {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 7.5px;
+  height: 15px;
+  position: absolute;
+  right: 12px;
+  top: calc(50.00% - 8px);
+  width: 15px;
+}
+
+.add-member .spouse-C61RwL {
+  background-color: transparent;
+  height: 33px;
+  left: 22px;
+  position: absolute;
+  top: 461px;
+  width: 122px;
+}
+
+.add-member .rectangle-104-xh1xDx {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.add-member .spouse-xh1xDx {
+  background-color: transparent;
+  height: 23px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: calc(15.00% - 3px);
+  white-space: nowrap;
+  width: 58px;
+}
+
+.add-member .ellipse-28-xh1xDx {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 7.5px;
+  height: 15px;
+  position: absolute;
+  right: 12px;
+  top: calc(50.00% - 8px);
+  width: 15px;
+}
+
+.add-member .son-C61RwL {
+  background-color: transparent;
+  height: 33px;
+  left: 22px;
+  position: absolute;
+  top: 505px;
+  width: 122px;
+}
+
+.add-member .rectangle-104-v8eCwG {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.add-member .ellipse-28-v8eCwG {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 7.5px;
+  height: 15px;
+  position: absolute;
+  right: 12px;
+  top: calc(50.00% - 8px);
+  width: 15px;
+}
+
+.add-member .son-v8eCwG {
+  background-color: transparent;
+  height: 23px;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: calc(15.00% - 3px);
+  white-space: nowrap;
+  width: 30px;
+}
+
+.add-member .others-C61RwL {
+  background-color: transparent;
+  height: 33px;
+  left: 245px;
+  position: absolute;
+  top: 505px;
+  width: 122px;
+}
+
+.add-member .rectangle-104-TYzMiO {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.add-member .ellipse-28-TYzMiO {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 7.5px;
+  height: 15px;
+  position: absolute;
+  right: 12px;
+  top: calc(50.00% - 8px);
+  width: 15px;
+}
+
+.add-member .others-TYzMiO {
+  background-color: transparent;
+  height: 23px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: calc(15.00% - 3px);
+  white-space: nowrap;
+  width: 52px;
+}
+
+.add-member .daughter-C61RwL {
+  background-color: transparent;
+  height: 33px;
+  left: 242px;
+  position: absolute;
+  top: 461px;
+  width: 122px;
+}
+
+.add-member .rectangle-104-tc8ybH {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.add-member .daughter-tc8ybH {
+  background-color: transparent;
+  height: 23px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: calc(15.00% - 3px);
+  white-space: nowrap;
+  width: 72px;
+}
+
+.add-member .ellipse-28-tc8ybH {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 7.5px;
+  height: 15px;
+  position: absolute;
+  right: 12px;
+  top: calc(50.00% - 8px);
+  width: 15px;
+}
+
+.add-member .father-C61RwL {
+  background-color: transparent;
+  height: 33px;
+  left: 242px;
+  position: absolute;
+  top: 417px;
+  width: 122px;
+}
+
+.add-member .rectangle-104-cogDIF {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.add-member .father-cogDIF {
+  background-color: transparent;
+  height: 23px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: calc(15.00% - 3px);
+  white-space: nowrap;
+  width: 54px;
+}
+
+.add-member .ellipse-28-cogDIF {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 7.5px;
+  height: 15px;
+  position: absolute;
+  right: 12px;
+  top: calc(50.00% - 8px);
+  width: 15px;
+}
+
+.add-member .yes-no-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 22px;
+  position: absolute;
+  top: 619px;
+  width: 192px;
+}
+
+.add-member .yes-HI44Qx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 88px;
+}
+
+.add-member .rectangle-105-sxTl0C {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.add-member .ellipse-29-sxTl0C {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 7.5px;
+  height: 15px;
+  position: absolute;
+  right: 10px;
+  top: calc(42.86% - 6px);
+  width: 15px;
+}
+
+.add-member .yes-sxTl0C {
+  background-color: transparent;
+  bottom: calc(115.00% - 22px);
+  color: #0d0101;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 19px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 23px;
+}
+
+.add-member .yes-pdfrbx {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 88px;
+}
+
+.add-member .rectangle-105-YIF1EA {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.add-member .ellipse-29-YIF1EA {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 7.5px;
+  height: 15px;
+  position: absolute;
+  right: 10px;
+  top: calc(42.86% - 6px);
+  width: 15px;
+}
+
+.add-member .no-YIF1EA {
+  background-color: transparent;
+  bottom: calc(115.00% - 22px);
+  color: #0d0101;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 19px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 18px;
+}
+
+.add-member .rectangle-106-C61RwL {
+  background-color: var(--royal-heath);
+  border-radius: 10px;
+  height: 48px;
+  left: 22px;
+  position: absolute;
+  top: 675px;
+  width: 384px;
+}
+
+.add-member .confirm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 174px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 688px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.add-member .ellipse-30-C61RwL {
+  background-color: var(--royal-heath);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 228px;
+  position: absolute;
+  top: 80px;
+  width: 15px;
+}
+
+.add-member .icon-map-male-C61RwL {
+  background-color: transparent;
+  height: 53px;
+  left: 204px;
+  position: absolute;
+  top: 93px;
+  width: 20px;
+}
+
+.add-member .path-138-atrZis {
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 100%;
+}
+
+.add-member .path-139-atrZis {
+  background-color: transparent;
+  height: 9px;
+  left: calc(48.72% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}

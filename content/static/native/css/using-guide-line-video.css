@@ -1,0 +1,78 @@
+/* screen - using-guide-line-video */
+
+.using-guide-line-video {
+  background-color: var(--white);
+  height: 807px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.using-guide-line-video .video-plays-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 126px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 460px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.using-guide-line-video .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 31px;
+  width: 21px;
+}
+
+.using-guide-line-video .path-213-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.using-guide-line-video .path-214-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.using-guide-line-video .icon-feather-play-C61RwL {
+  background-color: transparent;
+  height: 59px;
+  left: 189px;
+  object-fit: cover;
+  position: absolute;
+  top: 347px;
+  width: 51px;
+}
+
+.using-guide-line-video .icon-material-play-circle-outline-C61RwL {
+  background-color: transparent;
+  height: 132px;
+  left: 148px;
+  object-fit: cover;
+  position: absolute;
+  top: 301px;
+  width: 132px;
+}

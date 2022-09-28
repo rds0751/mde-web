@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="{% static 'native/img/me%401x.png' %}" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="{% static 'native/img/me%401x.png' %}" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="{% static 'native/css/my-cart.css' %}" />
+    <link rel="stylesheet" type="text/css" href="{% static 'native/css/styleguide.css' %}" />
+    <link rel="stylesheet" type="text/css" href="{% static 'native/css/globals.css' %}" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="my-cart" />
+    <div class="container-center-horizontal">
+      <div class="my-cart screen">
+        <div class="x0-C61RwL"></div>
+        <div class="my-cart-C61RwL">My Cart</div>
+        <div class="your-cart-is-empty-add-something-C61RwL">Your cart is empty. Add something</div>
+        <img class="no-path-C61RwL" src="{% static 'native/img/nopath@1x.png' %}" alt="NoPath" />
+        <a target="_self" href="/app/front-pagec">
+          <div class="icon-feather-arrow-left-C61RwL">
+            <img class="path-112-d9Ofuj" src="{% static 'native/img/path-112@1x.png' %}" alt="Path 112" />
+            <img class="path-113-d9Ofuj" src="{% static 'native/img/path-113@1x.png' %}" alt="Path 113" /></div
+        ></a>
+      </div>
+    </div>
+  </body>
+</html>

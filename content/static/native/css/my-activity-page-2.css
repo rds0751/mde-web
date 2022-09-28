@@ -1,0 +1,459 @@
+/* screen - my-activity-page-2 */
+
+.my-activity-page-2 {
+  background-color: var(--white);
+  height: 735px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.my-activity-page-2 .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 23px;
+  position: absolute;
+  top: 31px;
+  width: 21px;
+}
+
+.my-activity-page-2 .path-242-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-activity-page-2 .path-243-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.my-activity-page-2 .rectangle-163-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  box-shadow: 0px 15px 6px #e2e2e2;
+  height: 68px;
+  left: 22px;
+  position: absolute;
+  top: 60px;
+  width: 384px;
+}
+
+.my-activity-page-2 .advance-mode-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 73px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity-page-2 .add-dosage-route-frequency-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity-page-2 .group-52-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 299px;
+  position: absolute;
+  top: 64px;
+  width: 50px;
+}
+
+.my-activity-page-2 .rectangle-164-odKgLo {
+  background-color: #eeb8dd;
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.my-activity-page-2 .ellipse-32-odKgLo {
+  background-color: var(--royal-heath);
+  border-radius: 12.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.my-activity-page-2 .set-alarm-for-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 150px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity-page-2 .rectangle-165-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 181px;
+  left: 22px;
+  position: absolute;
+  top: 181px;
+  width: 111px;
+}
+
+.my-activity-page-2 .rectangle-166-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 181px;
+  left: 158px;
+  position: absolute;
+  top: 181px;
+  width: 111px;
+}
+
+.my-activity-page-2 .rectangle-167-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 181px;
+  left: 294px;
+  position: absolute;
+  top: 181px;
+  width: 111px;
+}
+
+.my-activity-page-2 .morning-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 288px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity-page-2 .afternoon-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 177px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 288px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity-page-2 .evening-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 321px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 288px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity-page-2 .sunrise-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 181px;
+  width: 100px;
+}
+
+.my-activity-page-2 .sunset-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 164px;
+  object-fit: cover;
+  position: absolute;
+  top: 178px;
+  width: 100px;
+}
+
+.my-activity-page-2 .night-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 300px;
+  object-fit: cover;
+  position: absolute;
+  top: 181px;
+  width: 100px;
+}
+
+.my-activity-page-2 .rectangle-168-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 28px;
+  left: 65px;
+  position: absolute;
+  top: 323px;
+  width: 27px;
+}
+
+.my-activity-page-2 .rectangle-169-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 28px;
+  left: 201px;
+  position: absolute;
+  top: 323px;
+  width: 27px;
+}
+
+.my-activity-page-2 .rectangle-170-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 28px;
+  left: 337px;
+  position: absolute;
+  top: 323px;
+  width: 27px;
+}
+
+.my-activity-page-2 .path-244-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 329px;
+  width: 22px;
+}
+
+.my-activity-page-2 .path-245-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 203px;
+  object-fit: cover;
+  position: absolute;
+  top: 329px;
+  width: 22px;
+}
+
+.my-activity-page-2 .path-246-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 339px;
+  object-fit: cover;
+  position: absolute;
+  top: 329px;
+  width: 22px;
+}
+
+.my-activity-page-2 .end-reminder-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 417px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity-page-2 .rectangle-171-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  box-shadow: 0px 7px 6px #00000029;
+  height: 54px;
+  left: 152px;
+  position: absolute;
+  top: 398px;
+  width: 56px;
+}
+
+.my-activity-page-2 .rectangle-172-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  box-shadow: 0px 7px 6px #00000029;
+  height: 58px;
+  left: 264px;
+  position: absolute;
+  top: 394px;
+  width: 130px;
+}
+
+.my-activity-page-2 .days-C61RwL {
+  background-color: transparent;
+  color: var(--star-dust);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 285px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 416px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity-page-2 .icon-ionic-ios-arrow-dropdown-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 349px;
+  position: absolute;
+  top: 412px;
+  width: 22px;
+}
+
+.my-activity-page-2 .path-247-Nf9Jbx {
+  background-color: transparent;
+  bottom: calc(49.55% - 3px);
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.57% - 5px);
+  width: 11px;
+}
+
+.my-activity-page-2 .path-248-Nf9Jbx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.my-activity-page-2 .notes-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 477px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity-page-2 .rectangle-173-C61RwL {
+  background-color: #f2f1f1;
+  border-radius: 15px;
+  box-shadow: inset 0px 30px 6px #00000029;
+  height: 30px;
+  left: 22px;
+  position: absolute;
+  top: 513px;
+  width: 384px;
+}
+
+.my-activity-page-2 .write-your-own-comments-here-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 521px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity-page-2 .rectangle-174-C61RwL {
+  background-color: var(--royal-heath);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 46px;
+  left: 22px;
+  opacity: 0.71;
+  position: absolute;
+  top: 673px;
+  width: 384px;
+}
+
+.my-activity-page-2 .set-reminder-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 161px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0.71;
+  position: absolute;
+  text-align: center;
+  top: 689px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-activity-page-2 .ellipse-33-C61RwL {
+  background-color: #cb9ebe;
+  border-radius: 60px/58px;
+  height: 116px;
+  left: 269px;
+  position: absolute;
+  top: 550px;
+  width: 120px;
+}
+
+.my-activity-page-2 .cutlery-C61RwL {
+  background-color: transparent;
+  height: 64px;
+  left: 297px;
+  object-fit: cover;
+  position: absolute;
+  top: 576px;
+  width: 64px;
+}

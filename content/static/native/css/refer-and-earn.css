@@ -1,0 +1,314 @@
+/* screen - refer-and-earn */
+
+.refer-and-earn {
+  background-color: var(--white);
+  height: 890px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.refer-and-earn .no-path-copy-2-C61RwL {
+  background-color: transparent;
+  height: 282px;
+  left: -36px;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 500px;
+}
+
+.refer-and-earn .refer-and-earn-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.refer-and-earn .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  opacity: 0.3;
+  position: absolute;
+  top: 35px;
+  width: 21px;
+}
+
+.refer-and-earn .path-163-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.refer-and-earn .path-164-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.refer-and-earn .hi-got-a-friend-or-f-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 396px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.refer-and-earn .rectangle-132-C61RwL {
+  background-color: #cef1ce;
+  border-radius: 15px;
+  height: 60px;
+  left: 125px;
+  position: absolute;
+  top: 523px;
+  width: 179px;
+}
+
+.refer-and-earn .md0-r8-l-C61RwL {
+  background-color: transparent;
+  color: #004000;
+  font-family: var(--font-family-poppins);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 544px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.refer-and-earn .icon-feather-copy-C61RwL {
+  background-color: transparent;
+  height: 30px;
+  left: 259px;
+  position: absolute;
+  top: 538px;
+  width: 30px;
+}
+
+.refer-and-earn .path-165-Wszwhr {
+  background-color: transparent;
+  bottom: -1px;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 22px;
+}
+
+.refer-and-earn .path-166-Wszwhr {
+  background-color: transparent;
+  height: 22px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 22px;
+}
+
+.refer-and-earn .rectangle-133-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 15px;
+  height: 36px;
+  left: 159px;
+  position: absolute;
+  top: 608px;
+  width: 94px;
+}
+
+.refer-and-earn .icon-feather-share-2-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 171px;
+  position: absolute;
+  top: 616px;
+  width: 21px;
+}
+
+.refer-and-earn .path-167-LGdiZY {
+  background-color: transparent;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 0px;
+  width: 8px;
+}
+
+.refer-and-earn .path-168-LGdiZY {
+  background-color: transparent;
+  bottom: calc(41.51% - 3px);
+  height: 8px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.refer-and-earn .path-169-LGdiZY {
+  background-color: transparent;
+  bottom: 0px;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 8px;
+}
+
+.refer-and-earn .path-170-LGdiZY {
+  background-color: transparent;
+  bottom: calc(25.80% - 1px);
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 4px);
+  width: 8px;
+}
+
+.refer-and-earn .path-171-LGdiZY {
+  background-color: transparent;
+  height: 4px;
+  left: calc(37.29% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(28.92% - 1px);
+  width: 6px;
+}
+
+.refer-and-earn .s-hare-C61RwL {
+  background-color: transparent;
+  color: var(--heavy-metal);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 195px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 616px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.refer-and-earn .rectangle-134-C61RwL {
+  background-color: #dcffdc;
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 205px;
+  left: 0px;
+  position: absolute;
+  top: 687px;
+  width: 428px;
+}
+
+.refer-and-earn .c-onditions-applied-C61RwL {
+  background-color: transparent;
+  color: var(--heavy-metal);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 694px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.refer-and-earn .span0-pIdebx {
+}
+
+.refer-and-earn .span1-pIdebx {
+}
+
+.refer-and-earn .referral-code-is-app-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 718px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.refer-and-earn .bonus-can-only-be-cr-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 764px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.refer-and-earn .bonus-valid-for-thre-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 812px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.refer-and-earn .know-more-C61RwL {
+  background-color: transparent;
+  color: var(--heavy-metal);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 860px;
+  white-space: nowrap;
+  width: auto;
+}

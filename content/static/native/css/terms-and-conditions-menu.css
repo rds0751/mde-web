@@ -1,0 +1,363 @@
+/* screen - terms-and-conditions-menu */
+
+.terms-and-conditions-menu {
+  background-color: var(--white);
+  height: 924px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.terms-and-conditions-menu .consult-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 140px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .doctors-on-demand-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 166px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .monitor-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 226px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .vitals-treatments-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 248px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .order-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 308px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .medicines-lab-tests-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 328px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .shop-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .healthcare-devices-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 408px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .subscribe-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 468px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .healthcare-plans-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 486px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .doctor-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 546px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .sign-up-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 566px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .for-doctors-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 626px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .for-partners-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 688px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .coming-soon-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 710px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .about-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 770px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .blog-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 832px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.terms-and-conditions-menu .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  height: 121px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 428px;
+}
+
+.terms-and-conditions-menu .rectangle-139-d9Ofuj {
+  background-color: var(--white);
+  box-shadow: 0px 10px 6px #e2e2e2;
+  height: calc(100.00% - 22px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.terms-and-conditions-menu .t-erms-c-onditions-d9Ofuj {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(49.65% - 71px);
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.terms-and-conditions-menu .icon-feather-menu-d9Ofuj {
+  background-color: transparent;
+  bottom: calc(34.84% - 5px);
+  height: 14px;
+  left: 23px;
+  position: absolute;
+  width: 20px;
+}
+
+.terms-and-conditions-menu .path-200-4P3cYz {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.terms-and-conditions-menu .path-201-4P3cYz {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.terms-and-conditions-menu .path-202-4P3cYz {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.terms-and-conditions-menu .medose-logo-final-png-d9Ofuj {
+  background-color: transparent;
+  bottom: 0px;
+  height: 95px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  width: 158px;
+}
+
+.terms-and-conditions-menu .download-removebg-preview-6-d9Ofuj {
+  background-color: transparent;
+  bottom: calc(32.97% - 10px);
+  height: 30px;
+  object-fit: cover;
+  position: absolute;
+  right: 22px;
+  width: 30px;
+}
+
+.terms-and-conditions-menu .path-198-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 21.05%;
+  width: 23px;
+}
+
+.terms-and-conditions-menu .path-199-d9Ofuj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 13px;
+}
+
+.terms-and-conditions-menu .rectangle-140-C61RwL {
+  background-color: var(--royal-heath);
+  border-radius: 10px;
+  height: 40px;
+  left: 348px;
+  position: absolute;
+  top: 827px;
+  width: 48px;
+}
+
+.terms-and-conditions-menu .icon-material-message-C61RwL {
+  background-color: transparent;
+  height: 30px;
+  left: 357px;
+  object-fit: cover;
+  position: absolute;
+  top: 833px;
+  width: 30px;
+}

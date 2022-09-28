@@ -1,0 +1,207 @@
+/* screen - my-doctors-1 */
+
+.my-doctors-1 {
+  background-color: var(--white);
+  height: 735px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 429px;
+}
+
+.my-doctors-1 .add-doctor-detail-C61RwL {
+  background-color: transparent;
+  color: var(--star-dust);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 151px;
+  letter-spacing: 0.28px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-doctors-1 .icon-feather-plus-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 30px;
+  position: absolute;
+  top: 107px;
+  width: 21px;
+}
+
+.my-doctors-1 .path-97-RHwCW2 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.my-doctors-1 .path-98-RHwCW2 {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-doctors-1 .path-99-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 384px;
+}
+
+.my-doctors-1 .path-254-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 205px;
+  width: 384px;
+}
+
+.my-doctors-1 .path-255-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 239px;
+  width: 384px;
+}
+
+.my-doctors-1 .path-256-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 273px;
+  width: 384px;
+}
+
+.my-doctors-1 .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 32px;
+  width: 21px;
+}
+
+.my-doctors-1 .path-120-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-doctors-1 .path-121-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.my-doctors-1 .doctor-name-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: var(--onyx);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-doctors-1 .advice-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: var(--onyx);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 178px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-doctors-1 .dr-xxxxxxxxxxxxx-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 184px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-doctors-1 .x-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 162px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 178px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-doctors-1 .x-VMr6Om {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}

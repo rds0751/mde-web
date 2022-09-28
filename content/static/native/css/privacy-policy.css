@@ -1,0 +1,520 @@
+/* screen - privacy-policy */
+
+.privacy-policy {
+  background-color: var(--white);
+  height: 1835px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.privacy-policy .please-read-the-priv-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 152px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.privacy-policy .please-read-the-priv-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 312px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.privacy-policy .please-read-the-priv-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 472px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.privacy-policy .please-read-the-priv-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 632px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.privacy-policy .please-read-the-priv-2P4qUJ {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 792px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.privacy-policy .please-read-the-priv-qr8e7q {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 952px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.privacy-policy .please-read-the-priv-J1YQmd {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1112px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.privacy-policy .group-30-C61RwL {
+  background-color: transparent;
+  height: 121px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 428px;
+}
+
+.privacy-policy .rectangle-139-xxkKyh {
+  background-color: var(--white);
+  box-shadow: 0px 10px 6px #e2e2e2;
+  height: calc(100.00% - 22px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.privacy-policy .privacy-p-olicy-xxkKyh {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: 23px;
+  left: calc(47.35% - 60px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: calc(33.12% - 8px);
+  white-space: nowrap;
+  width: 126px;
+}
+
+.privacy-policy .span0-3w6LuB {
+}
+
+.privacy-policy .span1-3w6LuB {
+}
+
+.privacy-policy .icon-feather-menu-xxkKyh {
+  background-color: transparent;
+  bottom: calc(32.05% - 4px);
+  cursor: pointer;
+  height: 14px;
+  left: 23px;
+  position: absolute;
+  width: 20px;
+}
+
+.privacy-policy .path-200-hXwDQn {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.privacy-policy .path-201-hXwDQn {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.privacy-policy .path-202-hXwDQn {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.privacy-policy .medose-logo-final-png-xxkKyh {
+  background-color: transparent;
+  bottom: 0px;
+  height: 95px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  width: 158px;
+}
+
+.privacy-policy .download-removebg-preview-6-xxkKyh {
+  background-color: transparent;
+  bottom: calc(34.07% - 10px);
+  height: 30px;
+  object-fit: cover;
+  position: absolute;
+  right: 22px;
+  width: 30px;
+}
+
+.privacy-policy .please-read-the-priv-a5WPlX {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1272px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.privacy-policy .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  position: fixed;
+  top: 31px;
+  width: 23px;
+}
+
+.privacy-policy .icon-feather-arrow-left-d9Ofuj {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.privacy-policy .path-199-Ohm2wb {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.privacy-policy .path-198-Ohm2wb {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.44% - 1px);
+  width: 100%;
+}
+
+.privacy-policy .group-29-C61RwL {
+  background-color: transparent;
+  height: 378px;
+  left: 0px;
+  position: absolute;
+  top: 1457px;
+  width: 430px;
+}
+
+.privacy-policy .path-206-sUxRyR {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.privacy-policy .were-bringing-the-fu-sUxRyR {
+  background-color: transparent;
+  height: 40px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  white-space: nowrap;
+  width: calc(100.00% - 82px);
+}
+
+.privacy-policy .company-sUxRyR {
+  background-color: transparent;
+  color: #fd6527;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+  height: 21px;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: calc(33.61% - 7px);
+  white-space: nowrap;
+  width: 68px;
+}
+
+.privacy-policy .education-sUxRyR {
+  background-color: transparent;
+  color: #fd6527;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(29.03% - 20px);
+  text-align: center;
+  top: calc(33.61% - 7px);
+  white-space: nowrap;
+  width: 68px;
+}
+
+.privacy-policy .about-sUxRyR {
+  background-color: transparent;
+  height: 21px;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: calc(41.74% - 9px);
+  white-space: nowrap;
+  width: 42px;
+}
+
+.privacy-policy .blog-sUxRyR {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(30.83% - 10px);
+  text-align: center;
+  top: calc(41.74% - 9px);
+  white-space: nowrap;
+  width: 34px;
+}
+
+.privacy-policy .careers-sUxRyR {
+  background-color: transparent;
+  bottom: calc(49.00% - 10px);
+  height: 21px;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.privacy-policy .health-guide-sUxRyR {
+  background-color: transparent;
+  bottom: calc(49.00% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(27.93% - 24px);
+  text-align: center;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.privacy-policy .customer-care-number-7406-147-147-sUxRyR {
+  background-color: transparent;
+  bottom: calc(35.74% - 8px);
+  height: 23px;
+  left: calc(47.82% - 139px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 290px;
+}
+
+.privacy-policy .icons-sUxRyR {
+  background-color: transparent;
+  bottom: calc(23.53% - 5px);
+  height: 22px;
+  left: calc(43.49% - 76px);
+  position: absolute;
+  width: 175px;
+}
+
+.privacy-policy .icon-awesome-facebook-1DvQID {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.privacy-policy .icon-awesome-twitter-1DvQID {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: calc(26.85% - 6px);
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.privacy-policy .icon-awesome-instagram-1DvQID {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(45.54% - 9px);
+  top: 1px;
+  width: 20px;
+}
+
+.privacy-policy .icon-awesome-linkedin-in-1DvQID {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(21.07% - 4px);
+  top: 0px;
+  width: 21px;
+}
+
+.privacy-policy .icon-feather-youtube-1DvQID {
+  background-color: transparent;
+  bottom: 1px;
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 20px;
+}
+
+.privacy-policy .path-196-1go236 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.privacy-policy .path-197-1go236 {
+  background-color: transparent;
+  bottom: calc(49.70% - 4px);
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(45.56% - 3px);
+  width: 7px;
+}
+
+.privacy-policy .terms-conditions-sUxRyR {
+  background-color: transparent;
+  bottom: 42px;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.privacy-policy .privacy-policy-sUxRyR {
+  background-color: transparent;
+  bottom: 42px;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 44px;
+  text-align: center;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.privacy-policy .copyrights-all-rights-reserved-sUxRyR {
+  background-color: transparent;
+  bottom: 15px;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: calc(49.98% - 79px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 158px;
+}

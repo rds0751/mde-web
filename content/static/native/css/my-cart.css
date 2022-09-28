@@ -1,0 +1,104 @@
+/* screen - my-cart */
+
+.my-cart {
+  background-color: var(--white);
+  height: 735px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 429px;
+}
+
+.my-cart .x0-C61RwL {
+  background-color: transparent;
+  color: var(--star-dust);
+  font-family: var(--font-family-poppins);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-cart .my-cart-C61RwL {
+  background-color: transparent;
+  color: #484646;
+  font-family: var(--font-family-poppins);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 76px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-cart .your-cart-is-empty-add-something-C61RwL {
+  background-color: transparent;
+  color: #484646;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 484px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-cart .no-path-C61RwL {
+  background-color: transparent;
+  height: 287px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 224px;
+  width: 287px;
+}
+
+.my-cart .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 30px;
+  width: 21px;
+}
+
+.my-cart .path-112-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-cart .path-113-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}

@@ -1,0 +1,213 @@
+/* screen - lab-test */
+
+.lab-test {
+  background-color: var(--white);
+  height: 737px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.lab-test .lab-test-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.lab-test .icon-feather-plus-circle-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 31px;
+  position: absolute;
+  top: 139px;
+  width: 20px;
+}
+
+.lab-test .path-262-WTLb2b {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.lab-test .path-263-WTLb2b {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.lab-test .path-264-WTLb2b {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.lab-test .icon-feather-plus-circle-VMr6Om {
+  background-color: transparent;
+  height: 20px;
+  left: 31px;
+  position: absolute;
+  top: 203px;
+  width: 20px;
+}
+
+.lab-test .path-262-Oc7JCx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.lab-test .path-263-Oc7JCx {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.lab-test .path-264-Oc7JCx {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.lab-test .icon-feather-plus-circle-mzXdH9 {
+  background-color: transparent;
+  height: 20px;
+  left: 31px;
+  position: absolute;
+  top: 267px;
+  width: 20px;
+}
+
+.lab-test .path-262-KxDAAl {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.lab-test .path-263-KxDAAl {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.lab-test .path-264-KxDAAl {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.lab-test .lab-test-VMr6Om {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 140px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.lab-test .diagnosis-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 204px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.lab-test .report-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 78px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 268px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.lab-test .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 25px;
+  position: absolute;
+  top: 31px;
+  width: 21px;
+}
+
+.lab-test .path-265-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.lab-test .path-266-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}

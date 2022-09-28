@@ -1,0 +1,764 @@
+/* screen - bp-and-sugar-control */
+
+.bp-and-sugar-control {
+  background-color: var(--white);
+  height: 1216px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.bp-and-sugar-control .path-90-C61RwL {
+  background-color: transparent;
+  height: 7px;
+  left: 211px;
+  object-fit: cover;
+  position: absolute;
+  top: 522px;
+  width: 6px;
+}
+
+.bp-and-sugar-control .rectangle-85-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  height: 120px;
+  left: 0px;
+  opacity: 0.2;
+  position: absolute;
+  top: 28px;
+  width: 428px;
+}
+
+.bp-and-sugar-control .medose-logo-final-png-C61RwL {
+  background-color: transparent;
+  height: 103px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: -12px;
+  width: 170px;
+}
+
+.bp-and-sugar-control .scroll-group-5-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.bp-and-sugar-control .scroll-group-5-C61RwL {
+  background-color: transparent;
+  height: 14px;
+  left: 37px;
+  mix-blend-mode: normal;
+  overflow-y: scroll;
+  position: absolute;
+  top: 81px;
+  width: 313px;
+}
+
+.bp-and-sugar-control .your-partner-vF0NCc {
+  background-color: transparent;
+  height: 66px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 315px;
+}
+
+.bp-and-sugar-control .your-partner-is-moni-FBHLi8 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% - 24px);
+}
+
+.bp-and-sugar-control .personalized-program-FBHLi8 {
+  background-color: transparent;
+  bottom: calc(43.75% - 15px);
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 38px);
+}
+
+.bp-and-sugar-control .complete-your-guidan-FBHLi8 {
+  background-color: transparent;
+  bottom: -3px;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bp-and-sugar-control .choose-from-our-programs-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  top: 154px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bp-and-sugar-control .diabetes-management-C61RwL {
+  background-color: transparent;
+  height: 119px;
+  left: 22px;
+  position: absolute;
+  top: 185px;
+  width: 384px;
+}
+
+.bp-and-sugar-control .rectangle-78-T9XoRS {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bp-and-sugar-control .rectangle-79-T9XoRS {
+  background-color: var(--colonial-white);
+  border-radius: 20px 0px 0px 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 131px;
+}
+
+.bp-and-sugar-control .glucose-meter-T9XoRS {
+  background-color: transparent;
+  height: calc(100.00% - 22px);
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 97px;
+}
+
+.bp-and-sugar-control .diabetes-management-T9XoRS {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(46.76% - 50px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.bp-and-sugar-control .worried-about-sugar-T9XoRS {
+  background-color: transparent;
+  bottom: calc(39.32% - 15px);
+  height: 37px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 20px;
+  text-align: left;
+  white-space: nowrap;
+  width: 216px;
+}
+
+.bp-and-sugar-control .known-more-T9XoRS {
+  background-color: transparent;
+  bottom: 2px;
+  height: 19px;
+  left: calc(49.66% - 43px);
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.bp-and-sugar-control .diabetes-management-VMr6Om {
+  background-color: transparent;
+  height: 120px;
+  left: 24px;
+  position: absolute;
+  top: 321px;
+  width: 382px;
+}
+
+.bp-and-sugar-control .rectangle-78-jKbYE7 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bp-and-sugar-control .rectangle-79-jKbYE7 {
+  background-color: var(--colonial-white);
+  border-radius: 20px 0px 0px 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 131px;
+}
+
+.bp-and-sugar-control .glucose-meter-jKbYE7 {
+  background-color: transparent;
+  height: calc(100.00% - 28px);
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 92px;
+}
+
+.bp-and-sugar-control .w-eight-m-anagement-jKbYE7 {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(47.10% - 50px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.bp-and-sugar-control .c-oncerned-about-w-e-jKbYE7 {
+  background-color: transparent;
+  bottom: calc(45.18% - 17px);
+  height: 37px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 26px;
+  text-align: left;
+  white-space: nowrap;
+  width: 209px;
+}
+
+.bp-and-sugar-control .known-more-jKbYE7 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 19px;
+  left: calc(49.32% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.bp-and-sugar-control .diabetes-management-mzXdH9 {
+  background-color: transparent;
+  height: 120px;
+  left: 23px;
+  position: absolute;
+  top: 458px;
+  width: 382px;
+}
+
+.bp-and-sugar-control .rectangle-78-ubdaej {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bp-and-sugar-control .rectangle-79-ubdaej {
+  background-color: var(--colonial-white);
+  border-radius: 20px 0px 0px 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 131px;
+}
+
+.bp-and-sugar-control .pcos-ubdaej {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 114px;
+}
+
+.bp-and-sugar-control .pcos-4GzVh0 {
+  background-color: transparent;
+  height: 23px;
+  left: calc(43.20% - 19px);
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.bp-and-sugar-control .dealing-with-pcos-im-ubdaej {
+  background-color: transparent;
+  bottom: calc(46.39% - 17px);
+  height: 37px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 37px;
+  text-align: left;
+  white-space: nowrap;
+  width: 199px;
+}
+
+.bp-and-sugar-control .known-more-ubdaej {
+  background-color: transparent;
+  bottom: 2px;
+  height: 19px;
+  left: calc(49.32% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.bp-and-sugar-control .diabetes-management-QxM5SU {
+  background-color: transparent;
+  height: 150px;
+  left: 22px;
+  position: absolute;
+  top: 572px;
+  width: 384px;
+}
+
+.bp-and-sugar-control .rectangle-78-UpIJau {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  height: calc(100.00% - 30px);
+  left: 1px;
+  position: absolute;
+  top: 15px;
+  width: 100%;
+}
+
+.bp-and-sugar-control .rectangle-79-UpIJau {
+  background-color: var(--colonial-white);
+  border-radius: 20px 0px 0px 20px;
+  height: calc(100.00% - 30px);
+  left: 1px;
+  position: absolute;
+  top: 15px;
+  width: 133px;
+}
+
+.bp-and-sugar-control .hypertension-management-UpIJau {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(46.01% - 50px);
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.bp-and-sugar-control .dealing-with-pcos-im-UpIJau {
+  background-color: transparent;
+  bottom: calc(41.16% - 15px);
+  height: 37px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 35px;
+  text-align: left;
+  white-space: nowrap;
+  width: 199px;
+}
+
+.bp-and-sugar-control .known-more-UpIJau {
+  background-color: transparent;
+  bottom: 16px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  right: calc(49.66% - 43px);
+  text-align: left;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.bp-and-sugar-control .watch-removebg-preview-UpIJau {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 143px;
+}
+
+.bp-and-sugar-control .having-trouble-deciding-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 771px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.bp-and-sugar-control .group-16-C61RwL {
+  background-color: transparent;
+  height: 99px;
+  left: 22px;
+  position: absolute;
+  top: 1063px;
+  width: 384px;
+}
+
+.bp-and-sugar-control .rectangle-81-vUOK69 {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bp-and-sugar-control .we-are-curating-more-programsfor-you-vUOK69 {
+  background-color: transparent;
+  color: var(--gravel);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  height: 34px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(24.62% - 8px);
+  white-space: nowrap;
+  width: 199px;
+}
+
+.bp-and-sugar-control .toggle-on-to-find-ou-vUOK69 {
+  background-color: transparent;
+  bottom: 11px;
+  color: var(--gravel);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 32px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.bp-and-sugar-control .opted-out-vUOK69 {
+  background-color: transparent;
+  bottom: calc(41.86% - 5px);
+  color: var(--gravel);
+  font-family: var(--font-family-poppins);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 44px;
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.bp-and-sugar-control .rectangle-83-vUOK69 {
+  background-color: #d1a8c5;
+  border: 1px solid;
+  border-color: #d1a8c5;
+  border-radius: 20px;
+  height: 18px;
+  position: absolute;
+  right: 46px;
+  top: calc(38.27% - 7px);
+  width: 40px;
+}
+
+.bp-and-sugar-control .ellipse-16-vUOK69 {
+  background-color: var(--white);
+  border: 0.20000000298023224px solid;
+  border-color: var(--royal-heath);
+  border-radius: 10px/9.5px;
+  height: 19px;
+  position: absolute;
+  right: calc(18.13% - 4px);
+  top: calc(37.50% - 7px);
+  width: 20px;
+}
+
+.bp-and-sugar-control .group-15-C61RwL {
+  background-color: transparent;
+  height: 224px;
+  left: 22px;
+  position: absolute;
+  top: 804px;
+  width: 402px;
+}
+
+.bp-and-sugar-control .rectangle-84-wz60dm {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 18px);
+}
+
+.bp-and-sugar-control .istockphoto-11893040-wz60dm {
+  background-color: transparent;
+  bottom: 3px;
+  height: 187px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 279px;
+}
+
+.bp-and-sugar-control .rectangle-82-wz60dm {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  bottom: 23px;
+  cursor: pointer;
+  height: 27px;
+  left: 19px;
+  position: absolute;
+  width: calc(100.00% - 53px);
+}
+
+.bp-and-sugar-control .take-expert-assessment-wz60dm {
+  background-color: transparent;
+  color: var(--gravel);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 22px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.bp-and-sugar-control .step-1-fill-up-an-as-wz60dm {
+  background-color: transparent;
+  color: var(--gravel);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 124px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.00% - 50px);
+  white-space: nowrap;
+  width: 232px;
+}
+
+.bp-and-sugar-control .span0-Tm9HVf {
+}
+
+.bp-and-sugar-control .span1-Tm9HVf {
+}
+
+.bp-and-sugar-control .span2-Tm9HVf {
+}
+
+.bp-and-sugar-control .span3-Tm9HVf {
+}
+
+.bp-and-sugar-control .span4-Tm9HVf {
+}
+
+.bp-and-sugar-control .span5-Tm9HVf {
+}
+
+.bp-and-sugar-control .buy-now-for-rs-99-only-wz60dm {
+  background-color: transparent;
+  bottom: 22px;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 187px;
+}
+
+.bp-and-sugar-control .icon-ionic-ios-arrow-down-wz60dm {
+  background-color: transparent;
+  bottom: 32px;
+  height: 8px;
+  object-fit: cover;
+  position: absolute;
+  right: 65px;
+  width: 13px;
+}
+
+.bp-and-sugar-control .request-a-call-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: -4px;
+  position: fixed;
+  top: 711px;
+  width: 428px;
+}
+
+.bp-and-sugar-control .rectangle-75-PorqIU {
+  background-color: #d192be;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bp-and-sugar-control .rectangle-76-PorqIU {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: calc(100.00% - 12px);
+  left: 22px;
+  position: absolute;
+  top: 6px;
+  width: calc(100.00% - 44px);
+}
+
+.bp-and-sugar-control .request-a-callback-PorqIU {
+  background-color: transparent;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 23px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.06% - 11px);
+  white-space: nowrap;
+  width: 163px;
+}
+
+.bp-and-sugar-control .icon-feather-phone-call-PorqIU {
+  background-color: transparent;
+  bottom: calc(47.49% - 10px);
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: 55px;
+  width: 22px;
+}
+
+.bp-and-sugar-control .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 32px;
+  width: 21px;
+}
+
+.bp-and-sugar-control .path-110-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.bp-and-sugar-control .path-111-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}

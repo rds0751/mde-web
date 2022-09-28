@@ -1,0 +1,2861 @@
+/* screen - daily-dairy-icon */
+
+.daily-dairy-icon {
+  background-color: #ffffff;
+  height: 1145px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.daily-dairy-icon .connect-your-device-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 50px;
+  left: 22px;
+  opacity: 1;
+  position: absolute;
+  top: 126px;
+  width: 384px;
+}
+
+.daily-dairy-icon .rectangle-55-VUpTwi {
+  --z-index: 0;
+  background-color: #f5e1d9;
+  border-radius: 33px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .connect-your-devices-VUpTwi {
+  --z-index: 1;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  height: 23px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 168px;
+}
+
+.daily-dairy-icon .to-record-your-vitals-with-ease-VUpTwi {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 2px;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 227px;
+}
+
+.daily-dairy-icon .icon-ionic-ios-arrow-back-VUpTwi {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-back@1x.png);
+  background-size: 100% 100%;
+  height: 12px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 21px;
+  top: calc(49.56% - 6px);
+  width: 9px;
+}
+
+.daily-dairy-icon .upload-your-health-report-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 100px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 208px;
+  width: 180px;
+}
+
+.daily-dairy-icon .rectangle-56-lAgql0 {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 30px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .arow-lAgql0 {
+  --z-index: 1;
+  background-color: transparent;
+  height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: 26px;
+  top: calc(26.25% - 5px);
+  width: 20px;
+}
+
+.daily-dairy-icon .ellipse-10-FbZUwP {
+  --z-index: 0;
+  background-color: #feeae2;
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .icon-ionic-ios-arrow-back-FbZUwP {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-back-1@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 9px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(46.02% - 3px);
+  top: 5px;
+  width: 7px;
+}
+
+.daily-dairy-icon .u-pload-yourhealth-reports-lAgql0 {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 4px;
+  color: #040000;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  height: 43px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.daily-dairy-icon .span0-ijnXLz {
+  font-family: 'Poppins', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.daily-dairy-icon .span1-ijnXLz {
+  font-family: 'Poppins', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.daily-dairy-icon .icon-lAgql0 {
+  --z-index: 3;
+  background-color: transparent;
+  height: 30px;
+  left: 13px;
+  opacity: 1;
+  position: absolute;
+  top: calc(22.86% - 7px);
+  width: 30px;
+}
+
+.daily-dairy-icon .ellipse-11-QUk6xl {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #af84a3;
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .icon-feather-file-text-QUk6xl {
+  --z-index: 1;
+  background-color: transparent;
+  height: 14px;
+  left: calc(38.42% - 4px);
+  opacity: 1;
+  position: absolute;
+  top: calc(44.45% - 6px);
+  width: 10px;
+}
+
+.daily-dairy-icon .path-70-NcNKgz {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-70@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.daily-dairy-icon .path-72-NcNKgz {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-72@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(50.00% - 1px);
+  height: 2px;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 4px;
+}
+
+.daily-dairy-icon .path-73-NcNKgz {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/path-72@1x.png);
+  background-size: 100% 100%;
+  bottom: 25.83%;
+  height: 2px;
+  left: calc(50.00% - 2px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 4px;
+}
+
+.daily-dairy-icon .path-74-NcNKgz {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/path-74@1x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: calc(43.99% - 2px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 29.20%;
+  width: 4px;
+}
+
+.daily-dairy-icon .icon-ionic-ios-funnel-QUk6xl {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-funnel@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(21.43% - 2px);
+  height: 9px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(30.57% - 4px);
+  width: 12px;
+}
+
+.daily-dairy-icon .share-health-data-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 100px;
+  left: 225px;
+  opacity: 1;
+  position: absolute;
+  top: 208px;
+  width: 180px;
+}
+
+.daily-dairy-icon .rectangle-56-7GzcSZ {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 30px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .arow-7GzcSZ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: 21px;
+  top: calc(25.00% - 5px);
+  width: 20px;
+}
+
+.daily-dairy-icon .ellipse-10-Z0oACS {
+  --z-index: 0;
+  background-color: #feeae2;
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .icon-ionic-ios-arrow-back-Z0oACS {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-back-1@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 9px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(46.02% - 3px);
+  top: 5px;
+  width: 7px;
+}
+
+.daily-dairy-icon .share-health-data-with-your-doctor-7GzcSZ {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 4px;
+  color: #040000;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  height: 43px;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 141px;
+}
+
+.daily-dairy-icon .span0-x1otjz {
+  font-family: 'Poppins', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.daily-dairy-icon .span1-x1otjz {
+  font-family: 'Poppins', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.daily-dairy-icon .ellipse-11-7GzcSZ {
+  --z-index: 3;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: #d8afcc;
+  border-radius: 15px;
+  height: 30px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: calc(21.43% - 6px);
+  width: 30px;
+}
+
+.daily-dairy-icon .icon-feather-share-2-7GzcSZ {
+  --z-index: 4;
+  background-color: transparent;
+  height: 15px;
+  left: 17px;
+  opacity: 1;
+  position: absolute;
+  top: calc(25.94% - 4px);
+  width: 15px;
+}
+
+.daily-dairy-icon .path-75-heEWbx {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-75@1x.png);
+  background-size: 100% 100%;
+  height: 6px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 1px;
+  top: -1px;
+  width: 6px;
+}
+
+.daily-dairy-icon .path-76-heEWbx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-76@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(43.18% - 2px);
+  height: 6px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 6px;
+}
+
+.daily-dairy-icon .path-77-heEWbx {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/path-77@1x.png);
+  background-size: 100% 100%;
+  bottom: -1px;
+  height: 6px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: -1px;
+  width: 6px;
+}
+
+.daily-dairy-icon .path-78-heEWbx {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/path-78@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(24.12% - 1px);
+  height: 4px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.97% - 4px);
+  width: 7px;
+}
+
+.daily-dairy-icon .path-79-heEWbx {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/path-79@1x.png);
+  background-size: 100% 100%;
+  height: 4px;
+  left: calc(44.40% - 3px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(23.61% - 1px);
+  width: 7px;
+}
+
+.daily-dairy-icon .free-health-assessments-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 352px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.daily-dairy-icon .scroll-group-3-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.daily-dairy-icon .scroll-group-3-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 193px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow-x: scroll;
+  position: absolute;
+  top: 414px;
+  width: 428px;
+}
+
+.daily-dairy-icon .digital-diary-scroll-CEhLxm {
+  --z-index: 0;
+  background-color: transparent;
+  height: 193px;
+  left: -1px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 698px;
+}
+
+.daily-dairy-icon .diabetes-H4uxOB {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+
+.daily-dairy-icon .rectangle-57-hV5CAx {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .diabetes-1-hV5CAx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/diabetes--1-@1x.png);
+  background-size: 100% 100%;
+  border-radius: 20px 20px 0px 0px;
+  height: 74px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .diabetes-hV5CAx {
+  --z-index: 2;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(47.90% - 11px);
+  white-space: nowrap;
+  width: 69px;
+}
+
+.daily-dairy-icon .icon-ionic-ios-arrow-back-hV5CAx {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-back-3@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: calc(47.24% - 6px);
+  width: 8px;
+}
+
+.daily-dairy-icon .this-tool-is-asimple-hV5CAx {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: 16px;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 72px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 22px);
+}
+
+.daily-dairy-icon .diabetes-TYX9xm {
+  --z-index: 1;
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: calc(24.82% - 32px);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+
+.daily-dairy-icon .rectangle-57-yTd29f {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .diabetes-1-yTd29f {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/diabetes--1--1@1x.png);
+  background-size: 100% 100%;
+  border-radius: 20px 20px 0px 0px;
+  height: 74px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .depression-yTd29f {
+  --z-index: 2;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(47.90% - 11px);
+  white-space: nowrap;
+  width: 83px;
+}
+
+.daily-dairy-icon .icon-ionic-ios-arrow-back-yTd29f {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-back-3@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: calc(47.24% - 6px);
+  width: 8px;
+}
+
+.daily-dairy-icon .take-this-phq-9depre-yTd29f {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: 16px;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 72px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.daily-dairy-icon .diabetes-0hgKY0 {
+  --z-index: 2;
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: calc(49.65% - 65px);
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  width: 130px;
+}
+
+.daily-dairy-icon .rectangle-57-x6bdoT {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .diabetes-1-x6bdoT {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/diabetes--1--2@1x.png);
+  background-size: 100% 100%;
+  border-radius: 20px 20px 0px 0px;
+  height: 74px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .chronic-kidney-x6bdoT {
+  --z-index: 2;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 19px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(47.35% - 9px);
+  white-space: nowrap;
+  width: 99px;
+}
+
+.daily-dairy-icon .icon-ionic-ios-arrow-back-x6bdoT {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-back-3@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: calc(47.24% - 6px);
+  width: 8px;
+}
+
+.daily-dairy-icon .this-tool-is-asimple-x6bdoT {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: 16px;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 72px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 22px);
+}
+
+.daily-dairy-icon .diabetes-VMrjIV {
+  --z-index: 3;
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  opacity: 1;
+  position: absolute;
+  right: calc(25.88% - 34px);
+  top: 1px;
+  width: 130px;
+}
+
+.daily-dairy-icon .rectangle-57-xi1sCQ {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .diabetes-1-xi1sCQ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/diabetes--1--3@1x.png);
+  background-size: 100% 100%;
+  border-radius: 20px 20px 0px 0px;
+  height: 74px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .anxiety-xi1sCQ {
+  --z-index: 2;
+  background-color: transparent;
+  color: #040000;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  height: 19px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(47.35% - 9px);
+  white-space: nowrap;
+  width: 49px;
+}
+
+.daily-dairy-icon .span0-Wcrxb7 {
+  font-family: 'Poppins', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.daily-dairy-icon .span1-Wcrxb7 {
+  font-family: 'Poppins', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.daily-dairy-icon .icon-ionic-ios-arrow-back-xi1sCQ {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-back-3@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: calc(47.24% - 6px);
+  width: 8px;
+}
+
+.daily-dairy-icon .this-tool-is-asimple-xi1sCQ {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: 16px;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 72px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 22px);
+}
+
+.daily-dairy-icon .diabetes-7ZT1F9 {
+  --z-index: 4;
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 139px;
+}
+
+.daily-dairy-icon .rectangle-57-MbMNWD {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 20px;
+  height: 100%;
+  left: 5px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 9px);
+}
+
+.daily-dairy-icon .diabetes-1-MbMNWD {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/diabetes--1--4@1x.png);
+  background-size: 100% 100%;
+  border-radius: 20px 20px 0px 0px;
+  height: 78px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.daily-dairy-icon .heart-disease-MbMNWD {
+  --z-index: 2;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 19px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(47.35% - 9px);
+  white-space: nowrap;
+  width: 90px;
+}
+
+.daily-dairy-icon .icon-ionic-ios-arrow-back-MbMNWD {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/icon-ionic-ios-arrow-back-3@1x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(16.79% - 1px);
+  top: calc(47.24% - 6px);
+  width: 8px;
+}
+
+.daily-dairy-icon .this-tool-is-usedto-MbMNWD {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: 16px;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 72px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 30px);
+}
+
+.daily-dairy-icon .my-health-charts-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 650px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.daily-dairy-icon .blood-glucose-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 105px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 696px;
+  width: 382px;
+}
+
+.daily-dairy-icon .rectangle-58-AsLcWN {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .blood-glucose-AsLcWN {
+  --z-index: 1;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: 27px;
+  left: calc(29.72% - 40px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.daily-dairy-icon .x57-of-adults-in-indi-AsLcWN {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: calc(26.52% - 10px);
+  color: #a1a1a1;
+  font-family: 'Poppins', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 39px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 74px);
+}
+
+.daily-dairy-icon .add-symbol-AsLcWN {
+  --z-index: 3;
+  background-color: transparent;
+  height: 25px;
+  opacity: 1;
+  position: absolute;
+  right: 40px;
+  top: 12px;
+  width: 25px;
+}
+
+.daily-dairy-icon .rectangle-59-BtuMkh {
+  --z-index: 0;
+  background-color: #f5e1d9;
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .icon-feather-plus-BtuMkh {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(48.26% - 6px);
+  height: 13px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.26% - 6px);
+  width: 13px;
+}
+
+.daily-dairy-icon .path-68-3G4AUA {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-68-1@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 2px);
+  left: calc(45.46% - 1px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.daily-dairy-icon .path-69-3G4AUA {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-69-1@1x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(47.05% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.daily-dairy-icon .glucose-meter-AsLcWN {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/glucose-meter@1x.png);
+  background-size: 100% 100%;
+  border-radius: 10px;
+  height: 33px;
+  left: 27px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  width: 33px;
+}
+
+.daily-dairy-icon .blood-pressure-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 105px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: 824px;
+  width: 382px;
+}
+
+.daily-dairy-icon .rectangle-58-ViQsWq {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .blood-pressure-ViQsWq {
+  --z-index: 1;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: 27px;
+  left: calc(30.45% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.daily-dairy-icon .x70-hypertensive-peop-ViQsWq {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: calc(26.52% - 10px);
+  color: #a1a1a1;
+  font-family: 'Poppins', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 39px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 66px);
+}
+
+.daily-dairy-icon .add-symbol-ViQsWq {
+  --z-index: 3;
+  background-color: transparent;
+  height: 25px;
+  opacity: 1;
+  position: absolute;
+  right: 40px;
+  top: 12px;
+  width: 25px;
+}
+
+.daily-dairy-icon .rectangle-59-1u7HRx {
+  --z-index: 0;
+  background-color: #f5e1d9;
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .icon-feather-plus-1u7HRx {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(48.26% - 6px);
+  height: 13px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.26% - 6px);
+  width: 13px;
+}
+
+.daily-dairy-icon .path-68-01zmCK {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-68-1@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 2px);
+  left: calc(45.46% - 1px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.daily-dairy-icon .path-69-01zmCK {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-69-1@1x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(47.05% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.daily-dairy-icon .blood-pressure-zWza7d {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/blood-pressure@1x.png);
+  background-size: 100% 100%;
+  border-radius: 10px;
+  height: 33px;
+  left: 27px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  width: 33px;
+}
+
+.daily-dairy-icon .heart-rate-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 105px;
+  left: 22px;
+  opacity: 1;
+  position: absolute;
+  top: 952px;
+  width: 382px;
+}
+
+.daily-dairy-icon .rectangle-58-JcpJTl {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .heart-rate-JcpJTl {
+  --z-index: 1;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: 27px;
+  left: calc(26.24% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.daily-dairy-icon .heart-rate-is-an-ind-JcpJTl {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: calc(26.52% - 10px);
+  color: #a1a1a1;
+  font-family: 'Poppins', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 39px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 56px);
+}
+
+.daily-dairy-icon .add-symbol-JcpJTl {
+  --z-index: 3;
+  background-color: transparent;
+  height: 25px;
+  opacity: 1;
+  position: absolute;
+  right: 40px;
+  top: 12px;
+  width: 25px;
+}
+
+.daily-dairy-icon .rectangle-59-KFZa5t {
+  --z-index: 0;
+  background-color: #f5e1d9;
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .icon-feather-plus-KFZa5t {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(48.26% - 6px);
+  height: 13px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.26% - 6px);
+  width: 13px;
+}
+
+.daily-dairy-icon .path-68-BrG7nu {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-68-1@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 2px);
+  left: calc(45.46% - 1px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.daily-dairy-icon .path-69-BrG7nu {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-69-1@1x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(47.05% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.daily-dairy-icon .heart-rate-UQ8l9D {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/heart-rate@1x.png);
+  background-size: 100% 100%;
+  border-radius: 10px;
+  height: 33px;
+  left: 27px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  width: 33px;
+}
+
+.daily-dairy-icon .digital-diary-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 116px;
+  left: 0px;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 428px;
+}
+
+.daily-dairy-icon .rectangle-60-zx72pJ {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .digital-diary-zx72pJ {
+  --z-index: 1;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+  height: 31px;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(34.12% - 11px);
+  white-space: nowrap;
+  width: 133px;
+}
+
+.daily-dairy-icon .link-bar-zx72pJ {
+  --z-index: 2;
+  background-color: transparent;
+  height: 41px;
+  opacity: 1;
+  position: absolute;
+  right: 24px;
+  top: calc(30.85% - 13px);
+  width: 129px;
+}
+
+.daily-dairy-icon .rectangle-52-ZmmtqF {
+  --z-index: 0;
+  background-color: #f5e1d9;
+  height: calc(100.00% - 11px);
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: calc(100.00% - 21px);
+}
+
+.daily-dairy-icon .ellipse-8-ZmmtqF {
+  --z-index: 1;
+  background-color: #a82682;
+  border-radius: 15px;
+  height: calc(100.00% - 11px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 30px;
+}
+
+.daily-dairy-icon .icon-feather-link-2-ZmmtqF {
+  --z-index: 2;
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.92% - 16px);
+  top: calc(49.17% - 7px);
+  width: 33px;
+}
+
+.daily-dairy-icon .path-66-ffG3Wj {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-66-1@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+
+.daily-dairy-icon .path-67-ffG3Wj {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-67-1@1x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: 14px;
+}
+
+.daily-dairy-icon .icon-feather-plus-ZmmtqF {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(47.87% - 7px);
+  height: 15px;
+  left: 8px;
+  opacity: 1;
+  position: absolute;
+  width: 15px;
+}
+
+.daily-dairy-icon .path-68-LVEwpI {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-68-3@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 1px);
+  left: calc(45.52% - 1px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.daily-dairy-icon .path-69-LVEwpI {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-69-3@1x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(47.09% - 1px);
+  width: calc(100.00% + 1px);
+}
+
+.daily-dairy-icon .ellipse-9-ZmmtqF {
+  --z-index: 4;
+  background-color: #545454;
+  border-radius: 15px;
+  height: calc(100.00% - 11px);
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 6px;
+  width: 30px;
+}
+
+.daily-dairy-icon .x415-4153777_google-s-ZmmtqF {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/415-4153777-google-search-3d-model-character-boy-character-chara@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 5px;
+  top: 0px;
+  width: 25px;
+}
+
+.daily-dairy-icon .rectangle-53-zx72pJ {
+  --z-index: 3;
+  background-color: #9f9f9f;
+  border-radius: 0px 22px 22px 0px;
+  bottom: 16px;
+  height: 30px;
+  opacity: 0.3;
+  position: absolute;
+  right: 22px;
+  width: 209px;
+}
+
+.daily-dairy-icon .rectangle-54-zx72pJ {
+  --z-index: 4;
+  background-color: #ffffff;
+  border-radius: 15px 0px 0px 12px;
+  bottom: 16px;
+  box-shadow: 0px 3px 6px #bfbfbf29;
+  height: 30px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  width: 183px;
+}
+
+.daily-dairy-icon .my-health-zx72pJ {
+  --z-index: 5;
+  background-color: transparent;
+  bottom: calc(15.17% - 4px);
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 27px;
+  left: calc(20.77% - 19px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.daily-dairy-icon .activity-zx72pJ {
+  --z-index: 6;
+  background-color: transparent;
+  bottom: calc(15.17% - 4px);
+  color: #040000;
+  cursor: pointer;
+  font-family: 'Poppins', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(29.36% - 20px);
+  text-align: left;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.daily-dairy-icon .icon-feather-arrow-left-zx72pJ {
+  --z-index: 7;
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: calc(31.58% - 7px);
+  width: 21px;
+}
+
+.daily-dairy-icon .path-118-cTsF9A {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-112@1x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.daily-dairy-icon .path-119-cTsF9A {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-113@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.daily-dairy-icon .menu-button-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 180px;
+  left: -2px;
+  opacity: 1;
+  position: fixed;
+  top: 655px;
+  width: 434px;
+}
+
+.daily-dairy-icon .union-2-MaUEMx {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/union-2@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 23px);
+  left: -15px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 30px);
+}
+
+.daily-dairy-icon .home-MaUEMx {
+  --z-index: 1;
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  width: 31px;
+}
+
+.daily-dairy-icon .icon-material-home-wex5J4 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icon-material-home-1@1x.png);
+  background-size: 100% 100%;
+  height: 27px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.daily-dairy-icon .home-wex5J4 {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -4px;
+  color: #a1a1a1;
+  font-family: 'Poppins', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 1px);
+}
+
+.daily-dairy-icon .dairy-MaUEMx {
+  --z-index: 2;
+  background-color: transparent;
+  height: 46px;
+  left: calc(29.17% - 8px);
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  width: 26px;
+}
+
+.daily-dairy-icon .icon-feather-book-47y9BD {
+  --z-index: 0;
+  background-color: transparent;
+  height: 24px;
+  opacity: 1;
+  position: absolute;
+  right: 3px;
+  top: 0px;
+  width: 19px;
+}
+
+.daily-dairy-icon .path-17-hG9lGi {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-17-1@1x.png);
+  background-size: 100% 100%;
+  bottom: 2px;
+  height: 5px;
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.daily-dairy-icon .path-18-hG9lGi {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-18-1@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.daily-dairy-icon .diary-47y9BD {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -4px;
+  color: #000000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.daily-dairy-icon .health-tip-MaUEMx {
+  --z-index: 3;
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  opacity: 1;
+  position: absolute;
+  right: calc(25.79% - 14px);
+  top: 15px;
+  width: 54px;
+}
+
+.daily-dairy-icon .icon-material-lightbulb-outline-SGpnhC {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icon-material-lightbulb-outline@1x.png);
+  background-size: 100% 100%;
+  height: 26px;
+  left: calc(50.00% - 9px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.daily-dairy-icon .health-tips-SGpnhC {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -4px;
+  color: #a1a1a1;
+  font-family: 'Poppins', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.daily-dairy-icon .menu-MaUEMx {
+  --z-index: 4;
+  background-color: transparent;
+  height: 43px;
+  opacity: 1;
+  position: absolute;
+  right: 26px;
+  top: 20px;
+  width: 28px;
+}
+
+.daily-dairy-icon .icon-metro-menu-u5cdSS {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icon-metro-menu@1x.png);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 2px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.daily-dairy-icon .menu-u5cdSS {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -4px;
+  color: #a1a1a1;
+  font-family: 'Poppins', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.daily-dairy-icon .path-19-MaUEMx {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/path-19@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: calc(41.88% - 68px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(42.86% - 2px);
+  width: 162px;
+}
+
+.daily-dairy-icon .me-MaUEMx {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/me@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 76px;
+  left: calc(49.72% - 38px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -6px;
+  width: 76px;
+}
+/* screen - medicine-reminder */
+
+.medicine-reminder {
+  background-color: #ffffff;
+  height: 749px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.medicine-reminder .get-medicine-reminders-in-justtwo-steps-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: #040000;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 180px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medicine-reminder .span0-TagsXx {
+  font-family: 'Poppins', Helvetica;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.medicine-reminder .span1-TagsXx {
+  font-family: 'Poppins', Helvetica;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.medicine-reminder .span2-TagsXx {
+  font-family: 'Poppins', Helvetica;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.medicine-reminder .x1-upload-your-prescr-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 240px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medicine-reminder .or-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 204px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 362px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medicine-reminder .set-reminders-manually-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 123px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 394px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medicine-reminder .click-here-to-get-reminders-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 127px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 416px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medicine-reminder .group-12-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 34px;
+  left: 70px;
+  opacity: 1;
+  position: absolute;
+  top: 306px;
+  width: 288px;
+}
+
+.medicine-reminder .path-89-xFApRQ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-89@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medicine-reminder .upload-prescription-xFApRQ {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: 8px;
+  color: #a82682;
+  font-family: 'Poppins', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  height: 25px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  opacity: 1;
+  position: absolute;
+  right: 39px;
+  text-align: left;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.medicine-reminder .icon-feather-upload-xFApRQ {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: calc(37.51% - 5px);
+  height: 13px;
+  left: 30px;
+  opacity: 1;
+  position: absolute;
+  width: 16px;
+}
+
+.medicine-reminder .path-82-ioGQO6 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-82@1x.png);
+  background-size: 100% 100%;
+  bottom: -1px;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.medicine-reminder .path-83-ioGQO6 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-83@1x.png);
+  background-size: 100% 100%;
+  height: 7px;
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 3px);
+}
+
+.medicine-reminder .path-84-ioGQO6 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/path-84@1x.png);
+  background-size: 100% 100%;
+  height: 9px;
+  left: calc(48.88% - 1px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+
+.medicine-reminder .capsule-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/capsule@1x.png);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 194px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 121px;
+  width: 40px;
+}
+
+.medicine-reminder .ellipse-12-C61RwL {
+  --z-index: 7;
+  background-color: #a82682;
+  border-radius: 15px;
+  height: 30px;
+  left: 199px;
+  opacity: 1;
+  position: absolute;
+  top: 462px;
+  width: 30px;
+}
+
+.medicine-reminder .icon-feather-plus-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 15px;
+  left: 207px;
+  opacity: 1;
+  position: absolute;
+  top: 470px;
+  width: 15px;
+}
+
+.medicine-reminder .path-85-RHwCW2 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-85@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 2px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.medicine-reminder .path-86-RHwCW2 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-86@1x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.medicine-reminder .path-87-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/path-87@1x.png);
+  background-size: 100% 100%;
+  height: 93px;
+  left: 172px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 507px;
+  width: 80px;
+}
+
+.medicine-reminder .path-88-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/path-88@1x.png);
+  background-size: 100% 100%;
+  height: 7px;
+  left: 211px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 594px;
+  width: 6px;
+}
+
+.medicine-reminder .digital-diary-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 116px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 428px;
+}
+
+.medicine-reminder .rectangle-60-zx72pJ {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medicine-reminder .digital-diary-zx72pJ {
+  --z-index: 1;
+  background-color: transparent;
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+  height: 31px;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(34.12% - 11px);
+  white-space: nowrap;
+  width: 133px;
+}
+
+.medicine-reminder .link-bar-zx72pJ {
+  --z-index: 2;
+  background-color: transparent;
+  height: 41px;
+  opacity: 1;
+  position: absolute;
+  right: 24px;
+  top: calc(30.85% - 13px);
+  width: 129px;
+}
+
+.medicine-reminder .rectangle-52-ZmmtqF {
+  --z-index: 0;
+  background-color: #f5e1d9;
+  height: calc(100.00% - 11px);
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: calc(100.00% - 21px);
+}
+
+.medicine-reminder .ellipse-8-ZmmtqF {
+  --z-index: 1;
+  background-color: #a82682;
+  border-radius: 15px;
+  height: calc(100.00% - 11px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 30px;
+}
+
+.medicine-reminder .icon-feather-link-2-ZmmtqF {
+  --z-index: 2;
+  background-color: transparent;
+  height: 15px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.92% - 16px);
+  top: calc(49.17% - 7px);
+  width: 33px;
+}
+
+.medicine-reminder .path-66-ffG3Wj {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-66-1@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+
+.medicine-reminder .path-67-ffG3Wj {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-67-1@1x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: calc(50.00% - 7px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: 14px;
+}
+
+.medicine-reminder .icon-feather-plus-ZmmtqF {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(47.87% - 7px);
+  height: 15px;
+  left: 8px;
+  opacity: 1;
+  position: absolute;
+  width: 15px;
+}
+
+.medicine-reminder .path-68-LVEwpI {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-68-3@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 2px);
+  left: calc(45.52% - 1px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.medicine-reminder .path-69-LVEwpI {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-69-3@1x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(47.09% - 1px);
+  width: calc(100.00% + 1px);
+}
+
+.medicine-reminder .ellipse-9-ZmmtqF {
+  --z-index: 4;
+  background-color: #545454;
+  border-radius: 15px;
+  height: calc(100.00% - 11px);
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 6px;
+  width: 30px;
+}
+
+.medicine-reminder .x415-4153777_google-s-ZmmtqF {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/415-4153777-google-search-3d-model-character-boy-character-chara-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 5px;
+  top: 0px;
+  width: 25px;
+}
+
+.medicine-reminder .rectangle-53-zx72pJ {
+  --z-index: 3;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 0px 22px 22px 0px;
+  bottom: 16px;
+  height: 30px;
+  opacity: 0.3;
+  position: absolute;
+  right: 22px;
+  width: 207px;
+}
+
+.medicine-reminder .rectangle-54-zx72pJ {
+  --z-index: 4;
+  background-color: #e2e2e2;
+  border-radius: 15px 0px 0px 15px;
+  bottom: 16px;
+  box-shadow: 0px 3px 6px #bfbfbf29;
+  cursor: pointer;
+  height: 30px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  width: 183px;
+}
+
+.medicine-reminder .my-health-zx72pJ {
+  --z-index: 5;
+  background-color: transparent;
+  bottom: calc(15.17% - 4px);
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 27px;
+  left: calc(20.77% - 19px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.medicine-reminder .activity-zx72pJ {
+  --z-index: 6;
+  background-color: transparent;
+  bottom: calc(15.17% - 4px);
+  color: #040000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(29.36% - 20px);
+  text-align: left;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.medicine-reminder .icon-feather-arrow-left-zx72pJ {
+  --z-index: 7;
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  top: calc(31.58% - 7px);
+  width: 21px;
+}
+
+.medicine-reminder .path-118-cTsF9A {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-112@1x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.medicine-reminder .path-119-cTsF9A {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-113@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.medicine-reminder .menu-button-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  height: 180px;
+  left: -2px;
+  opacity: 1;
+  position: fixed;
+  top: 655px;
+  width: 434px;
+}
+
+.medicine-reminder .union-2-MaUEMx {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/union-2@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 23px);
+  left: -15px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 30px);
+}
+
+.medicine-reminder .home-MaUEMx {
+  --z-index: 1;
+  background-color: transparent;
+  height: 48px;
+  left: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  width: 31px;
+}
+
+.medicine-reminder .icon-material-home-wex5J4 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icon-material-home-1@1x.png);
+  background-size: 100% 100%;
+  height: 27px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.medicine-reminder .home-wex5J4 {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -4px;
+  color: #a1a1a1;
+  font-family: 'Poppins', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 1px);
+}
+
+.medicine-reminder .dairy-MaUEMx {
+  --z-index: 2;
+  background-color: transparent;
+  height: 46px;
+  left: calc(29.17% - 8px);
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  width: 26px;
+}
+
+.medicine-reminder .icon-feather-book-47y9BD {
+  --z-index: 0;
+  background-color: transparent;
+  height: 24px;
+  opacity: 1;
+  position: absolute;
+  right: 3px;
+  top: 0px;
+  width: 19px;
+}
+
+.medicine-reminder .path-17-hG9lGi {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/path-17-1@1x.png);
+  background-size: 100% 100%;
+  bottom: 2px;
+  height: 5px;
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.medicine-reminder .path-18-hG9lGi {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-18-1@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.medicine-reminder .diary-47y9BD {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -4px;
+  color: #000000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.medicine-reminder .health-tip-MaUEMx {
+  --z-index: 3;
+  background-color: transparent;
+  height: 47px;
+  opacity: 1;
+  position: absolute;
+  right: calc(25.79% - 14px);
+  top: 15px;
+  width: 54px;
+}
+
+.medicine-reminder .icon-material-lightbulb-outline-SGpnhC {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icon-material-lightbulb-outline@1x.png);
+  background-size: 100% 100%;
+  height: 26px;
+  left: calc(50.00% - 9px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.medicine-reminder .health-tips-SGpnhC {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -4px;
+  color: #a1a1a1;
+  font-family: 'Poppins', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.medicine-reminder .menu-MaUEMx {
+  --z-index: 4;
+  background-color: transparent;
+  height: 43px;
+  opacity: 1;
+  position: absolute;
+  right: 26px;
+  top: 20px;
+  width: 28px;
+}
+
+.medicine-reminder .icon-metro-menu-u5cdSS {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/icon-metro-menu@1x.png);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 2px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.medicine-reminder .menu-u5cdSS {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -4px;
+  color: #a1a1a1;
+  font-family: 'Poppins', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.medicine-reminder .path-19-MaUEMx {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/path-19-1@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: calc(41.88% - 68px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(42.86% - 2px);
+  width: 162px;
+}
+
+.medicine-reminder .me-MaUEMx {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/me@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 76px;
+  left: calc(49.72% - 38px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -6px;
+  width: 76px;
+}
