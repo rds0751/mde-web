@@ -19,7 +19,7 @@ from . import views
 app_name = 'native'
 
 urlpatterns = [
-    path('front-pagec', views.index, name='index'),
+    path('', views.index, name='index'),
     path('add-member', views.add_member, name='add-member'),
     path('bp-and-sugar-control', views.bp_and_sugar_control, name='bp-and-sugar-control'),
     path('contact-medose', views.contact_medose, name='contact-medose'),
