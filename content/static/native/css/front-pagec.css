@@ -3138,6 +3138,7 @@
   position: absolute;
   right: 11px;
   width: 18px;
+  cursor: pointer;
 }
 
 .front-pagec .path-11-ivxqIL {
@@ -3165,12 +3166,23 @@
   bottom: calc(21.43% - 5px);
   height: 23px;
   left: 16px;
+  cursor: pointer;
   letter-spacing: 0.00px;
   line-height: 15px;
   position: absolute;
   text-align: left;
   white-space: nowrap;
-  width: 140px;
+  width: 335px;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 13px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  padding-left: 10px;
+  
 }
 
 .front-pagec .scroll-group-1-C61RwL::-webkit-scrollbar {
@@ -3621,6 +3633,7 @@
   top: 655px;
   width: 434px;
 }
+
 
 .front-pagec .union-2-MaUEMx {
   background-color: transparent;

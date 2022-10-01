@@ -199,3 +199,13 @@ def using_guide_line_video(request):
     return render(request, 'native/using-guide-line-video.html')
 
 
+def book_consultation(request):
+    return render(request, 'native/book-consultation.html')
+
+
+def past_consultation(request):
+    return render(request, 'native/past-consultation.html')
+
+
+# def add_mydoctor(request):
+#     return render(request, 'native/add-mydoctor.html')

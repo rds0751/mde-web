@@ -59,4 +59,7 @@ urlpatterns = [
     path('terms-conditions-2', views.terms_conditions_2, name='terms-conditions-2'),
     path('upload-new-prescriptions', views.upload_new_prescriptions, name='upload-new-prescriptions'),
     path('using-guide-line-video', views.using_guide_line_video, name='using-guide-line-video'),
+    path('book-consultation', views.book_consultation, name='abcd'),
+    path('past-consultation', views.past_consultation, name='xyz'),
+    # path('add-mydoctor', views.add_mydoctor, name='for-add-doctor'),
 ]
