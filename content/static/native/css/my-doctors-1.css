@@ -146,6 +146,66 @@
   white-space: nowrap;
   width: auto;
 }
+.list200{
+margin-top: 120px;
+-webkit-text-stroke: 1px transparent;
+background-color: transparent;
+color: var(--onyx);
+font-family: var(--font-family-poppins);
+font-size: var(--font-size-xxxxl);
+font-style: normal;
+font-weight: 400;
+height: auto;
+left: 24px;
+letter-spacing: 0.00px;
+line-height: 10px;
+position: absolute;
+text-align: left;
+top: 178px;
+white-space: nowrap;
+width: auto;
+}
+.list201{
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: var(--onyx);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 178px;
+  white-space: nowrap;
+  width: auto;
+  margin-top: 240px;
+  
+}
+.list202{
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: var(--onyx);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 178px;
+  white-space: nowrap;
+  width: auto;
+  margin-top: 360px;
+  
+}
+
 
 .my-doctors-1 .advice-C61RwL {
   -webkit-text-stroke: 1px transparent;
@@ -164,6 +224,31 @@
   top: 178px;
   white-space: nowrap;
   width: auto;
+  
+  
+}
+
+.doname{
+border-radius: 5px;
+color:#D3D3D3;
+height: 30px;
+border: 1px solid;
+padding-left: 12px;
+border-color:  #D3D3D3;;
+border-radius: 13px;
+width: 300px;
+}
+.doname1{
+  height: 100px;
+  border: 1px solid;
+  padding-left: 12px;
+  border-color:#D3D3D3;
+  background-color:black;
+  border-radius: 1px;
+  width: 300px;
+  }
+.h6{
+  background-color: rgb(255, 0, 0);
 }
 
 .my-doctors-1 .dr-xxxxxxxxxxxxx-C61RwL {
