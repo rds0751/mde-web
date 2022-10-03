@@ -262,12 +262,14 @@
 
 .contact-medose .icon-ionic-ios-arrow-down-IhdRD3 {
   background-color: transparent;
-  height: 10px;
+  height: 15px;
+  cursor: pointer;
   object-fit: cover;
   position: absolute;
   right: 36px;
   top: calc(40.37% - 4px);
-  width: 14px;
+  width: 65px;
+  border-radius: 2px;
 }
 
 .contact-medose .whatsapp-IhdRD3 {
@@ -330,12 +332,14 @@
 
 .contact-medose .icon-ionic-ios-arrow-down-A4Old4 {
   background-color: transparent;
-  height: 10px;
+  height: 15px;
+  cursor: pointer;
   object-fit: cover;
   position: absolute;
   right: 36px;
   top: calc(40.37% - 4px);
-  width: 14px;
+  width: 65px;
+  border-radius: 2px;
 }
 
 .contact-medose .images-removebg-preview-A4Old4 {
@@ -396,12 +400,14 @@
 
 .contact-medose .icon-ionic-ios-arrow-down-VErhxA {
   background-color: transparent;
-  height: 10px;
+  height: 19px;
+  cursor: pointer;
   object-fit: cover;
   position: absolute;
-  right: 37px;
-  top: calc(40.40% - 4px);
-  width: 14px;
+  right: 32px;
+  top: calc(40.37% - 4px);
+  width: 75px;
+  border-radius: 0px;
 }
 
 .contact-medose .x360_f_463635926_funp-VErhxA {
