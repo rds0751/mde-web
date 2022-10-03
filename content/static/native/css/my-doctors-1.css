@@ -205,6 +205,38 @@ width: auto;
   margin-top: 360px;
   
 }
+.doctor-images1{
+  height: auto;
+  left: 600px;
+  position: fixed;
+  top: 185px;
+  width: 80px;
+
+}
+.doctor-images2{
+  height: auto;
+  left: 600px;
+  position: fixed;
+  top: 290px;
+  width: 80px;
+
+}
+.doctor-images3{
+  height: auto;
+  left: 600px;
+  position: fixed;
+  top: 410px;
+  width: 80px;
+
+}
+.doctor-images4{
+  height: auto;
+  left: 600px;
+  position: fixed;
+  top: 530px;
+  width: 80px;
+
+}
 
 
 .my-doctors-1 .advice-C61RwL {
@@ -227,6 +259,7 @@ width: auto;
   
   
 }
+
 
 .doname{
 border-radius: 5px;
