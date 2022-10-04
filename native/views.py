@@ -209,3 +209,7 @@ def past_consultation(request):
 
 # def add_mydoctor(request):
 #     return render(request, 'native/add-mydoctor.html')
+
+
+def lab_tests(request):
+    return render(request, 'native/lab-tests.html')
