@@ -176,7 +176,24 @@
   /* margin-bottom: 40px; */
 
 }
+.bi-bi-hospital-2{
+  /* position: absolute; */
+  margin-top: 34px;
+  color: orchid;
+  margin-left: 1px;
 
+}
+
+.nayak-hospital-2{
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 64px;
+}
+.nayak-hospital-date-2{
+  margin-top: 40px;
+  margin-left: 193px;
+  margin-bottom: 40px;
+}
 .hospital-reports .hospital-C61RwL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;

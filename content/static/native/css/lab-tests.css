@@ -157,11 +157,7 @@
     width: auto;
     /* border-style: solid; */
   }
-  .hospital-date-11{
-    margin-top: 144px;
-    margin-left:190px ;
-    width: 80px;
-  }
+
   .bi-bi-download{
     margin-top:0;
     margin-left: 330px;
@@ -176,7 +172,9 @@
     /* margin-bottom: 40px; */
   
   }
-  
+  .bi-bi-clipboard2-pulse{
+    color: orchid;
+  }
   .lab-tests .hospital-C61RwL {
     -webkit-text-stroke: 1px transparent;
     background-color: transparent;
