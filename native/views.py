@@ -218,7 +218,24 @@ def bloodbank_page(request):
     return render(request, 'native/bloodbank-page.html')
 
 
+def mydevice_page(request):
+    return render(request, 'native/my-device-page.html')
 
+
+def health_welness_page(request):
+    return render(request, 'native/health-welness-page.html')
+
+
+def lab_test_page(request):
+    return render(request, 'native/lab-test-page.html')
+
+
+def medicine_page(request):
+    return render(request, 'native/medicine-page.html')
+
+
+def subscription_page(request):
+    return render(request, 'native/subscription-page.html')
 
 
 
