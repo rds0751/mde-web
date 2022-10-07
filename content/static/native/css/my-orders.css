@@ -91,6 +91,55 @@
   width: 562px;
 }
 
+.Paracetamol-quantity{
+
+  margin-left: 290px;
+  margin-top: -130px;
+  
+}
+.Augmentin-quantity{
+    margin-left: 290px;
+    margin-top: 5.5px;
+
+}
+.Atarax-quantity{
+
+  margin-left: 290px;
+  margin-top: 5px;
+}
+.Ascoril-quantity{
+  margin-left: 290px;
+  margin-top: 2.5px;
+}
+.DR-MOREPAN-quantity{
+
+  margin-left: 290px;
+  margin-top: 2.5px;
+}
+
+.status-button{
+ 
+  margin-left: 360px;
+  margin-top: -130px;
+ 
+}
+.status-button-2{
+  margin-left: 360px;
+  margin-top: 6.5px;
+}
+.status-button-3{
+  margin-left: 360px;
+  margin-top: 6.5px;
+}
+.status-button-4{
+  margin-left: 360px;
+  margin-top: 6.5px;
+}
+.status-button-5{
+  margin-left: 360px;
+  margin-top: 6.5px;
+}
+
 .my-orders .all-orders-sFBni5 {
   background-color: transparent;
   height: 23px;
@@ -101,7 +150,9 @@
   text-align: left;
   top: 0px;
   white-space: nowrap;
-  width: 74px;
+  width: 80px;
+  
+  
 }
 
 .my-orders .device-sFBni5 {
@@ -172,15 +223,37 @@
 .my-orders .you-havent-ordered-anything-yet-C61RwL {
   background-color: transparent;
   height: auto;
-  left: 88px;
+  left: 3px;
   letter-spacing: 0.00px;
   line-height: 22px;
   position: absolute;
   text-align: left;
-  top: 506px;
+  top: 210px;
   white-space: nowrap;
   width: auto;
 }
+
+.Augmentin-625-Duo{
+  margin-top: 235px;
+  margin-left: 3px;
+}
+
+.Atarax-25mg{
+
+margin-top: 3px;
+margin-left: 3px;
+}
+
+.Ascoril-D-Plus-Syrup-Sugar-Free{
+  margin-top: 3px;
+  margin-left: 3px;
+}
+
+.DR-MOREPEN-BP-ONE-BP-02-BP-MONITOR{
+  margin-top: 3px;
+  margin-left: 3px;
+}
+
 
 .my-orders .icon-feather-arrow-left-C61RwL {
   background-color: transparent;
