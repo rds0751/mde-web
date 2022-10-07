@@ -213,3 +213,6 @@ def past_consultation(request):
 
 def lab_tests(request):
     return render(request, 'native/lab-tests.html')
+
+def plusicon(request):
+    return render(request, 'native/plusicon.html')

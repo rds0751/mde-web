@@ -63,4 +63,5 @@ urlpatterns = [
     path('past-consultation', views.past_consultation, name='xyz'),
     # path('add-mydoctor', views.add_mydoctor, name='for-add-doctor'),
      path('lab-tests', views.lab_tests, name='xyz'),
+      path('plusicon', views.plusicon, name='xyz'),
 ]
