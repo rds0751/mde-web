@@ -139,19 +139,30 @@
   top: calc(50.00% - 1px);
   width: calc(100.00% - 6px);
 }
+.inputbox-uplode1{
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 60%;
+  border-radius: 20px;
+  border-color: #e2e2e2;
+}
 
 .upload-new-prescriptions .add-medicines-C61RwL {
   -webkit-text-stroke: 1px transparent;
-  background-color: transparent;
+  background-color:white;
   height: auto;
-  left: 78px;
+  left: 98px;
   letter-spacing: 0.00px;
   line-height: 18px;
   position: absolute;
   text-align: left;
-  top: 140px;
+  border-color: #e2e2e2;
+  top: 136px;
   white-space: nowrap;
   width: auto;
+  border-radius: 20px;
+  color:#a82682 ;
+  cursor: pointer;
 }
 
 .upload-new-prescriptions .add-medicines-VMr6Om {
