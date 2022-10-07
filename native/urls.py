@@ -61,11 +61,9 @@ urlpatterns = [
     path('using-guide-line-video', views.using_guide_line_video, name='using-guide-line-video'),
     path('book-consultation', views.book_consultation, name='abcd'),
     path('past-consultation', views.past_consultation, name='xyz'),
-<<<<<<< HEAD
-    # path('add-mydoctor', views.add_mydoctor, name='for-add-doctor'),
+    path('add-mydoctor', views.add_mydoctor, name='for-add-doctor'),
      path('lab-tests', views.lab_tests, name='xyz'),
       path('plusicon', views.plusicon, name='xyz'),
-=======
     path('ambulance-page', views.ambulance_page, name='xyz'),
     path('bloodbank-page', views.bloodbank_page, name='777'),
     path('my-device-page', views.mydevice_page, name='777'),
@@ -74,5 +72,4 @@ urlpatterns = [
     path('medicine-page', views.medicine_page, name='777'),
     path('subscription-page', views.subscription_page, name='777'),
      
->>>>>>> newmaster
 ]

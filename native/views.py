@@ -208,9 +208,8 @@ def past_consultation(request):
     return render(request, 'native/past-consultation.html')
 
 
-<<<<<<< HEAD
-# def add_mydoctor(request):
-#     return render(request, 'native/add-mydoctor.html')
+def add_mydoctor(request):
+ return render(request, 'native/add-mydoctor.html')
 
 
 def lab_tests(request):
@@ -218,7 +217,6 @@ def lab_tests(request):
 
 def plusicon(request):
     return render(request, 'native/plusicon.html')
-=======
     
 def ambulance_page(request):
     return render(request, 'native/ambulance-page.html')
@@ -256,4 +254,3 @@ def subscription_page(request):
 
 
 
->>>>>>> newmaster
