@@ -1465,7 +1465,7 @@
   height: 116px;
   left: 0px;
   opacity: 1;
-  position: fixed;
+  position: absolute;
   top: 0px;
   width: 428px;
 }
