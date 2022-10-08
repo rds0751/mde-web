@@ -207,33 +207,33 @@ width: auto;
 }
 .doctor-images1{
   height: auto;
-  left: 600px;
-  position: fixed;
-  top: 185px;
+  left: 20px;
+  position: absolute;
+  top: 5px;
   width: 80px;
 
 }
 .doctor-images2{
   height: auto;
-  left: 600px;
-  position: fixed;
-  top: 290px;
+  left: 20px;
+  position: absolute;
+  top: 5x;
   width: 80px;
 
 }
 .doctor-images3{
   height: auto;
-  left: 600px;
-  position: fixed;
-  top: 410px;
+  left: 20px;
+  position: absolute;
+  top: 5x;
   width: 80px;
 
 }
 .doctor-images4{
   height: auto;
-  left: 600px;
-  position: fixed;
-  top: 530px;
+  left: 20px;
+  position: absolute;
+  top: 5x;
   width: 80px;
 
 }
