@@ -70,7 +70,10 @@
   top: 203px;
   width: 20px;
 }
-
+.bi-bi-hospital{
+  color: orchid;
+  margin-top: 3px;
+}
 .hospital-reports .path-262-Oc7JCx {
   background-color: transparent;
   height: calc(100.00% + 2px);
@@ -144,7 +147,7 @@
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
   height: auto;
-  left: 78px;
+  left: 60px;
   letter-spacing: 0.00px;
   line-height: 18px;
   position: absolute;
@@ -152,8 +155,45 @@
   top: 140px;
   white-space: nowrap;
   width: auto;
+  /* border-style: solid; */
+}
+.hospital-date-11{
+  margin-top: 144px;
+  margin-left:190px ;
+  width: 80px;
+}
+.bi-bi-download{
+  margin-top:0;
+  margin-left: 330px;
+  cursor: pointer;
+  margin-bottom: -30px;
+}
+.download-button{
+  margin-left: 300px;
+  cursor: pointer;
+  margin-top: 143px;
+  position: absolute;
+  /* margin-bottom: 40px; */
+
+}
+.bi-bi-hospital-2{
+  /* position: absolute; */
+  margin-top: 34px;
+  color: orchid;
+  margin-left: 1px;
+
 }
 
+.nayak-hospital-2{
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 64px;
+}
+.nayak-hospital-date-2{
+  margin-top: 40px;
+  margin-left: 193px;
+  margin-bottom: 40px;
+}
 .hospital-reports .hospital-C61RwL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
@@ -167,6 +207,7 @@
   white-space: nowrap;
   width: auto;
 }
+
 
 .hospital-reports .upload-save-pictures-C61RwL {
   -webkit-text-stroke: 1px transparent;

@@ -418,7 +418,7 @@
   background-color: transparent;
   height: 92px;
   left: 0px;
-  position: fixed;
+  position: absolute;
   top: 0px;
   width: 736px;
 }

@@ -1,0 +1,225 @@
+/* screen - upload-new-prescriptions */
+
+.upload-new-prescriptions {
+    background-color: var(--white);
+    height: 737px;
+    overflow: hidden;
+    overflow-x: hidden;
+    position: relative;
+    width: 428px;
+  }
+  
+  .upload-new-prescriptions .upload-new-prescription-C61RwL {
+    -webkit-text-stroke: 1px transparent;
+    background-color: transparent;
+    height: auto;
+    left: 101px;
+    letter-spacing: 0.00px;
+    line-height: 10px;
+    position: absolute;
+    text-align: left;
+    top: 38px;
+    white-space: nowrap;
+    width: auto;
+  }
+  
+  .upload-new-prescriptions .icon-feather-plus-circle-C61RwL {
+    background-color: transparent;
+    height: 20px;
+    left: 31px;
+    position: absolute;
+    top: 139px;
+    width: 20px;
+  }
+  
+  .upload-new-prescriptions .path-262-WTLb2b {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: calc(100.00% + 2px);
+  }
+  
+  .upload-new-prescriptions .path-263-WTLb2b {
+    background-color: transparent;
+    height: calc(100.00% - 6px);
+    left: calc(50.00% - 1px);
+    object-fit: cover;
+    position: absolute;
+    top: 3px;
+    width: 2px;
+  }
+  
+  .upload-new-prescriptions .path-264-WTLb2b {
+    background-color: transparent;
+    height: 2px;
+    left: 3px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(50.00% - 1px);
+    width: calc(100.00% - 6px);
+  }
+  
+  .upload-new-prescriptions .icon-feather-plus-circle-VMr6Om {
+    background-color: transparent;
+    height: 20px;
+    left: 31px;
+    position: absolute;
+    top: 203px;
+    width: 20px;
+  }
+  
+  .upload-new-prescriptions .path-262-Oc7JCx {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: calc(100.00% + 2px);
+  }
+  
+  .upload-new-prescriptions .path-263-Oc7JCx {
+    background-color: transparent;
+    height: calc(100.00% - 6px);
+    left: calc(50.00% - 1px);
+    object-fit: cover;
+    position: absolute;
+    top: 3px;
+    width: 2px;
+  }
+  
+  .upload-new-prescriptions .path-264-Oc7JCx {
+    background-color: transparent;
+    height: 2px;
+    left: 3px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(50.00% - 1px);
+    width: calc(100.00% - 6px);
+  }
+  
+  .upload-new-prescriptions .icon-feather-plus-circle-mzXdH9 {
+    background-color: transparent;
+    height: 20px;
+    left: 31px;
+    position: absolute;
+    top: 267px;
+    width: 20px;
+  }
+  
+  .upload-new-prescriptions .path-262-KxDAAl {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: calc(100.00% + 2px);
+  }
+  
+  .upload-new-prescriptions .path-263-KxDAAl {
+    background-color: transparent;
+    height: calc(100.00% - 6px);
+    left: calc(50.00% - 1px);
+    object-fit: cover;
+    position: absolute;
+    top: 3px;
+    width: 2px;
+  }
+  
+  .upload-new-prescriptions .path-264-KxDAAl {
+    background-color: transparent;
+    height: 2px;
+    left: 3px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(50.00% - 1px);
+    width: calc(100.00% - 6px);
+  }
+  .inputbox-uplode1{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 60%;
+    border-radius: 20px;
+    border-color: #e2e2e2;
+  }
+  
+  .upload-new-prescriptions .add-medicines-C61RwL {
+    -webkit-text-stroke: 1px transparent;
+    background-color:white;
+    height: auto;
+    left: 98px;
+    letter-spacing: 0.00px;
+    line-height: 18px;
+    position: absolute;
+    text-align: left;
+    border-color: #e2e2e2;
+    top: 136px;
+    white-space: nowrap;
+    width: auto;
+    border-radius: 20px;
+    color:#a82682 ;
+    cursor: pointer;
+  }
+  
+  .upload-new-prescriptions .add-medicines-VMr6Om {
+    -webkit-text-stroke: 1px transparent;
+    background-color: transparent;
+    height: auto;
+    left: 78px;
+    letter-spacing: 0.00px;
+    line-height: 18px;
+    position: absolute;
+    text-align: left;
+    top: 204px;
+    white-space: nowrap;
+    width: auto;
+  }
+  
+  .upload-new-prescriptions .add-medicines-mzXdH9 {
+    -webkit-text-stroke: 1px transparent;
+    background-color: transparent;
+    height: auto;
+    left: 78px;
+    letter-spacing: 0.00px;
+    line-height: 18px;
+    position: absolute;
+    text-align: left;
+    top: 268px;
+    white-space: nowrap;
+    width: auto;
+  }
+  
+  .upload-new-prescriptions .icon-feather-arrow-left-C61RwL {
+    background-color: transparent;
+    cursor: pointer;
+    height: 21px;
+    left: 31px;
+    position: absolute;
+    top: 32px;
+    width: 21px;
+  }
+  
+  .upload-new-prescriptions .path-265-d9Ofuj {
+    background-color: transparent;
+    height: 2px;
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(50.00% - 1px);
+    width: calc(100.00% + 2px);
+  }
+  
+  .upload-new-prescriptions .path-266-d9Ofuj {
+    background-color: transparent;
+    height: calc(100.00% + 3px);
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: 13px;
+  }
+  

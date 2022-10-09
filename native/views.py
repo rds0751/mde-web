@@ -20,6 +20,7 @@ def contact_medose(request):
 
 
 
+
 def daily_dairy_icon(request):
     return render(request, 'native/daily-dairy-icon.html')
 
@@ -207,5 +208,42 @@ def past_consultation(request):
     return render(request, 'native/past-consultation.html')
 
 
+<<<<<<< HEAD
 # def add_mydoctor(request):
 #     return render(request, 'native/add-mydoctor.html')
+
+
+def lab_tests(request):
+    return render(request, 'native/lab-tests.html')
+
+def plusicon(request):
+    return render(request, 'native/plusicon.html')
+=======
+    
+def ambulance_page(request):
+    return render(request, 'native/ambulance-page.html')
+
+
+
+def bloodbank_page(request):
+    return render(request, 'native/bloodbank-page.html')
+
+
+def mydevice_page(request):
+    return render(request, 'native/my-device-page.html')
+
+
+def health_welness_page(request):
+    return render(request, 'native/health-welness-page.html')
+
+
+def lab_test_page(request):
+    return render(request, 'native/lab-test-page.html')
+
+
+def medicine_page(request):
+    return render(request, 'native/medicine-page.html')
+
+
+def subscription_page(request):
+    return render(request, 'native/subscription-page.html')
