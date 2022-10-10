@@ -85,6 +85,7 @@
   right: 21px;
   top: calc(49.56% - 6px);
   width: 9px;
+  cursor: pointer;
 }
 
 .daily-dairy-icon .upload-your-health-report-C61RwL {
@@ -147,6 +148,7 @@
   right: calc(46.02% - 3px);
   top: 5px;
   width: 7px;
+  cursor: pointer;
 }
 
 .daily-dairy-icon .u-pload-yourhealth-reports-lAgql0 {
@@ -345,6 +347,7 @@
   right: calc(46.02% - 3px);
   top: 5px;
   width: 7px;
+  cursor: pointer;
 }
 
 .daily-dairy-icon .share-health-data-with-your-doctor-7GzcSZ {
@@ -593,6 +596,7 @@
   right: 18px;
   top: calc(47.24% - 6px);
   width: 8px;
+  cursor: pointer;
 }
 
 .daily-dairy-icon .this-tool-is-asimple-hV5CAx {
@@ -687,6 +691,7 @@
   right: 18px;
   top: calc(47.24% - 6px);
   width: 8px;
+  cursor: pointer;
 }
 
 .daily-dairy-icon .take-this-phq-9depre-yTd29f {
@@ -781,6 +786,7 @@
   right: 18px;
   top: calc(47.24% - 6px);
   width: 8px;
+  cursor: pointer;
 }
 
 .daily-dairy-icon .this-tool-is-asimple-x6bdoT {
@@ -1107,6 +1113,7 @@
   position: absolute;
   top: 0px;
   width: 100%;
+  cursor: pointer;
 }
 
 .daily-dairy-icon .icon-feather-plus-BtuMkh {
@@ -1146,6 +1153,7 @@
   position: absolute;
   top: calc(47.05% - 1px);
   width: calc(100.00% + 2px);
+  cursor: pointer;
 }
 
 .daily-dairy-icon .glucose-meter-AsLcWN {
@@ -1249,6 +1257,7 @@
   position: absolute;
   top: 0px;
   width: 100%;
+  cursor: pointer;
 }
 
 .daily-dairy-icon .icon-feather-plus-1u7HRx {
@@ -1274,6 +1283,7 @@
   position: absolute;
   top: -1px;
   width: 2px;
+  cursor: pointer;
 }
 
 .daily-dairy-icon .path-69-01zmCK {
@@ -1391,6 +1401,7 @@
   position: absolute;
   top: 0px;
   width: 100%;
+  cursor: pointer;
 }
 
 .daily-dairy-icon .icon-feather-plus-KFZa5t {
@@ -1402,6 +1413,7 @@
   position: absolute;
   right: calc(48.26% - 6px);
   width: 13px;
+  cursor: pointer;
 }
 
 .daily-dairy-icon .path-68-BrG7nu {
@@ -2190,6 +2202,7 @@
   opacity: 1;
   position: absolute;
   width: calc(100.00% + 2px);
+  cursor: pointer;
 }
 
 .medicine-reminder .path-83-ioGQO6 {
@@ -2244,6 +2257,7 @@
   position: absolute;
   top: 462px;
   width: 30px;
+  cursor: pointer;
 }
 
 .medicine-reminder .icon-feather-plus-C61RwL {
@@ -2255,6 +2269,7 @@
   position: absolute;
   top: 470px;
   width: 15px;
+  cursor: pointer;
 }
 
 .medicine-reminder .path-85-RHwCW2 {
@@ -2269,6 +2284,7 @@
   position: absolute;
   top: -1px;
   width: 2px;
+  cursor: pointer;
 }
 
 .medicine-reminder .path-86-RHwCW2 {
@@ -2283,6 +2299,7 @@
   position: absolute;
   top: calc(50.00% - 1px);
   width: calc(100.00% + 2px);
+  cursor: pointer;
 }
 
 .medicine-reminder .path-87-C61RwL {
@@ -2437,6 +2454,7 @@
   opacity: 1;
   position: absolute;
   width: 15px;
+  cursor: pointer;
 }
 
 .medicine-reminder .path-68-LVEwpI {
@@ -2559,6 +2577,7 @@
   text-align: left;
   white-space: nowrap;
   width: 67px;
+  cursor: pointer;
 }
 
 .medicine-reminder .icon-feather-arrow-left-zx72pJ {

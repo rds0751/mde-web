@@ -70,7 +70,18 @@
   top: 203px;
   width: 20px;
 }
-
+.bi-bi-capsule{
+margin-top: 6px;
+color:orchid;
+}
+.bi-bi-capsule2{
+  margin-top: 6px;
+  color:orchid;
+  }
+  .bi-bi-capsule3{
+    margin-top: 6px;
+    color:orchid;
+    }
 .prescription .path-262-Oc7JCx {
   background-color: transparent;
   height: calc(100.00% + 2px);
@@ -139,7 +150,18 @@
   top: calc(50.00% - 1px);
   width: calc(100.00% - 6px);
 }
-
+.madisin-time{
+  margin-top: 145px;
+  margin-left: 230px;
+}
+.madisin2-time{
+  margin-top: 45px;
+  margin-left: 230px;
+}
+.madisin3-time{
+  margin-top: 45px;
+  margin-left: 230px;
+}
 .prescription .add-medicines-C61RwL {
   -webkit-text-stroke: 1px transparent;
   background-color: transparent;
