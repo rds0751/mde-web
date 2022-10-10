@@ -131,8 +131,9 @@
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
-  right: 2px;
+  right: 10px;
   text-align: right;
+  font-size: 12px;
   white-space: nowrap;
   width: 64px;
 }
@@ -187,7 +188,8 @@
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
-  right: 2px;
+  right: 10px;
+  font-size: 12px;
   text-align: right;
   white-space: nowrap;
   width: 64px;
@@ -243,7 +245,8 @@
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
-  right: 2px;
+  right: 10px;
+  font-size: 12px;
   text-align: right;
   white-space: nowrap;
   width: 64px;
@@ -299,7 +302,8 @@
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
-  right: 2px;
+  right: 10px;
+  font-size: 12px;
   text-align: right;
   white-space: nowrap;
   width: 64px;
@@ -373,7 +377,8 @@
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
-  right: 2px;
+  right: 10px;
+  font-size: 12px;
   text-align: right;
   white-space: nowrap;
   width: 64px;
@@ -446,7 +451,8 @@
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
-  right: 2px;
+  right: 10px;
+  font-size: 12px;
   text-align: right;
   top: 6px;
   white-space: nowrap;
@@ -502,7 +508,8 @@
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
-  right: 2px;
+  right: 10px;
+  font-size: 12px;
   text-align: right;
   top: 4px;
   white-space: nowrap;
@@ -558,7 +565,8 @@
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
-  right: 2px;
+  right: 10px;
+  font-size: 12px;
   text-align: right;
   top: 4px;
   white-space: nowrap;
@@ -615,7 +623,8 @@
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
-  right: 2px;
+  right: 10px;
+  font-size: 12px;
   text-align: right;
   white-space: nowrap;
   width: 64px;
