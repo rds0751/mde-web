@@ -145,6 +145,7 @@
   position: absolute;
   top: 0px;
   width: 100%;
+  cursor: pointer;
 }
 
 .plus-button-on-front-page .path-222-xgZBI4 {
@@ -234,6 +235,7 @@
   position: absolute;
   top: 0px;
   width: 100%;
+  cursor: pointer;
 }
 
 .plus-button-on-front-page .path-222-WXk6Ex {
@@ -330,6 +332,7 @@
   position: absolute;
   top: 0px;
   width: 100%;
+  cursor: pointer;
 }
 
 .plus-button-on-front-page .path-222-SWJsym {
@@ -394,6 +397,7 @@
   position: absolute;
   top: 617px;
   width: 9px;
+  cursor: pointer;
 }
 
 .plus-button-on-front-page .explore-on-easy-way-to-add-reminders-C61RwL {
@@ -559,6 +563,7 @@
   object-fit: cover;
   position: absolute;
   width: 14px;
+  cursor: pointer;
 }
 
 .plus-button-on-front-page .take-a-picture-DxAYkY {
@@ -615,6 +620,18 @@
   right: 14px;
   top: 3px;
   width: 19px;
+  cursor: pointer;
+}
+.plus-button-on-front-page .icon-awesome-upload-Hjsg7h1 {
+  background-color: transparent;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  /* right: 14px; */
+  margin-left: 280px;
+  top: 3px;
+  width: 19px;
+  cursor: pointer;
 }
 
 .plus-button-on-front-page .path-231-C61RwL {
