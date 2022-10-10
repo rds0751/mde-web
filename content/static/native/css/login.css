@@ -1,0 +1,215 @@
+/* screen - login */
+
+.login {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 734px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.login .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 31px;
+  width: 21px;
+}
+
+.login .path-207-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.login .path-208-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.login .medose-logo-final-png-C61RwL {
+  background-color: transparent;
+  height: 121px;
+  left: -22px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 200px;
+}
+
+.login .welcome-to-medose-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 165px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.login .enter-your-mobile-number-to-get-started-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 198px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.login .path-209-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 267px;
+  width: 78px;
+}
+
+.login .path-210-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 267px;
+  width: 247px;
+}
+
+.login .x91-C61RwL {
+  background-color: transparent;
+  color: var(--bon-jour);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 230px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.login .x1234567890-C61RwL {
+  background-color: transparent;
+  color: var(--bon-jour);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 219px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 245px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.login .icon-ionic-md-arrow-dropleft-C61RwL {
+  background-color: transparent;
+  height: 4px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 252px;
+  width: 8px;
+}
+
+.login .rectangle-141-C61RwL {
+  background-color: #c14a9e;
+  border-radius: 10px;
+  height: 35px;
+  left: 53px;
+  opacity: 0.65;
+  position: absolute;
+  top: 298px;
+  width: 288px;
+}
+
+.login .get-otp-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 162px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0.82;
+  position: absolute;
+  text-align: center;
+  top: 308px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.login .having-trouble-signing-in-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 361px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.login .by-proceeding-you-ag-C61RwL {
+  background-color: transparent;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 656px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.login .span0-BuuHwQ {
+}
+
+.login .span1-BuuHwQ {
+}
+
+.login .span2-BuuHwQ {
+}
+
+.login .span3-BuuHwQ {
+}

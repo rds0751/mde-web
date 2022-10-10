@@ -1,0 +1,122 @@
+/* screen - my-doctors */
+
+.my-doctors {
+  background-color: var(--white);
+  height: 735px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 429px;
+}
+
+.my-doctors .my-doctors-C61RwL {
+  background-color: transparent;
+  color: var(--star-dust);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 174px;
+  letter-spacing: 0.28px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-doctors .ellipse-27-C61RwL {
+  background-color: var(--royal-heath);
+  border-radius: 18px;
+  cursor: pointer;
+  height: 36px;
+  left: 22px;
+  position: absolute;
+  top: 99px;
+  width: 36px;
+}
+
+.my-doctors .icon-feather-plus-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 30px;
+  position: absolute;
+  top: 107px;
+  width: 21px;
+}
+
+.my-doctors .path-97-RHwCW2 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.my-doctors .path-98-RHwCW2 {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-doctors .add-doctor-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.36px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-doctors .path-99-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 431px;
+}
+
+.my-doctors .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 31px;
+  width: 21px;
+}
+
+
+.my-doctors .path-120-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-doctors .path-121-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}

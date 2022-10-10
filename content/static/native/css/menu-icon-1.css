@@ -1,0 +1,908 @@
+/* screen - menu-icon-1 */
+
+.menu-icon-1 {
+  background-color: var(--white);
+  height: 924px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.menu-icon-1 .rectangle-46-C61RwL {
+  background-color: var(--black);
+  height: 916px;
+  left: 0px;
+  position: absolute;
+  top: 8px;
+  width: 429px;
+}
+
+.menu-icon-1 .my-profile-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 509px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .refer-earn-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 546px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .my-devices-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 393px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .my-records-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 27px;
+  position: absolute;
+  top: 353px;
+  width: 122px;
+}
+
+.menu-icon-1 .icon-awesome-medal-OMRwio {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.menu-icon-1 .my-records-OMRwio {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.menu-icon-1 .my-doctors-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 273px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .my-orders-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 433px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .my-rewards-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 59px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 470px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .my-consultations-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 314px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .icon-feather-message-square-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 310px;
+  width: 22px;
+}
+
+.menu-icon-1 .icon-feather-box-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 26px;
+  position: absolute;
+  top: 431px;
+  width: 20px;
+}
+
+.menu-icon-1 .path-55-IX4t2C {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.menu-icon-1 .path-56-IX4t2C {
+  background-color: transparent;
+  height: 7px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(30.74% - 2px);
+  width: calc(100.00% + 1px);
+}
+
+.menu-icon-1 .path-57-IX4t2C {
+  background-color: transparent;
+  bottom: -1px;
+  height: 11px;
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.menu-icon-1 .icon-material-device-hub-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 391px;
+  width: 20px;
+}
+
+.menu-icon-1 .icon-material-account-circle-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 507px;
+  width: 20px;
+}
+
+.menu-icon-1 .icon-awesome-address-card-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 746px;
+  width: 24px;
+}
+
+.menu-icon-1 .icon-feather-smile-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 26px;
+  position: absolute;
+  top: 543px;
+  width: 20px;
+}
+
+.menu-icon-1 .path-35-LxRzNj {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.menu-icon-1 .path-36-LxRzNj {
+  background-color: transparent;
+  bottom: calc(31.96% - 2px);
+  height: 5px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+
+.menu-icon-1 .path-37-LxRzNj {
+  background-color: transparent;
+  height: 2px;
+  left: calc(33.35% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.33% - 1px);
+  width: 2px;
+}
+
+.menu-icon-1 .path-38-LxRzNj {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(33.30% - 1px);
+  top: calc(33.33% - 1px);
+  width: 2px;
+}
+
+.menu-icon-1 .icon-ionic-ios-play-circle-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 584px;
+  width: 20px;
+}
+
+.menu-icon-1 .icon-feather-gift-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 26px;
+  position: absolute;
+  top: 465px;
+  width: 20px;
+}
+
+.menu-icon-1 .path-60-HRYkMo {
+  background-color: transparent;
+  bottom: -1px;
+  height: 16px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+
+.menu-icon-1 .path-61-HRYkMo {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.44% - 4px);
+  width: calc(100.00% + 2px);
+}
+
+.menu-icon-1 .path-62-HRYkMo {
+  background-color: transparent;
+  bottom: -1px;
+  height: 19px;
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.menu-icon-1 .path-63-HRYkMo {
+  background-color: transparent;
+  height: 9px;
+  left: calc(31.80% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 12px;
+}
+
+.menu-icon-1 .path-64-HRYkMo {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.13% - 3px);
+  top: -1px;
+  width: 12px;
+}
+
+.menu-icon-1 .icon-map-doctor-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 271px;
+  width: 20px;
+}
+
+.menu-icon-1 .user-guide-video-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 587px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .icon-feather-settings-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 26px;
+  position: absolute;
+  top: 619px;
+  width: 20px;
+}
+
+.menu-icon-1 .path-41-pAbU6m {
+  background-color: transparent;
+  height: 11px;
+  left: calc(50.00% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 5px);
+  width: 11px;
+}
+
+.menu-icon-1 .path-42-pAbU6m {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.menu-icon-1 .icon-awesome-address-card-VMr6Om {
+  background-color: transparent;
+  height: 20px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 705px;
+  width: 24px;
+}
+
+.menu-icon-1 .icon-feather-power-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 26px;
+  position: absolute;
+  top: 794px;
+  width: 20px;
+}
+
+.menu-icon-1 .path-58-fOOQ8H {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% + 3px);
+}
+
+.menu-icon-1 .path-59-fOOQ8H {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.97% - 1px);
+  top: -2px;
+  width: 3px;
+}
+
+.menu-icon-1 .settings-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 622px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .contact-support-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 662px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .terms-conditions-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 707px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .privacy-policy-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 748px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .logout-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 796px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.menu-icon-1 .top-menu-C61RwL {
+  background-color: transparent;
+  height: 255px;
+  left: 0px;
+  position: fixed;
+  top: -2px;
+  width: 429px;
+
+}
+
+.menu-icon-1 .rectangle-50-toOMtE {
+  background-color: var(--black);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.menu-icon-1 .ellipse-7-toOMtE {
+  background-color: var(--white);
+  border-radius: 28px;
+  height: 56px;
+  left: 21px;
+  position: absolute;
+  top: 29px;
+  width: 56px;
+}
+
+.menu-icon-1 .rectangle-47-toOMtE {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  height: 30px;
+  position: absolute;
+  right: 21px;
+  top: calc(18.67% - 6px);
+  width: 160px;
+}
+
+.menu-icon-1 .ripudaman-singh-toOMtE {
+  background-color: transparent;
+  color: #fffcfc;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.33% - 15px);
+  white-space: nowrap;
+  width: 180px;
+}
+
+.menu-icon-1 .rectangle-48-toOMtE {
+  background-color: #fffbfb;
+  border-radius: 10px;
+  bottom: calc(26.82% - 9px);
+  cursor: pointer;
+  height: 35px;
+  left: 21px;
+  position: absolute;
+  width: calc(100.00% - 42px);
+}
+
+.menu-icon-1 .rectangle-49-toOMtE {
+  background-color: #ffecb8;
+  border-radius: 10px;
+  bottom: 17px;
+  height: 30px;
+  left: 21px;
+  position: absolute;
+  width: calc(100.00% - 42px);
+}
+
+.menu-icon-1 .add-a-member-toOMtE {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 31px;
+  text-align: left;
+  top: calc(21.55% - 5px);
+  white-space: nowrap;
+  width: 139px;
+}
+
+.menu-icon-1 .x415-4153777_google-s-toOMtE {
+  background-color: transparent;
+  height: 80px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 44px;
+}
+
+.menu-icon-1 .join-now-toOMtE {
+  background-color: transparent;
+  bottom: calc(29.45% - 6px);
+  color: #585858;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: 58px;
+  text-align: left;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.menu-icon-1 .max-savings-max-benefits-toOMtE {
+  background-color: transparent;
+  bottom: calc(25.00% - 4px);
+  color: var(--onyx);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: 58px;
+  text-align: left;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.menu-icon-1 .icon-ionic-ios-arrow-back-toOMtE {
+  background-color: transparent;
+  bottom: calc(30.35% - 3px);
+  height: 10px;
+  object-fit: cover;
+  position: absolute;
+  right: 35px;
+  width: 5px;
+}
+
+.menu-icon-1 .icon-ionic-ios-arrow-back-Rm0xb5 {
+  background-color: transparent;
+  bottom: 26px;
+  height: 10px;
+  object-fit: cover;
+  position: absolute;
+  right: 35px;
+  width: 5px;
+}
+
+.menu-icon-1 .download-removebg-preview-3-1-toOMtE {
+  background-color: transparent;
+  bottom: 19px;
+  height: 24px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  width: 50px;
+}
+
+.menu-icon-1 .explore-programs-toOMtE {
+  background-color: transparent;
+  bottom: 18px;
+  color: #25316d;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: 49px;
+  text-align: left;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.menu-icon-1 .medose-logo-final-png-toOMtE {
+  background-color: transparent;
+  bottom: calc(23.93% - 14px);
+  height: 60px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  width: 100px;
+}
+
+.menu-icon-1 .icon-feather-phone-call-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 658px;
+  width: 26px;
+}
+
+.menu-icon-1 .menu-button-C61RwL {
+  background-color: transparent;
+  height: 173px;
+  left: 2%;
+  position: absolute;
+  margin-top: 176px;
+  top: 664px;
+  width: 100%;
+}
+
+.menu-icon-1 .union-2-MaUEMx {
+  background-color: transparent;
+  height: calc(100.00% + 30px);
+  left: -24px;
+  object-fit: cover;
+  position: absolute;
+  top: -17px;
+  width: calc(100.00% + 30px);
+}
+
+.menu-icon-1 .home-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 37px;
+  position: absolute;
+  top: 7px;
+  width: 31px;
+}
+
+.menu-icon-1 .icon-material-home-wex5J4 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.menu-icon-1 .home-wex5J4 {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 1px);
+}
+
+.menu-icon-1 .dairy-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: calc(28.19% - 7px);
+  position: absolute;
+  top: 9px;
+  width: 26px;
+}
+
+.menu-icon-1 .icon-feather-book-47y9BD {
+  background-color: transparent;
+  height: 24px;
+  position: absolute;
+  right: 3px;
+  top: 0px;
+  width: 19px;
+}
+
+.menu-icon-1 .path-17-hG9lGi {
+  background-color: transparent;
+  bottom: 2px;
+  height: 5px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.menu-icon-1 .path-18-hG9lGi {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.menu-icon-1 .diary-47y9BD {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.menu-icon-1 .health-tip-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  position: absolute;
+  right: calc(26.05% - 14px);
+  top: 8px;
+  width: 54px;
+}
+
+.menu-icon-1 .icon-material-lightbulb-outline-SGpnhC {
+  background-color: transparent;
+  height: 26px;
+  left: calc(50.00% - 9px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.menu-icon-1 .health-tips-SGpnhC {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.menu-icon-1 .menu-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  position: absolute;
+  right: 23px;
+  top: 12px;
+  width: 28px;
+}
+
+.menu-icon-1 .icon-metro-menu-u5cdSS {
+  background-color: transparent;
+  height: 16px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.menu-icon-1 .menu-u5cdSS {
+  background-color: transparent;
+  bottom: -4px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.menu-icon-1 .path-19-MaUEMx {
+  background-color: transparent;
+  height: 5px;
+  left: calc(49.96% - 81px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(40.48% - 2px);
+  width: 162px;
+}
+
+.menu-icon-1 .me-MaUEMx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 58px;
+  left: calc(50.00% - 29px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}

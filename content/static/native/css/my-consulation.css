@@ -1,0 +1,226 @@
+/* screen - my-consulation */
+
+.my-consulation {
+  background-color: var(--white);
+  height: 734px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.my-consulation .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 31px;
+  width: 21px;
+}
+
+.my-consulation .path-131-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-consulation .path-132-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.my-consulation .ripudamansconsultations-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 77px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-consulation .rectangle-107-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 10px;
+  height: 23px;
+  left: 345px;
+  position: absolute;
+  top: 29px;
+  width: 62px;
+}
+
+.my-consulation .icon-feather-rotate-cw-C61RwL {
+  background-color: transparent;
+  height: 12px;
+  left: 351px;
+  position: absolute;
+  top: 34px;
+  width: 12px;
+}
+
+.my-consulation .path-133-BQiqnD {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  width: 7px;
+}
+
+.my-consulation .path-134-BQiqnD {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.my-consulation .refresh-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 366px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+  
+}
+
+.my-consulation .rectangle-108-C61RwL {
+  background-color: var(--bon-jour);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 0px 10px 10px 0px;
+  height: 25px;
+  left: 213px;
+  position: absolute;
+  top: 136px;
+  width: 193px;
+}
+
+.my-consulation .rectangle-109-C61RwL {
+  background-color: #040303;
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 10px 0px 0px 10px;
+  height: 25px;
+  left: 22px;
+  position: absolute;
+  top: 136px;
+  width: 192px;
+}
+
+.my-consulation .upcoming-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-consulation .past-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 285px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-consulation .you-dont-have-any-upcomingconsultations-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 49px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 494px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-consulation .x3d-copywriting-writi-C61RwL {
+  background-color: transparent;
+  height: 254px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 240px;
+  width: 424px;
+}
+
+.my-consulation .rectangle-110-C61RwL {
+  background: linear-gradient(-90deg, #a82682 0%, #541341 100%);
+  background-color: transparent;
+  border-radius: 20px;
+  height: 40px;
+  left: 73px;
+  position: absolute;
+  top: 604px;
+  width: 250px;
+  
+}
+
+.my-consulation .book-consultation-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 610px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-consulation .icon-feather-message-circle-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 612px;
+  width: 25px;
+}

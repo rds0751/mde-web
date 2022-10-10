@@ -1,0 +1,838 @@
+/* screen - settings */
+
+.settings {
+  background-color: var(--white);
+  height: 1116px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.settings .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 31px;
+  width: 21px;
+}
+
+.settings .path-172-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.settings .path-173-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.settings .settings-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 184px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+  cursor: pointer;
+}
+
+.settings .save-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 366px;
+  letter-spacing: 0.00px;
+  line-height: 3px;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  white-space: nowrap;
+  width: auto;
+  cursor: pointer;
+}
+
+.settings .mobil-no-C61RwL {
+  background-color: transparent;
+  height: 75px;
+  left: 22px;
+  position: absolute;
+  top: 95px;
+  width: 384px;
+}
+
+.settings .mobile-number-Bbzrio {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 117px;
+}
+
+.settings .upload-Bbzrio {
+  background-color: transparent;
+  height: 30px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 100px;
+  cursor: pointer;
+}
+
+.settings .rectangle-135-4xfiKP {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.settings .u-pload-4xfiKP {
+  background-color: transparent;
+  bottom: 2px;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(47.50% - 28px);
+  text-align: left;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.settings .x1234567890-Bbzrio {
+  background-color: transparent;
+  bottom: calc(15.21% - 9px);
+  height: 23px;
+  left: 0px;
+  border: none;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 380px;
+}
+
+.settings .path-174-Bbzrio {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.settings .mobil-no-VMr6Om {
+  background-color: transparent;
+  height: 43px;
+  left: 22px;
+  position: absolute;
+  top: 315px;
+  width: 384px;
+}
+
+.settings .language-DE8sB7 {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.settings .upload-DE8sB7 {
+  background-color: transparent;
+  height: 30px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 100px;
+  
+}
+.Option-1{
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+}
+
+.settings .rectangle-135-HRZngh {
+  background-color: #f9eeee;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.settings .english-HRZngh {
+  background-color: transparent;
+  bottom: 2px;
+  color: #827c7c;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(46.15% - 28px);
+  text-align: left;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.settings .path-174-DE8sB7 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.settings .mobil-no-mzXdH9 {
+  background-color: transparent;
+  height: 75px;
+  left: 22px;
+  position: absolute;
+  top: 208px;
+  width: 384px;
+}
+
+.settings .email-FYYOAj {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.settings .upload-FYYOAj {
+  background-color: transparent;
+  height: 30px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 100px;
+}
+
+.settings .rectangle-135-MLZx2D {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.settings .u-pload-MLZx2D {
+  background-color: transparent;
+  bottom: 2px;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(47.50% - 28px);
+  text-align: left;
+  white-space: nowrap;
+  width: 60px;
+  cursor: pointer;
+}
+
+.settings .path-174-FYYOAj {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.settings .ripudumansinghgmailcom-FYYOAj {
+  background-color: transparent;
+  bottom: calc(15.97% - 9px);
+  border: none;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 380px;
+}
+/* main*/
+
+input[type=checkbox]{
+	height: 0;
+	width: 0;
+	visibility: hidden;
+}
+
+label {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 35px;
+	height: 18px;
+	background: grey;
+	display: block;
+	border-radius: 50px;
+	position: relative;
+  margin-left: 347px;
+}
+
+label:after {
+	content: '';
+	position: absolute;
+	top: 3px;
+	left: 5px;
+	width: 12px;
+	height: 12px;
+	background: #fff;
+	border-radius: 30px;
+	transition: 0.3s;
+}
+
+input:checked + label {
+	background: #a82682;
+}
+
+input:checked + label:after {
+	left: calc(100% - 5px);
+	transform: translateX(-100%);
+}
+
+ /* end2/ */
+
+ input[type=checkbox]{
+	height: 0;
+	width: 0;
+	visibility: hidden;
+}
+
+label {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 35px;
+	height: 18px;
+	background: grey;
+	display: block;
+	border-radius: 50px;
+	position: relative;
+  margin-left: 347px;
+}
+
+label:after {
+	content: '';
+	position: absolute;
+	top: 3px;
+	left: 5px;
+	width: 12px;
+	height: 12px;
+	background: #fff;
+	border-radius: 30px;
+	transition: 0.3s;
+}
+
+input:checked + label {
+	background: #a82682;
+}
+
+input:checked + label:after {
+	left: calc(100% - 5px);
+	transform: translateX(-100%);
+}
+/* end3 */
+input[type=checkbox]{
+	height: 0;
+	width: 0;
+	visibility: hidden;
+}
+
+label {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 35px;
+	height: 18px;
+	background: grey;
+	display: block;
+	border-radius: 50px;
+	position: relative;
+  margin-left: 347px;
+}
+
+label:after {
+	content: '';
+	position: absolute;
+	top: 3px;
+	left: 5px;
+	width: 12px;
+	height: 12px;
+	background: #fff;
+	border-radius: 30px;
+	transition: 0.3s;
+}
+
+input:checked + label {
+	background: #a82682;
+}
+
+input:checked + label:after {
+	left: calc(100% - 5px);
+	transform: translateX(-100%);
+}
+/* end4 */
+input[type=checkbox]{
+	height: 0;
+	width: 0;
+	visibility: hidden;
+}
+
+label {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 35px;
+	height: 18px;
+	background: grey;
+	display: block;
+	border-radius: 50px;
+	position: relative;
+  margin-left: 347px;
+}
+
+label:after {
+	content: '';
+	position: absolute;
+	top: 3px;
+	left: 5px;
+	width: 12px;
+	height: 12px;
+	background: #fff;
+	border-radius: 30px;
+	transition: 0.3s;
+}
+
+input:checked + label {
+	background: #a82682;
+}
+
+input:checked + label:after {
+	left: calc(100% - 5px);
+	transform: translateX(-100%);
+}
+/* end5 */
+input[type=checkbox]{
+	height: 0;
+	width: 0;
+	visibility: hidden;
+}
+
+label {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 35px;
+	height: 18px;
+	background: grey;
+	display: block;
+	border-radius: 50px;
+	position: relative;
+  margin-left: 347px;
+}
+
+label:after {
+	content: '';
+	position: absolute;
+	top: 3px;
+	left: 5px;
+	width: 12px;
+	height: 12px;
+	background: #fff;
+	border-radius: 30px;
+	transition: 0.3s;
+}
+
+input:checked + label {
+	background: #a82682;
+}
+
+input:checked + label:after {
+	left: calc(100% - 5px);
+	transform: translateX(-100%);
+}
+/* end6 */
+input[type=checkbox]{
+	height: 0;
+	width: 0;
+	visibility: hidden;
+}
+
+label {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 35px;
+	height: 18px;
+	background: grey;
+	display: block;
+	border-radius: 50px;
+	position: relative;
+  margin-left: 347px;
+}
+
+label:after {
+	content: '';
+	position: absolute;
+	top: 3px;
+	left: 5px;
+	width: 12px;
+	height: 12px;
+	background: #fff;
+	border-radius: 30px;
+	transition: 0.3s;
+}
+
+input:checked + label {
+	background: #a82682;
+}
+
+input:checked + label:after {
+	left: calc(100% - 5px);
+	transform: translateX(-100%);
+}
+/* end */
+.settings .notification-settings-C61RwL {
+  background-color: transparent;
+  color: #827c7c;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.settings .group-27-C61RwL {
+  background-color: transparent;
+  height: 65px;
+  left: 22px;
+  position: absolute;
+  top: 419px;
+  width: 384px;
+}
+
+.settings .reminders-alarms-BKbGut {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.settings .path-175-BKbGut {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.settings .group-26-C61RwL {
+  background-color: transparent;
+  height: 71px;
+  left: 22px;
+  position: absolute;
+  top: 511px;
+  width: 384px;
+}
+
+.settings .doctor-advice-aRbOOb {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.settings .path-176-aRbOOb {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.settings .group-25-C61RwL {
+  background-color: transparent;
+  height: 70px;
+  left: 22px;
+  position: absolute;
+  top: 614px;
+  width: 384px;
+}
+
+.settings .important-alerts-StUjmZ {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.settings .path-177-StUjmZ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.settings .group-24-C61RwL {
+  background-color: transparent;
+  height: 68px;
+  left: 22px;
+  position: absolute;
+  top: 717px;
+  width: 384px;
+}
+
+.settings .general-messages-9xHt5x {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.settings .path-178-9xHt5x {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.settings .group-23-C61RwL {
+  background-color: transparent;
+  height: 63px;
+  left: 22px;
+  position: absolute;
+  top: 817px;
+  width: 384px;
+}
+
+.settings .health-advice-tips-2eLxbt {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.settings .path-179-2eLxbt {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.settings .group-22-C61RwL {
+  background-color: transparent;
+  height: 73px;
+  left: 22px;
+  position: absolute;
+  top: 912px;
+  width: 384px;
+}
+
+.settings .offers-discounts-VdQhAS {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.settings .path-180-VdQhAS {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.settings .rectangle-136-C61RwL {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  height: 61px;
+  left: 22px;
+  position: absolute;
+  top: 1019px;
+  width: 384px;
+}
+
+.settings .request-account-deletion-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1028px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.settings .at-infosecmedosecom-C61RwL {
+  background-color: transparent;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1044px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.settings .span0-hHxfFn {
+}
+
+.settings .span1-hHxfFn {
+  font-style: normal;
+}
+
+.settings .icon-feather-mail-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 53px;
+  position: absolute;
+  top: 1038px;
+  width: 27px;
+}
+
+.settings .path-181-VUxr9A {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.settings .path-182-VUxr9A {
+  background-color: transparent;
+  height: 13px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% + 3px);
+}
+
+.settings .icon-ionic-ios-arrow-back-C61RwL {
+  background-color: transparent;
+  height: 9px;
+  left: 376px;
+  object-fit: cover;
+  position: absolute;
+  top: 1044px;
+  width: 7px;
+}

@@ -1,0 +1,236 @@
+/* screen - hospital-reports */
+
+.lab-tests {
+    background-color: var(--white);
+    height: 737px;
+    overflow: hidden;
+    overflow-x: hidden;
+    position: relative;
+    width: 428px;
+  }
+  
+  .lab-tests .bills-C61RwL {
+    -webkit-text-stroke: 1px transparent;
+    background-color: transparent;
+    height: auto;
+    left: 165px;
+    letter-spacing: 0.00px;
+    line-height: 10px;
+    position: absolute;
+    text-align: left;
+    top: 38px;
+    white-space: nowrap;
+    width: auto;
+  }
+  
+  .lab-tests .icon-feather-plus-circle-C61RwL {
+    background-color: transparent;
+    height: 20px;
+    left: 31px;
+    position: absolute;
+    top: 139px;
+    width: 20px;
+  }
+  
+  .lab-tests .path-262-WTLb2b {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: calc(100.00% + 2px);
+  }
+  
+  .lab-tests .path-263-WTLb2b {
+    background-color: transparent;
+    height: calc(100.00% - 6px);
+    left: calc(50.00% - 1px);
+    object-fit: cover;
+    position: absolute;
+    top: 3px;
+    width: 2px;
+  }
+  
+  .lab-tests .path-264-WTLb2b {
+    background-color: transparent;
+    height: 2px;
+    left: 3px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(50.00% - 1px);
+    width: calc(100.00% - 6px);
+  }
+  
+  .lab-tests .icon-feather-plus-circle-VMr6Om {
+    background-color: transparent;
+    height: 20px;
+    left: 31px;
+    position: absolute;
+    top: 203px;
+    width: 20px;
+  }
+  .bi-bi-hospital{
+    color: orchid;
+    margin-top: 3px;
+  }
+  .lab-tests .path-262-Oc7JCx {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: calc(100.00% + 2px);
+  }
+  
+  .lab-tests .path-263-Oc7JCx {
+    background-color: transparent;
+    height: calc(100.00% - 6px);
+    left: calc(50.00% - 1px);
+    object-fit: cover;
+    position: absolute;
+    top: 3px;
+    width: 2px;
+  }
+  
+  .lab-tests .path-264-Oc7JCx {
+    background-color: transparent;
+    height: 2px;
+    left: 3px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(50.00% - 1px);
+    width: calc(100.00% - 6px);
+  }
+  
+  .lab-tests .icon-feather-plus-circle-mzXdH9 {
+    background-color: transparent;
+    height: 20px;
+    left: 31px;
+    position: absolute;
+    top: 267px;
+    width: 20px;
+  }
+  
+  .lab-tests .path-262-KxDAAl {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: calc(100.00% + 2px);
+  }
+  
+  .lab-tests .path-263-KxDAAl {
+    background-color: transparent;
+    height: calc(100.00% - 6px);
+    left: calc(50.00% - 1px);
+    object-fit: cover;
+    position: absolute;
+    top: 3px;
+    width: 2px;
+  }
+  
+  .lab-tests .path-264-KxDAAl {
+    background-color: transparent;
+    height: 2px;
+    left: 3px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(50.00% - 1px);
+    width: calc(100.00% - 6px);
+  }
+  
+  .lab-tests .medical-bills-C61RwL {
+    -webkit-text-stroke: 1px transparent;
+    background-color: transparent;
+    height: auto;
+    left: 60px;
+    letter-spacing: 0.00px;
+    line-height: 18px;
+    position: absolute;
+    text-align: left;
+    top: 140px;
+    white-space: nowrap;
+    width: auto;
+    /* border-style: solid; */
+  }
+
+  .bi-bi-download{
+    margin-top:0;
+    margin-left: 330px;
+    cursor: pointer;
+    margin-bottom: -30px;
+  }
+  .download-button{
+    margin-left: 300px;
+    cursor: pointer;
+    margin-top: 143px;
+    position: absolute;
+    /* margin-bottom: 40px; */
+  
+  }
+  .bi-bi-clipboard2-pulse{
+    color: orchid;
+  }
+  .lab-tests .hospital-C61RwL {
+    -webkit-text-stroke: 1px transparent;
+    background-color: transparent;
+    height: auto;
+    left: 78px;
+    letter-spacing: 0.00px;
+    line-height: 18px;
+    position: absolute;
+    text-align: left;
+    top: 204px;
+    white-space: nowrap;
+    width: auto;
+  }
+  
+  
+  .lab-tests .upload-save-pictures-C61RwL {
+    -webkit-text-stroke: 1px transparent;
+    background-color: transparent;
+    height: auto;
+    left: 78px;
+    letter-spacing: 0.00px;
+    line-height: 18px;
+    position: absolute;
+    text-align: left;
+    top: 268px;
+    white-space: nowrap;
+    width: auto;
+  }
+  
+  .lab-tests .icon-feather-arrow-left-C61RwL {
+    background-color: transparent;
+    cursor: pointer;
+    height: 21px;
+    left: 25px;
+    position: absolute;
+    top: 31px;
+    width: 21px;
+  }
+  
+  .lab-tests .path-265-d9Ofuj {
+    background-color: transparent;
+    height: 2px;
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(50.00% - 1px);
+    width: calc(100.00% + 2px);
+  }
+  
+  .lab-tests .path-266-d9Ofuj {
+    background-color: transparent;
+    height: calc(100.00% + 3px);
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: 13px;
+  }
+  

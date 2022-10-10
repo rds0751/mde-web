@@ -1,0 +1,421 @@
+/* screen - contact-medose */
+
+.contact-medose {
+  background-color: var(--white);
+  height: 735px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.contact-medose .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 25px;
+  position: absolute;
+  top: 32px;
+  width: 21px;
+}
+
+.contact-medose .path-183-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.contact-medose .path-184-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.contact-medose .contact-medose-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 3px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact-medose .have-queriesw-are-he-C61RwL {
+  background-color: transparent;
+  color: var(--heavy-metal);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 114px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact-medose .you-can-reach-out-to-us-for-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact-medose .icon-ionic-ios-checkbox-outline-C61RwL {
+  background-color: transparent;
+  height: 27px;
+  left: 51px;
+  position: absolute;
+  top: 217px;
+  width: 27px;
+}
+
+.contact-medose .path-185-3Cojqb {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.contact-medose .path-186-3Cojqb {
+  background-color: transparent;
+  bottom: calc(49.98% - 6px);
+  height: 12px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 12px);
+}
+
+.contact-medose .icon-material-tag-faces-C61RwL {
+  background-color: transparent;
+  height: 30px;
+  left: 176px;
+  object-fit: cover;
+  position: absolute;
+  top: 215px;
+  width: 30px;
+}
+
+.contact-medose .icon-feather-alert-triangle-C61RwL {
+  background-color: transparent;
+  height: 27px;
+  left: 333px;
+  position: absolute;
+  top: 216px;
+  width: 31px;
+}
+
+.contact-medose .path-187-HNJHAD {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 3px);
+}
+
+.contact-medose .path-188-HNJHAD {
+  background-color: transparent;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 1px);
+  top: calc(42.16% - 4px);
+  width: 3px;
+}
+
+.contact-medose .path-189-HNJHAD {
+  background-color: transparent;
+  bottom: calc(18.63% - 1px);
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 1px);
+  width: 3px;
+}
+
+.contact-medose .order-relatedqueries-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact-medose .tech-relatedqueries-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 159px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact-medose .any-possibleescalations-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 316px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.contact-medose .whatsapp-C61RwL {
+  background-color: transparent;
+  height: 59px;
+  left: 22px;
+  position: absolute;
+  top: 338px;
+  width: 384px;
+}
+
+.contact-medose .rectangle-137-IhdRD3 {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 10px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.contact-medose .chat-with-us-on-whatsapp-IhdRD3 {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: var(--heavy-metal);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 22px;
+  left: calc(33.51% - 64px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(27.03% - 6px);
+  white-space: nowrap;
+  width: 190px;
+}
+
+.contact-medose .span0-YCXu1O {
+}
+
+.contact-medose .span1-YCXu1O {
+  font-style: normal;
+}
+
+.contact-medose .on-911234567890-IhdRD3 {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(29.27% - 5px);
+  height: 18px;
+  left: calc(23.13% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.contact-medose .icon-ionic-ios-arrow-down-IhdRD3 {
+  background-color: transparent;
+  height: 15px;
+  cursor: pointer;
+  object-fit: cover;
+  position: absolute;
+  right: 36px;
+  top: calc(40.37% - 4px);
+  width: 65px;
+  border-radius: 2px;
+}
+
+.contact-medose .whatsapp-IhdRD3 {
+  background-color: transparent;
+  height: calc(100.00% - 19px);
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 40px;
+}
+
+.contact-medose .whatsapp-VMr6Om {
+  background-color: transparent;
+  height: 59px;
+  left: 22px;
+  position: absolute;
+  top: 413px;
+  width: 384px;
+}
+
+.contact-medose .rectangle-137-A4Old4 {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 10px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.contact-medose .send-us-an-e-mail-A4Old4 {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: 22px;
+  left: calc(24.53% - 29px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(27.03% - 6px);
+  white-space: nowrap;
+  width: 119px;
+}
+
+.contact-medose .at-supportmedosecom-A4Old4 {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(29.27% - 5px);
+  height: 18px;
+  left: calc(26.97% - 39px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.contact-medose .icon-ionic-ios-arrow-down-A4Old4 {
+  background-color: transparent;
+  height: 15px;
+  cursor: pointer;
+  object-fit: cover;
+  position: absolute;
+  right: 36px;
+  top: calc(40.37% - 4px);
+  width: 65px;
+  border-radius: 2px;
+}
+
+.contact-medose .images-removebg-preview-A4Old4 {
+  background-color: transparent;
+  height: 40px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 60px;
+}
+
+.contact-medose .whatsapp-mzXdH9 {
+  background-color: transparent;
+  height: 59px;
+  left: 22px;
+  position: absolute;
+  top: 488px;
+  width: 384px;
+}
+
+.contact-medose .rectangle-137-VErhxA {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 10px 6px #e2e2e2;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.contact-medose .get-a-call-with-us-VErhxA {
+  background-color: transparent;
+  height: 22px;
+  left: calc(24.33% - 29px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.contact-medose .on-911234567890between-9-am-to-7-pm-VErhxA {
+  background-color: transparent;
+  bottom: 2px;
+  height: 33px;
+  left: calc(24.16% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.contact-medose .icon-ionic-ios-arrow-down-VErhxA {
+  background-color: transparent;
+  height: 19px;
+  cursor: pointer;
+  object-fit: cover;
+  position: absolute;
+  right: 32px;
+  top: calc(40.37% - 4px);
+  width: 75px;
+  border-radius: 0px;
+}
+
+.contact-medose .x360_f_463635926_funp-VErhxA {
+  background-color: transparent;
+  height: calc(100.00% - 19px);
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 40px;
+}

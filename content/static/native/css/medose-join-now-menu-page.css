@@ -1,0 +1,1099 @@
+/* screen - medose-join-now-menu-page */
+
+.medose-join-now-menu-page {
+  background-color: var(--white);
+  height: 2590px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.medose-join-now-menu-page .medose-logo-final-png-C61RwL {
+  background-color: transparent;
+  height: 212px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 350px;
+}
+
+.medose-join-now-menu-page .welcome-to-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 142px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 197px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .medose-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 234px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .save-big-with-exclus-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 274px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .group-53-C61RwL {
+  background-color: transparent;
+  height: 105px;
+  left: 20px;
+  position: absolute;
+  top: 321px;
+  width: 384px;
+}
+
+.medose-join-now-menu-page .rectangle-176-VAhwTv {
+  background-color: var(--white);
+  box-shadow: 0px 10px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.medose-join-now-menu-page .rectangle-177-VAhwTv {
+  background-color: var(--white);
+  box-shadow: 0px 10px 6px #00000029;
+  height: 100%;
+  position: absolute;
+  right: calc(49.81% - 61px);
+  top: 0px;
+  width: 123px;
+}
+
+.medose-join-now-menu-page .rectangle-178-VAhwTv {
+  background-color: var(--white);
+  box-shadow: 0px 10px 6px #00000029;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 123px;
+}
+
+.medose-join-now-menu-page .rectangle-175-VAhwTv {
+  background: linear-gradient(-90deg, #a82682 0%, #541341 100%);
+  background-color: transparent;
+  border-radius: 20px;
+  height: 58px;
+  left: 3px;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.medose-join-now-menu-page .x15off-VAhwTv {
+  background-color: transparent;
+  height: 30px;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.medose-join-now-menu-page .group-54-C61RwL {
+  background-color: transparent;
+  height: 58px;
+  left: 153px;
+  position: absolute;
+  top: 321px;
+  width: 120px;
+}
+
+.medose-join-now-menu-page .rectangle-175-HdSTrm {
+  background: linear-gradient(90deg, #a82682 5.89%, #2b1b27 92.52%, #541341 100%);
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medose-join-now-menu-page .x15off-HdSTrm {
+  background-color: transparent;
+  bottom: calc(32.14% - 10px);
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(47.50% - 38px);
+  text-align: center;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.medose-join-now-menu-page .group-55-C61RwL {
+  background-color: transparent;
+  height: 58px;
+  left: 284px;
+  position: absolute;
+  top: 321px;
+  width: 120px;
+}
+
+.medose-join-now-menu-page .rectangle-175-4W6TZx {
+  background: linear-gradient(-90deg, #a82682 4.72%, #541341 94.18%);
+  background-color: transparent;
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medose-join-now-menu-page .x5off-4W6TZx {
+  background-color: transparent;
+  bottom: calc(32.14% - 10px);
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(47.83% - 35px);
+  text-align: center;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.medose-join-now-menu-page .our-subscriptions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 466px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .fair-usage-policy-C61RwL {
+  background-color: transparent;
+  color: #ff0000;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 239px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 466px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .onall-medicines-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 378px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .on-all-hw-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 184px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 378px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .onall-lab-tests-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 301px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 378px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .group-56-C61RwL {
+  background-color: transparent;
+  height: 188px;
+  left: 12px;
+  position: absolute;
+  top: 516px;
+  width: 404px;
+}
+
+.medose-join-now-menu-page .rectangle-179-zA4C22 {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 15px;
+  box-shadow: 0px 15px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medose-join-now-menu-page .essentials-valid-for-3-months-zA4C22 {
+  background-color: transparent;
+  height: 48px;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.medose-join-now-menu-page .span0-n1YU8n {
+}
+
+.medose-join-now-menu-page .span1-n1YU8n {
+}
+
+.medose-join-now-menu-page .from-low-calories-fo-zA4C22 {
+  background-color: transparent;
+  height: 42px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(38.36% - 16px);
+  white-space: nowrap;
+  width: calc(100.00% - 40px);
+}
+
+.medose-join-now-menu-page .flat-15-offextra-30-cashback-zA4C22 {
+  background-color: transparent;
+  bottom: 14px;
+  height: 62px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.medose-join-now-menu-page .rectangle-180-zA4C22 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  bottom: 28px;
+  box-shadow: 0px 10px 6px #00000029;
+  height: 36px;
+  position: absolute;
+  right: 10px;
+  width: 120px;
+}
+
+.medose-join-now-menu-page .add-zA4C22 {
+  background-color: transparent;
+  bottom: calc(20.48% - 5px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 53px;
+  text-align: left;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.medose-join-now-menu-page .x490-zA4C22 {
+  background-color: transparent;
+  height: 25px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 13px;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.medose-join-now-menu-page .x500-off-zA4C22 {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 13px;
+  text-align: left;
+  top: calc(21.69% - 5px);
+  white-space: nowrap;
+  width: 66px;
+}
+
+.medose-join-now-menu-page .group-57-C61RwL {
+  background-color: transparent;
+  height: 188px;
+  left: 12px;
+  position: absolute;
+  top: 733px;
+  width: 404px;
+}
+
+.medose-join-now-menu-page .rectangle-179-AwXtS8 {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 15px;
+  box-shadow: 0px 15px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medose-join-now-menu-page .medicine-valid-for-3-months-AwXtS8 {
+  background-color: transparent;
+  height: 48px;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.medose-join-now-menu-page .span0-Ak2zUw {
+}
+
+.medose-join-now-menu-page .span1-Ak2zUw {
+}
+
+.medose-join-now-menu-page .your-monthly-medicin-AwXtS8 {
+  background-color: transparent;
+  height: 42px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(41.78% - 18px);
+  white-space: nowrap;
+  width: calc(100.00% - 85px);
+}
+
+.medose-join-now-menu-page .flat-15-offextra-30-cashback-AwXtS8 {
+  background-color: transparent;
+  bottom: 14px;
+  height: 62px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.medose-join-now-menu-page .rectangle-180-AwXtS8 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  bottom: 28px;
+  box-shadow: 0px 10px 6px #00000029;
+  height: 36px;
+  position: absolute;
+  right: 10px;
+  width: 120px;
+}
+
+.medose-join-now-menu-page .add-AwXtS8 {
+  background-color: transparent;
+  bottom: calc(20.48% - 5px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 53px;
+  text-align: left;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.medose-join-now-menu-page .x490-AwXtS8 {
+  background-color: transparent;
+  height: 25px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 13px;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.medose-join-now-menu-page .x500-off-AwXtS8 {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 13px;
+  text-align: left;
+  top: calc(21.69% - 5px);
+  white-space: nowrap;
+  width: 66px;
+}
+
+.medose-join-now-menu-page .group-58-C61RwL {
+  background-color: transparent;
+  height: 188px;
+  left: 12px;
+  position: absolute;
+  top: 950px;
+  width: 404px;
+}
+
+.medose-join-now-menu-page .rectangle-179-GZmYSZ {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 15px;
+  box-shadow: 0px 15px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medose-join-now-menu-page .lab-valid-for-6-months-GZmYSZ {
+  background-color: transparent;
+  height: 48px;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.medose-join-now-menu-page .span0-If2Mqm {
+}
+
+.medose-join-now-menu-page .span1-If2Mqm {
+}
+
+.medose-join-now-menu-page .all-the-tests-you-ne-GZmYSZ {
+  background-color: transparent;
+  height: 42px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(41.78% - 18px);
+  white-space: nowrap;
+  width: calc(100.00% - 39px);
+}
+
+.medose-join-now-menu-page .flat-5-offextra-10-cashback-GZmYSZ {
+  background-color: transparent;
+  bottom: 14px;
+  height: 62px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 140px;
+}
+
+.medose-join-now-menu-page .rectangle-180-GZmYSZ {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  bottom: 28px;
+  box-shadow: 0px 10px 6px #00000029;
+  height: 36px;
+  position: absolute;
+  right: 10px;
+  width: 120px;
+}
+
+.medose-join-now-menu-page .add-GZmYSZ {
+  background-color: transparent;
+  bottom: calc(20.48% - 5px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 53px;
+  text-align: left;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.medose-join-now-menu-page .x990-GZmYSZ {
+  background-color: transparent;
+  height: 25px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.medose-join-now-menu-page .x500-off-GZmYSZ {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 13px;
+  text-align: left;
+  top: calc(21.69% - 5px);
+  white-space: nowrap;
+  width: 66px;
+}
+
+.medose-join-now-menu-page .benefits-of-medose-plus-membership-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1154px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .scroll-group-7-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.medose-join-now-menu-page .scroll-group-7-C61RwL {
+  background-color: transparent;
+  height: 154px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 1192px;
+  width: 428px;
+}
+
+.medose-join-now-menu-page .group-59-eaQZrj {
+  background-color: transparent;
+  height: 154px;
+  left: 9px;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.medose-join-now-menu-page .rectangle-181-ZpZQzV {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  box-shadow: 0px 10px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medose-join-now-menu-page .premiumcustomersupport-ZpZQzV {
+  background-color: transparent;
+  bottom: 12px;
+  height: 61px;
+  left: calc(48.89% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.medose-join-now-menu-page .icon-feather-headphones-ZpZQzV {
+  background-color: transparent;
+  height: 27px;
+  left: calc(40.46% - 11px);
+  position: absolute;
+  top: calc(18.50% - 5px);
+  width: 27px;
+}
+
+.medose-join-now-menu-page .path-249-eDaPEL {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.medose-join-now-menu-page .path-250-eDaPEL {
+  background-color: transparent;
+  bottom: -1px;
+  height: 12px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+
+.medose-join-now-menu-page .group-60-eaQZrj {
+  background-color: transparent;
+  height: 154px;
+  left: 140px;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.medose-join-now-menu-page .rectangle-181-Cdu9r6 {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  box-shadow: 0px 10px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medose-join-now-menu-page .highspeeddelivery-Cdu9r6 {
+  background-color: transparent;
+  bottom: 12px;
+  height: 61px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(46.55% - 26px);
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.medose-join-now-menu-page .icon-awesome-shuttle-van-Cdu9r6 {
+  background-color: transparent;
+  height: 32px;
+  left: calc(36.47% - 16px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(19.80% - 6px);
+  width: 45px;
+}
+
+.medose-join-now-menu-page .group-61-eaQZrj {
+  background-color: transparent;
+  height: 154px;
+  left: 271px;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.medose-join-now-menu-page .rectangle-181-ZrDeds {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  box-shadow: 0px 10px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medose-join-now-menu-page .connectfasterwith-yourdoctors-ZrDeds {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: 2px;
+  height: 81px;
+  left: calc(44.00% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.medose-join-now-menu-page .icon-material-toys-ZrDeds {
+  background-color: transparent;
+  height: 34px;
+  left: calc(44.94% - 15px);
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 34px;
+}
+
+.medose-join-now-menu-page .group-62-eaQZrj {
+  background-color: transparent;
+  height: 154px;
+  left: 404px;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.medose-join-now-menu-page .rectangle-181-A2E3H4 {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  box-shadow: 0px 10px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medose-join-now-menu-page .priorityorder-processing-A2E3H4 {
+  background-color: transparent;
+  bottom: calc(24.19% - 15px);
+  height: 61px;
+  left: calc(44.90% - 29px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.medose-join-now-menu-page .icon-feather-star-A2E3H4 {
+  background-color: transparent;
+  height: 31px;
+  left: calc(35.19% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(24.08% - 7px);
+  width: 32px;
+}
+
+.medose-join-now-menu-page .top-menu-C61RwL {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 428px;
+}
+
+.medose-join-now-menu-page .rectangle-182-toOMtE {
+  background-color: var(--white);
+  box-shadow: 0px 15px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.medose-join-now-menu-page .medose-toOMtE {
+  background-color: transparent;
+  bottom: calc(40.38% - 12px);
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 30px;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.medose-join-now-menu-page .icon-feather-arrow-left-toOMtE {
+  background-color: transparent;
+  bottom: calc(49.18% - 10px);
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  width: 21px;
+}
+
+.medose-join-now-menu-page .path-251-6BTH53 {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.medose-join-now-menu-page .path-252-6BTH53 {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.medose-join-now-menu-page .frequently-asked-questions-C61RwL {
+  background-color: transparent;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1390px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .how-do-i-subscribe-t-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1431px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .span0-AxN2Gw {
+}
+
+.medose-join-now-menu-page .span1-AxN2Gw {
+}
+
+.medose-join-now-menu-page .span2-AxN2Gw {
+}
+
+.medose-join-now-menu-page .span3-AxN2Gw {
+}
+
+.medose-join-now-menu-page .span4-AxN2Gw {
+}
+
+.medose-join-now-menu-page .span5-AxN2Gw {
+}
+
+.medose-join-now-menu-page .how-do-i-subscribe-t-VMr6Om {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1762px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .span0-0Lv7WQ {
+}
+
+.medose-join-now-menu-page .span1-0Lv7WQ {
+}
+
+.medose-join-now-menu-page .span2-0Lv7WQ {
+}
+
+.medose-join-now-menu-page .span3-0Lv7WQ {
+}
+
+.medose-join-now-menu-page .span4-0Lv7WQ {
+}
+
+.medose-join-now-menu-page .span5-0Lv7WQ {
+}
+
+.medose-join-now-menu-page .how-do-i-subscribe-t-mzXdH9 {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .span0-1DjcAx {
+}
+
+.medose-join-now-menu-page .span1-1DjcAx {
+}
+
+.medose-join-now-menu-page .span2-1DjcAx {
+}
+
+.medose-join-now-menu-page .span3-1DjcAx {
+}
+
+.medose-join-now-menu-page .span4-1DjcAx {
+}
+
+.medose-join-now-menu-page .span5-1DjcAx {
+}
+
+.medose-join-now-menu-page .rectangle-183-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 8px 6px #a1a1a1;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 2454px;
+  width: 428px;
+}
+
+.medose-join-now-menu-page .contact-support-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2460px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .for-any-queries-or-s-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2490px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.medose-join-now-menu-page .span0-fzgx5K {
+}
+
+.medose-join-now-menu-page .span1-fzgx5K {
+}
+
+.medose-join-now-menu-page .span2-fzgx5K {
+}
+
+.medose-join-now-menu-page .span3-fzgx5K {
+}
+
+.medose-join-now-menu-page .terms-conditions-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2564px;
+  white-space: nowrap;
+  width: auto;
+}

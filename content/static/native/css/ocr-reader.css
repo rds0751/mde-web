@@ -1,0 +1,245 @@
+/* screen - ocr-reader */
+
+.ocr-reader {
+  background-color: var(--white);
+  height: 737px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.ocr-reader .group-73-C61RwL {
+  background-color: transparent;
+  height: 152px;
+  left: 23px;
+  position: absolute;
+  top: 237px;
+  width: 177px;
+}
+
+.ocr-reader .icon-feather-plus-circle-ql7mN0 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.ocr-reader .path-262-KIkpFN {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.ocr-reader .path-263-KIkpFN {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.ocr-reader .path-264-KIkpFN {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.ocr-reader .icon-feather-plus-circle-JbI7ny {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 10px);
+  width: 20px;
+}
+
+.ocr-reader .path-262-7skAcq {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.ocr-reader .path-263-7skAcq {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.ocr-reader .path-264-7skAcq {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.ocr-reader .icon-feather-plus-circle-2yzgXK {
+  background-color: transparent;
+  bottom: 2px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  width: 20px;
+}
+
+.ocr-reader .path-262-MH3VvB {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.ocr-reader .path-263-MH3VvB {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.ocr-reader .path-264-MH3VvB {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.ocr-reader .add-documents-ql7mN0 {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 130px;
+}
+
+.ocr-reader .add-image-ql7mN0 {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: calc(46.83% - 12px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(46.59% - 41px);
+  text-align: left;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.ocr-reader .add-text-ql7mN0 {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  bottom: -5px;
+  height: 26px;
+  left: calc(44.34% - 31px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.ocr-reader .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 25px;
+  position: absolute;
+  top: 29px;
+  width: 21px;
+}
+
+.ocr-reader .path-265-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.ocr-reader .path-266-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.ocr-reader .ocr-reader-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 164px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ocr-reader .ocr-stands-for-optic-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 76px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ocr-reader .span0-EZblIx {
+}
+
+.ocr-reader .span1-EZblIx {
+}
+
+.ocr-reader .span2-EZblIx {
+}

@@ -1,0 +1,378 @@
+/* screen - my-record */
+
+.my-record {
+  background-color: var(--white);
+  height: 737px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.my-record .icon-feather-arrow-left-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 30px;
+  width: 21px;
+}
+
+.my-record .path-257-d9Ofuj {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-record .path-258-d9Ofuj {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.my-record .my-r-ecords-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 171px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-record .icon-feather-plus-circle-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 22px;
+  position: absolute;
+  top: 158px;
+  width: 20px;
+}
+
+.my-record .path-259-WTLb2b {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.my-record .path-260-WTLb2b {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.my-record .path-261-WTLb2b {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.my-record .icon-feather-plus-circle-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 22px;
+  position: absolute;
+  top: 111px;
+  width: 20px;
+}
+
+.my-record .path-259-Oc7JCx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.my-record .path-260-Oc7JCx {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.my-record .path-261-Oc7JCx {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.my-record .icon-feather-plus-circle-mzXdH9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 22px;
+  position: absolute;
+  top: 200px;
+  width: 20px;
+}
+
+.my-record .path-259-KxDAAl {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.my-record .path-260-KxDAAl {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.my-record .path-261-KxDAAl {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.my-record .icon-feather-plus-circle-QxM5SU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 22px;
+  position: absolute;
+  top: 246px;
+  width: 20px;
+}
+
+.my-record .path-259-tDhWZx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.my-record .path-260-tDhWZx {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.my-record .path-261-tDhWZx {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.my-record .icon-feather-plus-circle-2P4qUJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 22px;
+  position: absolute;
+  top: 210px;
+  width: 20px;
+}
+
+.my-record .path-259-qnsbfB {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.my-record .path-260-qnsbfB {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.my-record .path-261-qnsbfB {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.my-record .icon-feather-plus-circle-qr8e7q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 22px;
+  position: absolute;
+  top: 263px;
+  width: 20px;
+}
+
+.my-record .path-259-ZeqUPQ {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+
+.my-record .path-260-ZeqUPQ {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: calc(50.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.my-record .path-261-ZeqUPQ {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% - 6px);
+}
+
+.my-record .prescription-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 116px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-record .upload-new-prescriptions-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 164px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-record .ocr-reader-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 206px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-record .notification-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 252px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-record .lab-test-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-record .medical-bills-C61RwL {
+  -webkit-text-stroke: 1px transparent;
+  background-color: transparent;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 270px;
+  white-space: nowrap;
+  width: auto;
+}

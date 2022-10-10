@@ -1,0 +1,316 @@
+/* screen - my-rewards */
+
+.my-rewards {
+  background-color: var(--white);
+  height: 736px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.my-rewards .rewards-C61RwL {
+  background-color: transparent;
+  color: #292828;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  text-align: left;
+  top: 92px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-rewards .group-17-C61RwL {
+  background-color: transparent;
+  height: 109px;
+  left: 22px;
+  position: absolute;
+  top: 134px;
+  width: 384px;
+}
+
+.my-rewards .rectangle-96-B2GfxI {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.my-rewards .total-earned-B2GfxI {
+  background-color: transparent;
+  height: 23px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  text-align: left;
+  top: calc(48.84% - 11px);
+  white-space: nowrap;
+  width: 106px;
+}
+
+.my-rewards .earned-B2GfxI {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  right: calc(25.77% - 15px);
+  text-align: left;
+  top: calc(48.84% - 11px);
+  white-space: nowrap;
+  width: 58px;
+}
+
+.my-rewards .x0-B2GfxI {
+  background-color: transparent;
+  bottom: calc(11.45% - 3px);
+  height: 26px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.my-rewards .x0-9J81u5 {
+  background-color: transparent;
+  bottom: calc(11.45% - 3px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  right: calc(33.96% - 4px);
+  text-align: left;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.my-rewards .path-95-B2GfxI {
+  background-color: transparent;
+  bottom: calc(47.17% - 26px);
+  height: 56px;
+  left: calc(47.38% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.my-rewards .group-74-C61RwL {
+  background-color: transparent;
+  height: 109px;
+  left: 22px;
+  position: absolute;
+  top: 274px;
+  width: 384px;
+}
+
+.my-rewards .rectangle-96-aCi14x {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.my-rewards .rewards-aCi14x {
+  background-color: transparent;
+  height: 23px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  text-align: left;
+  top: calc(48.84% - 11px);
+  white-space: nowrap;
+  width: 72px;
+}
+
+.my-rewards .earned-aCi14x {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  right: calc(25.77% - 15px);
+  text-align: left;
+  top: calc(48.84% - 11px);
+  white-space: nowrap;
+  width: 58px;
+}
+
+.my-rewards .x0-aCi14x {
+  background-color: transparent;
+  bottom: calc(11.45% - 3px);
+  height: 26px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.my-rewards .x0-WmBbKx {
+  background-color: transparent;
+  bottom: calc(11.45% - 3px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  right: calc(33.96% - 4px);
+  text-align: left;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.my-rewards .path-95-aCi14x {
+  background-color: transparent;
+  bottom: calc(47.17% - 26px);
+  height: 56px;
+  left: calc(47.38% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.my-rewards .group-20-C61RwL {
+  background-color: transparent;
+  height: 247px;
+  left: 64px;
+  position: absolute;
+  top: 434px;
+  width: 312px;
+}
+
+.my-rewards .upload-earn-rewards-IE4p6q {
+  background-color: transparent;
+  bottom: calc(35.51% - 12px);
+  color: var(--chicago);
+  font-family: var(--font-family-poppins);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  height: 33px;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 1px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 46px);
+}
+
+.my-rewards .add-a-prescription-n-IE4p6q {
+  background-color: transparent;
+  bottom: 37px;
+  color: var(--chicago);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 52px;
+  left: 0px;
+  letter-spacing: 0.28px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.my-rewards .add-new-IE4p6q {
+  background-color: transparent;
+  bottom: -3px;
+  color: var(--royal-heath);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 23px;
+  left: calc(50.00% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.my-rewards .free-trade-IE4p6q {
+  background-color: transparent;
+  height: 110px;
+  left: calc(49.50% - 54px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 110px;
+}
+
+.my-rewards .group-18-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 23px;
+  position: absolute;
+  top: 32px;
+  width: 21px;
+}
+
+.my-rewards .icon-feather-arrow-left-0xverS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.my-rewards .path-106-OLkvt6 {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+
+.my-rewards .path-107-OLkvt6 {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+
+.my-rewards .falling-golden-coins-C61RwL {
+  background-color: transparent;
+  height: 189px;
+  left: 239px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 189px;
+}
