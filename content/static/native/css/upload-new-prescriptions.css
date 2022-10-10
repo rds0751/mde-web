@@ -141,7 +141,7 @@
 }
 .inputbox-uplode1{
   margin-top: 100px;
-  margin-left: 100px;
+  margin-left: 60px;
   width: 60%;
   border-radius: 20px;
   border-color: #e2e2e2;
@@ -151,7 +151,7 @@
   -webkit-text-stroke: 1px transparent;
   background-color:white;
   height: auto;
-  left: 98px;
+  left: 60px;
   letter-spacing: 0.00px;
   line-height: 18px;
   position: absolute;

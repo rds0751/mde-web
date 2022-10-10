@@ -45,6 +45,9 @@
 .container-center-horizontal > * {
   flex-shrink: 0;
   pointer-events: auto;
+  margin-left: 30%;
+
+  
 }
 
 .auto-animated div {
