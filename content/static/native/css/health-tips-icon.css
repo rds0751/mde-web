@@ -1030,15 +1030,12 @@
     position: fixed;
     top: 88%;
     width: 434px;
-    margin-left: -0.7%;
+    margin-left: 2%;
     
     
   }
 
-  .health-tips-icon .screen{
-    margin-left: 50%;
-  }
-
+ 
 
 }
 
@@ -1054,7 +1051,7 @@
     left: -4%;
     position: fixed;
     top: 88%;
-    width: 464px;
+    width: 444px;
     
     
     
@@ -1075,8 +1072,8 @@
     left: -4%;
     position: fixed;
     top: 88%;
-    width: 464px;
-    margin-left: 2.5%;
+    width: 450px;
+    margin-left: 1.5%;
     
     
   }
