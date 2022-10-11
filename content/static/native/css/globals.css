@@ -84,3 +84,38 @@
 * {
   box-sizing: border-box;
 }
+
+
+@media (max-width:376px) and (min-width:321px) {
+
+
+
+  .container-center-horizontal > * {
+
+  
+    flex-shrink: 0;
+    pointer-events: auto;
+    margin-left: 7%;
+    
+    
+  }
+
+
+}
+
+@media (max-width:426px) and (min-width:376px) {
+
+
+
+  .container-center-horizontal > *{
+
+    
+    flex-shrink: 0;
+    pointer-events: auto;
+    margin-left: 0%;
+    
+    
+  }
+
+
+}

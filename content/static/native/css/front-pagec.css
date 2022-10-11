@@ -1,13 +1,13 @@
 /* screen - front-pagec */
 
-.front-pagec {
+/* .front-pagec {
   background-color: var(--white);
   height: 4252px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
   width: 428px;
-}
+} */
 
 .front-pagec .status-bar-C61RwL {
   background-color: transparent;
@@ -3848,3 +3848,71 @@
   top: 0px;
   width: 100%;
 }
+
+
+
+
+@media (max-width:320px) {
+
+
+
+  .front-pagec .menu-button-C61RwL {
+
+    background-color: transparent;
+    height: 180px;
+    left: -4%;
+    position: fixed;
+    top: 88%;
+    width: 434px;
+    margin-left: 3%;
+    
+    
+  }
+
+
+}
+
+@media (max-width:376px) and (min-width:321px) {
+
+
+
+  .front-pagec .menu-button-C61RwL {
+
+    
+    background-color: transparent;
+    height: 180px;
+    left: -4%;
+    position: fixed;
+    top: 88%;
+    width: 464px;
+    
+    
+    
+  }
+
+
+}
+
+@media (max-width:426px) and (min-width:376px) {
+
+
+
+  .front-pagec .menu-button-C61RwL {
+
+    
+    background-color: transparent;
+    height: 180px;
+    left: -4%;
+    position: fixed;
+    top: 88%;
+    width: 464px;
+    /* margin-left: 4%; */
+    
+    
+  }
+ .union-2-MaUEMx{
+  position: fixed;
+ }
+
+}
+
