@@ -1,13 +1,15 @@
 /* screen - front-pagec */
 
-.front-pagec {
+/* .front-pagec {
   background-color: var(--white);
   height: 4252px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
   width: 428px;
-}
+  
+} */
+
 
 .front-pagec .status-bar-C61RwL {
   background-color: transparent;
@@ -3848,3 +3850,4 @@
   top: 0px;
   width: 100%;
 }
+

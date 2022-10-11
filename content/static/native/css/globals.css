@@ -47,7 +47,13 @@
   pointer-events: auto;
   margin-left: 30%;
 }
-
+@media(max-with:375){
+  .container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+    margin-left: 30%;
+  }
+}
 .auto-animated div {
   --z-index: -1;
   opacity: 0;
