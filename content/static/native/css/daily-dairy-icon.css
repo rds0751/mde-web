@@ -1995,7 +1995,7 @@
 .daily-dairy-icon .me-MaUEMx {
   --z-index: 6;
   background-color: transparent;
-  background-image: url(../img/me@1x.png);
+  /* background-image: url(../img/me@1x.png); */
   background-size: 100% 100%;
   cursor: pointer;
   height: 76px;
