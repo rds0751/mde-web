@@ -7,8 +7,13 @@
   overflow-x: hidden;
   position: relative;
   width: 428px;
+<<<<<<< HEAD
 /* width: 100%; */
 }
+=======
+ 
+} */
+>>>>>>> b4139b613c3ed7c224c4cb696b39541b145afa1f
 
 .front-pagec .status-bar-C61RwL {
   background-color: transparent;
@@ -2148,6 +2153,13 @@
   width: 103px;
 }
 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> b4139b613c3ed7c224c4cb696b39541b145afa1f
 .front-pagec .diabetes-HcVIFx {
   background-color: transparent;
   border-radius: 25px 25px 0px 0px;
@@ -2207,6 +2219,11 @@
 }
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> b4139b613c3ed7c224c4cb696b39541b145afa1f
 
 .front-pagec .diabetes-9iHM3D {
   background-color: transparent;
@@ -2300,6 +2317,10 @@
   width: 73px;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b4139b613c3ed7c224c4cb696b39541b145afa1f
 
 .front-pagec .diabetes-WX17Lw {
   background-color: transparent;
@@ -3765,7 +3786,7 @@
 .front-pagec .icon-metro-menu-u5cdSS {
   background-color: transparent;
   height: 16px;
-  left: 2px;
+  left: -6px;
   object-fit: cover;
   position: absolute;
   top: 1px;
@@ -3776,7 +3797,7 @@
   background-color: transparent;
   bottom: -4px;
   height: 17px;
-  left: 0px;
+  left: -10px;
   letter-spacing: 0.00px;
   line-height: 10px;
   position: absolute;
@@ -3824,3 +3845,75 @@
   top: 0px;
   width: 100%;
 }
+<<<<<<< HEAD
+=======
+
+
+
+
+@media (max-width:320px) {
+
+
+
+  .front-pagec .menu-button-C61RwL {
+
+    background-color: transparent;
+    height: 180px;
+    left: -7%;
+    position: fixed;
+    top: 88%;
+    width: 434px;
+    margin-left: 7.5%;
+    
+    
+  }
+
+
+}
+
+@media (max-width:376px) and (min-width:321px) {
+
+
+
+  .front-pagec .menu-button-C61RwL {
+
+    
+    background-color: transparent;
+    height: 180px;
+    left: -3%;
+    position: fixed;
+    top: 88%;
+    width: 464px;
+    
+    
+    
+    
+  }
+
+
+}
+
+@media (max-width:426px) and (min-width:376px) {
+
+
+
+  .front-pagec .menu-button-C61RwL {
+
+    
+    background-color: transparent;
+    height: 180px;
+    left: -2%;
+    position: fixed;
+    top: 88%;
+    width: 464px;
+    /* margin-left: 4%; */
+    
+    
+  }
+
+
+}
+
+
+
+>>>>>>> b4139b613c3ed7c224c4cb696b39541b145afa1f

@@ -123,9 +123,13 @@
     flex-shrink: 0;
     pointer-events: auto;
     margin-left: 0%;
+<<<<<<< HEAD
     /* position: fixed; */
     width: 100%;
     
+=======
+   
+>>>>>>> b4139b613c3ed7c224c4cb696b39541b145afa1f
     
   }
 
@@ -143,8 +147,14 @@
     flex-shrink: 0;
     pointer-events: auto;
     margin-left: 4%;
+<<<<<<< HEAD
     /* position: fixed; */
     /* width: 100%; */
+=======
+    
+    
+
+>>>>>>> b4139b613c3ed7c224c4cb696b39541b145afa1f
     
     
   }
@@ -170,6 +180,7 @@
 }
 
 
+<<<<<<< HEAD
 
 
 
@@ -197,3 +208,5 @@
 
 
 }
+=======
+>>>>>>> b4139b613c3ed7c224c4cb696b39541b145afa1f

@@ -1,14 +1,6 @@
 /* screen - daily-dairy-icon */
 
-/* .daily-dairy-icon {
-  background-color: #ffffff;
-  height: 1145px;
-  opacity: 1;
-  overflow: hidden;
-  overflow-x: hidden;
-  position: relative;
-  width: 428px;
-} */
+
 
 .daily-dairy-icon .connect-your-device-C61RwL {
   --z-index: 0;
@@ -1995,7 +1987,7 @@
 .daily-dairy-icon .me-MaUEMx {
   --z-index: 6;
   background-color: transparent;
-  background-image: url(../img/me@1x.png);
+  /* background-image: url(../img/me@1x.png); */
   background-size: 100% 100%;
   cursor: pointer;
   height: 76px;
@@ -2867,7 +2859,7 @@
 .medicine-reminder .me-MaUEMx {
   --z-index: 6;
   background-color: transparent;
-  background-image: url(../img/me@1x.png);
+  /* background-image: url(../img/me@1x.png); */
   background-size: 100% 100%;
   cursor: pointer;
   height: 76px;
