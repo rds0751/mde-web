@@ -40,18 +40,21 @@
   justify-content: center;
   pointer-events: none;
   width: 100%;
+  margin-left: 2%;
 }
 
 .container-center-horizontal > * {
   flex-shrink: 0;
   pointer-events: auto;
   margin-left: 30%;
+  
 }
 @media(max-with:375){
   .container-center-horizontal > * {
     flex-shrink: 0;
     pointer-events: auto;
     margin-left: 30%;
+    
   }
 }
 .auto-animated div {
@@ -89,4 +92,108 @@
 
 * {
   box-sizing: border-box;
+}
+
+
+@media (max-width:376px) and (min-width:321px) {
+
+
+
+  .container-center-horizontal > * {
+
+  
+    flex-shrink: 0;
+    pointer-events: auto;
+    margin-left: 7%;
+    /* width: 100%; */
+    /* position: fixed; */
+    
+  }
+
+
+}
+
+@media (max-width:426px) and (min-width:376px) {
+
+
+
+  .container-center-horizontal > *{
+
+    
+    flex-shrink: 0;
+    pointer-events: auto;
+    margin-left: 0%;
+    /* position: fixed; */
+    width: 100%;
+    
+    
+  }
+
+
+}
+
+@media (max-width:376px) and (min-width:321px) {
+
+
+
+  .container-center-horizontal {
+
+    
+ 
+    flex-shrink: 0;
+    pointer-events: auto;
+    margin-left: 4%;
+    /* position: fixed; */
+    /* width: 100%; */
+    
+    
+  }
+
+
+}
+
+@media (max-width:426px) and (min-width:376px) {
+
+
+
+  .container-center-horizontal {
+
+    
+    flex-shrink: 0;
+    pointer-events: auto;
+    margin-left: 0%;
+    
+    
+  }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width:320px)  {
+
+
+
+  .container-center-horizontal {
+
+    
+ 
+    flex-shrink: 0;
+    pointer-events: auto;
+    margin-left: 4%;
+    width: 100%;
+    /* position: fixed; */
+    
+    
+  }
+
+
 }

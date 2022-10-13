@@ -247,3 +247,12 @@ def medicine_page(request):
 
 def subscription_page(request):
     return render(request, 'native/subscription-page.html')
+
+
+
+
+
+
+
+
+

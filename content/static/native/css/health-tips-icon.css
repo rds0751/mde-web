@@ -1013,3 +1013,70 @@
   top: -6px;
   width: 76px;
 }
+
+
+
+
+
+@media (max-width:320px) {
+
+
+
+  .health-tips-icon .menu-button-C61RwL {
+
+    background-color: transparent;
+    height: 180px;
+    left: -4%;
+    position: fixed;
+    top: 88%;
+    width: 434px;
+    margin-left: 2%;
+    
+    
+  }
+
+ 
+
+}
+
+@media (max-width:376px) and (min-width:321px) {
+
+
+
+  .health-tips-icon .menu-button-C61RwL {
+
+    
+    background-color: transparent;
+    height: 180px;
+    left: -4%;
+    position: fixed;
+    top: 88%;
+    width: 444px;
+    
+    
+    
+  }
+
+
+}
+
+@media (max-width:426px) and (min-width:376px) {
+
+
+
+  .health-tips-icon .menu-button-C61RwL {
+
+    
+    background-color: transparent;
+    height: 180px;
+    left: -4%;
+    position: fixed;
+    top: 88%;
+    width: 450px;
+    margin-left: 1.5%;
+    
+    
+  }
+
+
+}
