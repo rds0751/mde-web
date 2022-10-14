@@ -692,8 +692,7 @@
 @media screen and (max-width: 426px) and (min-width:376px) {
   .ME-page-zoom{
 
-    zoom:100%;
-    margin-left: -0%;
+    zoom: 90%;
 
   }
 } 
