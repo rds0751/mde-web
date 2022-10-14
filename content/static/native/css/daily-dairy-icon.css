@@ -2938,3 +2938,27 @@
 
 
 }
+
+
+.diary-page-zoom{
+  zoom:70%;
+  
+}
+
+
+@media screen and (max-width: 376px) and (min-width:321px) {
+  .diary-page-zoom{
+
+    zoom: 82%;
+   
+
+  }
+}
+
+@media screen and (max-width: 426px) and (min-width:376px) {
+  .diary-page-zoom{
+
+    zoom:90%;
+  
+  }
+}

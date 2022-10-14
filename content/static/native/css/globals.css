@@ -46,7 +46,8 @@
 .container-center-horizontal > * {
   flex-shrink: 0;
   pointer-events: auto;
-  margin-left: 30%;
+  margin-left: 55%;
+  /* width:100% */
 }
 
 .auto-animated div {
@@ -97,6 +98,7 @@
     flex-shrink: 0;
     pointer-events: auto;
     margin-left: 7%;
+    
     
     
   }
@@ -159,20 +161,3 @@
 
 }
 
-.container-center-horizontal-zoom{
-  zoom:75%;
-}
-
-@media screen and (min-width: 321px) and (max-width:376px){
-  .container-center-horizontal-zoom{
-    zoom:90%;
-  
-}
-}
-
-@media screen and (min-width: 376px) and (max-width:426px){
-  .container-center-horizontal-zoom{
-    zoom:100%;
-  
-}
-}

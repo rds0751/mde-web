@@ -15,7 +15,7 @@
   left: 0px;
   position: absolute;
   top: 8px;
-  width: 429px;
+  width: 445px;
 }
 
 .menu-icon-1 .my-profile-C61RwL {
@@ -514,7 +514,7 @@
   left: 0px;
   position: fixed;
   top: -2px;
-  width: 429px;
+  width: 445px;
 
 }
 
@@ -922,7 +922,7 @@
     height: 180px;
     left: -7%;
     position: fixed;
-    top: 88%;
+    top: 87%;
     width: 434px;
     margin-left: 4.5%;
     
@@ -983,7 +983,7 @@
 @media screen and (max-width: 376px) and (min-width:321px) {
   .menu-bar-zoom{
 
-    zoom: 90%;
+    zoom: 85%;
 
   }
 }

@@ -1054,7 +1054,7 @@
     height: 180px;
     left: -1%;
     position: fixed;
-    top: 88%;
+    top: 85%;
     width: 444px;
     
     
@@ -1094,7 +1094,7 @@
 @media screen and (max-width: 376px) and (min-width:321px) {
   .health-tips-zoom{
 
-    zoom: 90%;
+    zoom: 85%;
 
   }
 }
