@@ -675,6 +675,7 @@
 }
 
 
+
 .ME-page-zoom{
   zoom:75%;
   margin-left: -51%;
@@ -694,6 +695,25 @@
 
     zoom:100%;
     margin-left: -0%;
+
+ 
+.plus-page-zoom{
+  zoom: 75%;
+}
+
+
+
+@media screen and (max-width:376px) and (min-width:321px){
+  .plus-page-zoom{
+    zoom: 90%;
+    display: none;
+  }
+}
+ 
+
+@media screen and (max-width:426px) and (min-width:376px){
+  .plus-page-zoom{
+    zoom: 100%;
 
   }
 } 
