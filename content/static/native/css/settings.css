@@ -136,6 +136,7 @@
   text-align: left;
   white-space: nowrap;
   width: 380px;
+  color: var(--star-dust);
 }
 
 .settings .path-174-Bbzrio {
@@ -302,6 +303,7 @@
   text-align: left;
   white-space: nowrap;
   width: 380px;
+  color:var(--star-dust) ;
 }
 /* main*/
 

@@ -273,6 +273,7 @@ padding-left: 12px;
 border-color:  #D3D3D3;;
 border-radius: 13px;
 width: 300px;
+color: var(--star-dust);
 }
 .doname1{
   height: 100px;
