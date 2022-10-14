@@ -3156,6 +3156,7 @@
   width: 7px;
 }
 
+
 .front-pagec .search-for-doctors-IRQRJS {
   background-color: transparent;
   bottom: calc(21.43% - 5px);
@@ -3890,7 +3891,7 @@
     position: fixed;
     top: 88%;
     width: 464px;
-    /* margin-left: 4%; */
+    
     
     
   }
@@ -3898,6 +3899,22 @@
 
 }
 
+.front-page-zoom{
+  zoom: 75%;
+  
+}
 
+@media screen and (max-width:376px) and (min-width:321px){
+  .front-page-zoom{
+    zoom: 90%;
+  
+ 
+  }
+}
+ 
 
-
+@media screen and (max-width:426px) and (min-width:376px){
+  .front-page-zoom{
+    zoom: 100%;
+  }
+}
