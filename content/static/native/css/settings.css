@@ -136,6 +136,7 @@
   text-align: left;
   white-space: nowrap;
   width: 380px;
+  color: var(--star-dust);
 }
 
 .settings .path-174-Bbzrio {
@@ -177,11 +178,13 @@
   right: 0px;
   top: 0px;
   width: 100px;
+  outline: 0cm;
   
 }
 .Option-1{
   border-color: var(--bon-jour);
   border-radius: 20px;
+  outline: 0cm;
 }
 
 .settings .rectangle-135-HRZngh {
@@ -300,6 +303,7 @@
   text-align: left;
   white-space: nowrap;
   width: 380px;
+  color:var(--star-dust) ;
 }
 /* main*/
 
