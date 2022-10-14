@@ -159,4 +159,20 @@
 
 }
 
+.container-center-horizontal-zoom{
+  zoom:75%;
+}
 
+@media screen and (min-width: 321px) and (max-width:376px){
+  .container-center-horizontal-zoom{
+    zoom:90%;
+  
+}
+}
+
+@media screen and (min-width: 376px) and (max-width:426px){
+  .container-center-horizontal-zoom{
+    zoom:100%;
+  
+}
+}
