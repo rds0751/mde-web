@@ -1026,7 +1026,11 @@
 
     background-color: transparent;
     height: 180px;
+
+    left: -6.5%;
+
     left: -2%;
+
     position: fixed;
     top: 88%;
     width: 434px;
@@ -1069,7 +1073,7 @@
     
     background-color: transparent;
     height: 180px;
-    left: -4%;
+    left: -2%;
     position: fixed;
     top: 88%;
     width: 450px;

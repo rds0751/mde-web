@@ -920,7 +920,7 @@
 
     background-color: transparent;
     height: 180px;
-    left: -4%;
+    left: -7%;
     position: fixed;
     top: 88%;
     width: 434px;
@@ -941,7 +941,7 @@
     
     background-color: transparent;
     height: 180px;
-    left: -4%;
+    left: -6%;
     position: fixed;
     top: 88%;
     width: 464px;
@@ -962,7 +962,7 @@
     
     background-color: transparent;
     height: 180px;
-    left: -4%;
+    left: -6%;
     position: fixed;
     top: 88%;
     width: 464px;
@@ -974,3 +974,24 @@
 
 }
 
+
+.menu-bar-zoom{
+  zoom:75%;
+}
+
+
+@media screen and (max-width: 376px) and (min-width:321px) {
+  .menu-bar-zoom{
+
+    zoom: 90%;
+
+  }
+}
+
+@media screen and (max-width: 426px) and (min-width:376px) {
+  .menu-bar-zoom{
+
+    zoom:100%;
+
+  }
+}
