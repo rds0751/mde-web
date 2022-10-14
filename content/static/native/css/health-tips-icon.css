@@ -1026,7 +1026,11 @@
 
     background-color: transparent;
     height: 180px;
+
     left: -6.5%;
+
+    left: -2%;
+
     position: fixed;
     top: 88%;
     width: 434px;
@@ -1082,3 +1086,23 @@
 }
 
 
+.health-tips-zoom{
+  zoom:75%;
+}
+
+
+@media screen and (max-width: 376px) and (min-width:321px) {
+  .health-tips-zoom{
+
+    zoom: 90%;
+
+  }
+}
+
+@media screen and (max-width: 426px) and (min-width:376px) {
+  .health-tips-zoom{
+
+    zoom:100%;
+
+  }
+} 
