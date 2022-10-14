@@ -253,7 +253,11 @@
   position: absolute;
   top: 497px;
   width: 70px;
+
+  color: var(--star-dust);
+
   color:  var(--star-dust);
+
 }
 
 .my-profile .rectangle-92-C61RwL {
