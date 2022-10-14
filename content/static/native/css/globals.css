@@ -32,6 +32,7 @@
 .screen a {
   display: contents;
   text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .container-center-horizontal {
