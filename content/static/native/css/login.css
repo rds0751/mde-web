@@ -223,17 +223,22 @@
 }
 
 
-/* .login-page-zoom{
+.login-page-zoom{
+
   zoom:75%;
+  margin-left: 10%;
+  max-width: 60%;
+
   
 
-} */
+}
 
-/* 
+
 @media screen and (max-width: 376px) and (min-width:321px) {
   .login-page-zoom{
 
     zoom: 90%;
+    margin-left: 15%;
     
   }
 }
@@ -242,6 +247,6 @@
   .login-page-zoom{
 
     zoom: 100%;
-
+    margin-left: 20%;
   }
-} */
+}
