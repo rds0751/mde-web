@@ -922,7 +922,7 @@
     height: 180px;
     left: -7%;
     position: fixed;
-    top: 87%;
+    top: 90%;
     width: 434px;
     margin-left: 4.5%;
     
@@ -976,7 +976,8 @@
 
 
 .menu-bar-zoom{
-  zoom:75%;
+  zoom:73%;
+
 }
 
 
