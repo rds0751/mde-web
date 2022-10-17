@@ -37,7 +37,7 @@ def signin(request):
                     request.session['useremail'] = request.POST['useremail']
                     request.session['phone_number'] = user.phone_number
                     request.session['user_type'] = user.user_type
-                    return redirect('main:dashboard')
+                    return redirect('/app/')
 
         matchcheck = check_password(request.POST['password'],user.password)
         print(request.POST['password'])
@@ -49,7 +49,7 @@ def signin(request):
                 request.session['useremail'] = request.POST['useremail']
                 request.session['phone_number'] = user.phone_number
                 request.session['user_type'] = user.user_type
-                return redirect('main:dashboard')
+                return redirect('/app/')
         return render(request,'auth/login.html',{'message':'Password is not matched with user email !'})
 def signup(request):
     if request.method == "GET":

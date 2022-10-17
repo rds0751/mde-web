@@ -2,6 +2,7 @@ from django.conf.urls import url
 from rest_framework.authtoken.views import obtain_auth_token
 from .views import CreateUserAPIView, LogoutUserAPIView, UserDashboard
 from rest_framework_simplejwt import views as jwt_views
+from native import views as nviews
 
 
 urlpatterns = [
@@ -16,5 +17,5 @@ urlpatterns = [
     url(r'^register/$',
         CreateUserAPIView.as_view(),
         name='auth_user_create'),
-    url(r'^dashboard/$', UserDashboard.as_view(), name ='dashboard'),
+    url(r'^dashboard/$', nviews.index, name ='dashboard'),
 ]

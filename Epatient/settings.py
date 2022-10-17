@@ -123,7 +123,7 @@ EMAIL_PASSWORD = ''
 
 VERIFY_TIME = 500
 
-LOGIN_REDIRECT_URL = 'main:index'
+LOGIN_REDIRECT_URL = '/app/'
 LOGIN_URL = 'accounts:sign_in'
 
 LOGIN_EXEMPT_URLS = (
