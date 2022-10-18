@@ -92,6 +92,4 @@ urlpatterns = [
 
     path('patient-info-user-admin', views.patient_info_user_admin,name='patient_info_user_admin'),
     path('change-password', views.change_password,name='change_password'),
-
-
 ]

@@ -17,6 +17,7 @@ import smtplib
 # Create your views here.
 
 def signin(request):
+    print('xdcfgvbhnjbhvgtcrdeswasecrfvgbhnjbvcrewedrcftgvybhunj')
     if request.method == "GET":
         return render(request,'auth/login.html')
     else:
@@ -37,7 +38,7 @@ def signin(request):
                     request.session['useremail'] = request.POST['useremail']
                     request.session['phone_number'] = user.phone_number
                     request.session['user_type'] = user.user_type
-                    return redirect('/app/')
+                    return redirect('/dashboard')
 
         matchcheck = check_password(request.POST['password'],user.password)
         print(request.POST['password'])
@@ -49,8 +50,9 @@ def signin(request):
                 request.session['useremail'] = request.POST['useremail']
                 request.session['phone_number'] = user.phone_number
                 request.session['user_type'] = user.user_type
-                return redirect('/app/')
+                return redirect('/dashboard')
         return render(request,'auth/login.html',{'message':'Password is not matched with user email !'})
+
 def signup(request):
     if request.method == "GET":
         form = SingupForm()

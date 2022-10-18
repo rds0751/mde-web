@@ -1,6 +1,7 @@
 from django.db import models
 
 from datetime import date
+import random
 
 # Create your models here.
 class User(models.Model):
@@ -32,5 +33,6 @@ class User(models.Model):
     phone_number = models.CharField(max_length = 200 ,null=False,unique=True, default = '')
     verify_code = models.CharField(max_length = 10, null = True)
     verify_time = models.DateTimeField(auto_now=True)
-    is_active = models.BooleanField(default=False)
-
+    is_active = models.BooleanField(default=True)
+    reffered_by = models.CharField(default='none', max_length=10)
+    referral_code = models.CharField(unique=True, default="MED"+str(random.randint(11111,99999)), max_length=10)
