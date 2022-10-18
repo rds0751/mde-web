@@ -132,6 +132,8 @@ VERIFY_TIME = 500
 LOGIN_REDIRECT_URL = '/dashboard'
 LOGIN_URL = 'accounts:sign_in'
 
+LOGOUT_REDIRECT_URL = 'accounts:sign_in'
+
 LOGIN_EXEMPT_URLS = (
     '',
     'sign-in',
