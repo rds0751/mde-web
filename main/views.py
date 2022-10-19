@@ -30,11 +30,11 @@ def dashboard(request):
     user = User.objects.get(useremail = request.session['useremail'])
     request.session['username'] = user.first_name + " "+ user.last_name
     if user.user_type == 'PA':
-        return render(request, 'native/front-pagec.html')
+        return render(request, 'native/front-pagec.html', {'user': user})
     elif user.user_type == 'MD':
-        return render(request, 'main/medical/dashboard.html')
+        return render(request, 'main/medical/dashboard.html', {'user': user})
     elif user.user_type == 'AD':
-        return render(request, 'main/admin/dashboard.html')
+        return render(request, 'main/admin/dashboard.html', {'user': user})
 
 #get incoming appointments for this week
 def incoming_appoint(request):
