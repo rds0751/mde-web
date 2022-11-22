@@ -208,8 +208,8 @@ def past_consultation(request):
     return render(request, 'native/past-consultation.html')
 
 
-# def add_mydoctor(request):
-#     return render(request, 'native/add-mydoctor.html')
+def add_mydoctor(request):
+    return render(request, 'native/add-mydoctor.html')
 
 
 def lab_tests(request):
